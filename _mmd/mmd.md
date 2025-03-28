@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2024-03-28
+date: 2025-03-28
 permalink: /mmd/
 ---
 # ![](https://yt3.googleusercontent.com/TKVlWIivjxLlM-QcZfrhy0lO5c0h15GKKL-luqDXv0pLM8BulcNKFRSm3W-ArU7MPmVhHYQ=s160-c-k-c0x00ffffff-no-rj)[くすり屋](https://www.youtube.com/@kusuriya_)
