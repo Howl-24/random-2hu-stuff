@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-- [MMD](/mmd)
+- [MMD](/random-2hu-stuff/mmd)
