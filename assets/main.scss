@@ -442,10 +442,25 @@
   /**
    * Posts
    */
-  .post-header {
-    margin-bottom: 30px;
+   .post-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   
+  .post-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: -15px;
+  }
+  
+  .post-actions a {
+    margin: 3px 0;
+    font-size: 14px;
+  }
+  
+
   .post-title {
     font-size: 42px;
     letter-spacing: -1px;

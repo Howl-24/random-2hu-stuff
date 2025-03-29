@@ -3,8 +3,15 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <div class="post-header-container">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+
+    <div class="post-actions">
+      <a href="/random-2hu-stuff/assets/mmd.md" download="mmd.md">download markdown</a>
+      <a href="{{ "/feed/mmd.xml" | relative_url }}">subscribe via rss</a>
+    </div>
+  </div>
+
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -24,5 +31,4 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed/mmd.xml" | relative_url }}">via RSS</a></p>
 </article>
