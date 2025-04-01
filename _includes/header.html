@@ -1,0 +1,120 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+
+    <button id="search-button" class="search-button">
+      <i class="nf nf-cod-search"></i>
+    </button>
+
+    <div id="search-modal" class="search-modal">
+      <div class="search-content">
+        <span class="close">&times;</span>
+        <input type="text" id="search-box" placeholder="Search...">
+        <div id="search-results"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("search-button").addEventListener("click", function () {
+      document.getElementById("search-modal").style.display = "block";
+    });
+
+    document.querySelector(".close").addEventListener("click", function () {
+      document.getElementById("search-modal").style.display = "none";
+    });
+
+    // 让点击遮罩层时也能关闭搜索框
+    window.onclick = function (event) {
+      if (event.target == document.getElementById("search-modal")) {
+        document.getElementById("search-modal").style.display = "none";
+      }
+    };
+
+    // 全局变量，保存所有数据
+    var lunrIndex = null;
+    var allData = []; // 确保 allData 在全局定义
+
+    document.addEventListener("DOMContentLoaded", function () {
+      console.log("DOM Loaded, starting fetch...");
+
+      // 定义多个 JSON 文件的 URL
+      const jsonFiles = [
+        '/random-2hu-stuff/index/mmd.json'
+      ];
+
+      // 使用 Promise.all 来同时加载多个文件
+      Promise.all(jsonFiles.map(url =>
+        fetch(url)
+          .then(response => {
+            if (!response.ok) {
+              throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+          })
+          .then(data => {
+            allData = allData.concat(data);  // 合并数据
+          })
+          .catch(error => console.error(`Error loading JSON data from ${url}:`, error))
+      ))
+        .then(() => {
+          // 所有文件都加载完成后，初始化 Lunr.js 索引
+          lunrIndex = lunr(function () {
+
+            this.ref('id');
+            this.field('title');
+            this.field('content');
+
+            // 将所有加载的数据添加到 Lunr 索引
+            allData.forEach(item => {
+              this.add(item);  // 添加每个文档
+            });
+          });
+
+          console.log("Lunr index built with multiple JSON files!");
+        })
+        .catch(error => {
+          console.error('Error with loading one or more JSON files:', error);
+        });
+    });
+
+    // 监听搜索框输入事件
+    document.addEventListener("DOMContentLoaded", function () {
+      var searchBox = document.getElementById('search-box');
+      var resultsContainer = document.getElementById('search-results');
+
+      searchBox.addEventListener('input', function () {
+        var query = searchBox.value.trim();
+
+        // 如果输入框为空，则清空结果并返回
+        if (query === "") {
+          resultsContainer.innerHTML = '';  // 清空结果
+          return;  // 不执行搜索
+        }
+
+        // 如果 Lunr 索引尚未加载完，停止搜索
+        if (!lunrIndex) {
+          return;
+        }
+
+        var results = lunrIndex.search(query);
+
+        // 清空搜索结果
+        resultsContainer.innerHTML = '';
+
+        // 显示搜索结果（显示 title）
+        results.forEach(function (result) {
+          var resultItem = document.createElement('div');
+
+          // 确保 title 正确显示
+          var matchedItem = allData.find(item => item.id === result.ref); // 通过 ref 找到匹配的项目
+          if (matchedItem) {  // 确保匹配项存在
+            resultItem.innerHTML = `<a href="/random-2hu-stuff${result.ref}">${matchedItem.title}</a>`; // 显示 title
+            resultsContainer.appendChild(resultItem);
+          }
+        });
+      });
+    });
+  </script>
+</header>

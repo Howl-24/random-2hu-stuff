@@ -1,0 +1,18 @@
+{% if page.layout == "home" %}
+  <footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <p>{{- site.description | escape -}}</p>
+        </div>
+
+        <div class="footer-col footer-col-2">
+          <li>github:<a href="https://github.com/Howl-24">Howl-24</a></p>
+          <li>bilibili:<a href="https://space.bilibili.com/9217280">defnotweeb</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+{% endif %}
