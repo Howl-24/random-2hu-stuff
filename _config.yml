@@ -28,15 +28,15 @@ description: "收集一些个人喜欢的东方相关作品 如果你有什么�
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-toc
+  # - jekyll-toc
 
-toc:
-  min_level: 1  # 生成 TOC 的最低标题级别（1 = h1）
-  max_level: 3  # 生成 TOC 的最高标题级别（3 = h3）
-  list_class: toc  # 目录的 CSS class
-  list_type: ul  # 目录列表类型：ul 或 ol
-  ordered_list: false  # 是否使用 <ol> 代替 <ul>
-  anchor_class: toc-anchor  # 目录项的 class
+# toc:
+#   min_level: 1  # 生成 TOC 的最低标题级别（1 = h1）
+#   max_level: 3  # 生成 TOC 的最高标题级别（3 = h3）
+#   list_class: toc  # 目录的 CSS class
+#   list_type: ul  # 目录列表类型：ul 或 ol
+#   ordered_list: false  # 是否使用 <ol> 代替 <ul>
+#   anchor_class: toc-anchor  # 目录项的 class
 
 collections:
   mmd:
