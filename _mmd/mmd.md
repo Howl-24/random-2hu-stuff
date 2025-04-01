@@ -3,9 +3,7 @@ layout: mmd
 title: MMD
 date: 2025-03-29
 permalink: /mmd/
-# toc: true
 ---
-<!-- {% toc %} -->
 # ![](https://yt3.googleusercontent.com/TKVlWIivjxLlM-QcZfrhy0lO5c0h15GKKL-luqDXv0pLM8BulcNKFRSm3W-ArU7MPmVhHYQ=s160-c-k-c0x00ffffff-no-rj)[くすり屋](https://www.youtube.com/@kusuriya_)
 ## YouTube
 ### 本編（全32話）
