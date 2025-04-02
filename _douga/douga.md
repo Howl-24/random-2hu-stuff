@@ -4,6 +4,12 @@ title: 动画/手书
 date: 2025-04-02
 permalink: /douga/
 ---
+- [梦想夏乡](#梦想夏乡)
+- [东方无限螺旋](#东方无限螺旋)
+- [东方幼灵梦](#东方幼灵梦)
+- [东方灵灵梦](#东方灵灵梦)
+- [赛博东方酒家](#赛博东方酒家)
+
 ### 梦想夏乡
 ##### [东方Project《梦想夏乡》01](https://www.bilibili.com/video/BV14T421a73X)
 ##### [东方Project《梦想夏乡》02](https://www.bilibili.com/video/BV1NZ421u7Qd)
