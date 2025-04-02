@@ -1,12 +1,23 @@
 [
     {
         "id": "/",
-        "title": "home",
-        "content": "/ home"
+        "title": "主页",
+        "content": "/ home 主页"
     },
     {
         "id": "/mmd",
         "title": "MMD",
         "content": "mmd MMD"
+    },
+    {
+        "id": "/douga",
+        "title": "动画/手书",
+        "content": "douga 动画 手书"
+    }
+    ,
+    {
+        "id": "/音乐",
+        "title": "音乐",
+        "content": "music 音乐"
     }
 ]

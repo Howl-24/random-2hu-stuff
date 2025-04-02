@@ -32,10 +32,16 @@ plugins:
 collections:
   mmd:
     output: true
+  douga:
+    output: true
+  music:
+    output: true
 
 feed:
   collections:
       - mmd
+      - douga
+      - music
 
 # Exclude from processing.
 # The following items will not be processed, by default.
