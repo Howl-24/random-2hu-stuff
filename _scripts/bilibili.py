@@ -44,20 +44,20 @@ with open(output_file, 'a', encoding='utf-8') as f_out:
 
                 # 根据标记选择合适的输出格式
                 if tag == "r":
-                    suffix = " 暂无翻译<br>\n"
+                    suffix = " 暂无翻译\n"
                 elif tag == "c":
-                    suffix = " CC字幕<br>\n"
+                    suffix = " CC字幕\n"
                 elif tag == "t":
-                    suffix = " 中文内嵌<br>\n"
+                    suffix = " 中文内嵌\n"
                 else:
-                    suffix = " <br>\n"
+                    suffix = "\n"
 
                 # 判断是否包含“内嵌”或“字幕”
                 if "内嵌" in title or "字幕" in title:
-                    suffix = " 中文内嵌<br>\n"
+                    suffix = " 中文内嵌\n"
 
                 # 写入 Markdown 文件
-                f_out.write(f"[{title}]({clean_url}){suffix}")
+                f_out.write(f"##### [{title}]({clean_url}){suffix}")
 
         except json.JSONDecodeError:
             print(f"解析 JSON 失败，跳过该 URL: {url}")
