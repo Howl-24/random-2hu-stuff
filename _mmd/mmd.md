@@ -269,7 +269,7 @@ permalink: /mmd/
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：三魔女的一天](https://www.bilibili.com/video/BV1fG4y1v7Qt) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：地狱的阎魔](https://www.bilibili.com/video/BV1Jt4y1t7Ka) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：竹林庸医](https://www.bilibili.com/video/BV1FY4y1E7oR) 中文内嵌
-[##### 【东方MMD】【中文内嵌】幻想乡的日常：真冬里的一天](https://www.bilibili.com/video/BV15g411Z7pz) 中文内嵌
+##### [【东方MMD】【中文内嵌】幻想乡的日常：真冬里的一天](https://www.bilibili.com/video/BV15g411Z7pz) 中文内嵌
 
 ## ![](https://yt3.googleusercontent.com/ytc/AIdro_mAjwWd6on6-rkO1bMD0-8VFj9kjNm9tc_kHrpDGeAUqg=s160-c-k-c0x00ffffff-no-rj)[やもり](https://www.youtube.com/@%E3%82%84%E3%82%82%E3%82%8A-f8s)
 ### YouTube
