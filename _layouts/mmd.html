@@ -34,5 +34,32 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <button id="back-to-top" class="back-to-top">
+    ⬆ 返回顶部
+  </button>
+  
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var backToTopButton = document.getElementById("back-to-top");
+  
+      // 监听滚动事件，显示或隐藏按钮
+      window.addEventListener("scroll", function () {
+        if (window.scrollY > 300) { // 当滚动超过 300px 时显示按钮
+          backToTopButton.style.display = "block";
+        } else {
+          backToTopButton.style.display = "none";
+        }
+      });
+  
+      // 点击按钮返回顶部
+      backToTopButton.addEventListener("click", function () {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth" // 平滑滚动效果
+        });
+      });
+    });
+  </script>
 </article>
