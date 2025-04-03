@@ -3,7 +3,7 @@ import json
 import os
 
 # 设置 HTML 文件路径
-path = "D:/Repos/random-2hu-stuff/_site/music/index.html" # mmd douga music
+path = "D:/Repos/random-2hu-stuff/_site/mmd/index.html" # mmd douga music
 
 # 读取 HTML 文件
 with open(path, "r", encoding="utf-8") as file:
@@ -19,7 +19,7 @@ index_data = []
 for tag in soup.find_all(["h1", "h2", "h3", "h4", "h5"]):
     id_attr = tag.get("id", "").strip()  # 获取 id 属性
     if id_attr:  # 仅处理有 id 的标签
-        id_attr = f"/music#{id_attr}"  # /mmd# /douga# /music#
+        id_attr = f"/mmd#{id_attr}"  # /mmd# /douga# /music#
     if not id_attr or "youtube" in id_attr.lower() or "bilibili" in id_attr.lower():
         continue  # 跳过包含 "youtube" 或 "bilibili" 的 id
     
