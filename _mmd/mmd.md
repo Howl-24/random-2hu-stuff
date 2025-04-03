@@ -265,7 +265,7 @@ permalink: /mmd/
 ##### [【东方MMD】【中文内嵌】【幻想乡的日常】祭典 前篇](https://www.bilibili.com/video/BV13hNmedEZh) 中文内嵌
 #### 幻想乡的日常系列-旧
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：琪露诺的不满](https://www.bilibili.com/video/BV1aV4y177wE) 中文内嵌
-##### [灵梦和觉的交流【已汉化】](https://www.bilibili.com/video/BV1ti4y1L7mJ)
+##### [灵梦和觉的交流【已汉化】](https://www.bilibili.com/video/BV1ti4y1L7mJ) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：三魔女的一天](https://www.bilibili.com/video/BV1fG4y1v7Qt) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：地狱的阎魔](https://www.bilibili.com/video/BV1Jt4y1t7Ka) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：竹林庸医](https://www.bilibili.com/video/BV1FY4y1E7oR) 中文内嵌
@@ -306,24 +306,24 @@ permalink: /mmd/
 ##### [【東方MMD】魔理沙のいけない恋](https://www.youtube.com/watch?v=WOruRf2Bl-I)
 ##### [【東方MMD】さとり荘](https://www.youtube.com/watch?v=veIe9oUWe7I)
 ### bilibili
-##### [【第15回东方nico童祭】魔理沙的禁忌之恋](https://www.bilibili.com/video/BV1XV411K78J)
-##### [【东方MMD中文内嵌】觉儿庄【东方日常字幕组】](https://www.bilibili.com/video/BV1qx411z7Rp)
+##### [【第15回东方nico童祭】魔理沙的禁忌之恋](https://www.bilibili.com/video/BV1XV411K78J) CC字幕
+##### [【东方MMD中文内嵌】觉儿庄【东方日常字幕组】](https://www.bilibili.com/video/BV1qx411z7Rp) 中文内嵌
 
 ## ![](https://yt3.ggpht.com/ytc/AIdro_lzuPDZXLqnutOcgs2NdMQf_b5HU8HALPaHp3D38r-lk1c=s176-c-k-c0x00ffffff-no-rj)[たかしま（タカシマ）](https://www.youtube.com/@mmdtakashima)
 ### YouTube
 ##### [幻想郷マッチングアプリ異変！！【東方MMD紙芝居】【ゆっくり茶番】](https://www.youtube.com/watch?v=FKAd3ApEj4s)
 ### bilibili
-##### [【东方MMD】幻想乡匹配软件异变！！](https://www.bilibili.com/video/BV1B94y117vB)
+##### [【东方MMD】幻想乡匹配软件异变！！](https://www.bilibili.com/video/BV1B94y117vB) CC字幕
 
 # 大电影
 ## ![](https://yt3.googleusercontent.com/wyOQ8SkwwmvJrVwfU6rRd4FM1qatWael_-1ZssjCpwHxQwlVTF-eCU5jz3QJ_jztQjK4UCjdSw=s160-c-k-c0x00ffffff-no-rj)[がてん](https://www.youtube.com/@gaten_7030)
 ### YouTube
 ##### [【東方MMD】幻想郷アークインパルスお花見茶番大戦【MMDドラマ】](https://www.youtube.com/watch?v=KS1CrKOLMGk&t=5653s)
 ### bilibili
-##### [【东方MMD大电影/中文内嵌】幻想乡弧光冲击：赏花闹剧大战](https://www.bilibili.com/video/BV1BpNbeEELZ)
+##### [【东方MMD大电影/中文内嵌】幻想乡弧光冲击：赏花闹剧大战](https://www.bilibili.com/video/BV1BpNbeEELZ) 中文内嵌
 
 ## ![](https://yt3.googleusercontent.com/ytc/AIdro_kKFnA680RdczYCezWIrb6QecHwWa-iogzyE6E4DhE=s160-c-k-c0x00ffffff-no-rj)[黒ぶるごーにゅ](https://www.youtube.com/@%E9%BB%92%E3%81%B6%E3%82%8B%E3%81%94%E3%83%BC%E3%81%AB%E3%82%85)
 ### YouTube
 ##### [【東方MMD】アンハッピーローテーション 【Unhappy Rotation】](https://www.youtube.com/watch?v=XPHS7DsY7b8)
 ### bilibili
-##### [【东方MMD中字内嵌】不幸的循环【Unhappy Rotation】【精品推荐】](https://www.bilibili.com/video/BV1qs41137c5)
+##### [【东方MMD中字内嵌】不幸的循环【Unhappy Rotation】【精品推荐】](https://www.bilibili.com/video/BV1qs41137c5) 中文内嵌
