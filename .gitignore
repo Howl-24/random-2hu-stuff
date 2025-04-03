@@ -5,7 +5,9 @@ _site
 .bundle
 vendor
 Gemfile.lock
-_scripts/index.json
+
 _scripts/bilibili.txt
+_scripts/index.json
+_scripts/toc.md
 _scripts/bilibili.md
 _scripts/youtube.md
