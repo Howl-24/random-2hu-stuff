@@ -1,13 +1,19 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-04-02
+date: 2025-04-04
 permalink: /mmd/
 ---
-层级结构: 类别-作者-平台-系列(如果有的话)-视频<br>
-短片-系列部分按照原作者频道的播放列表排序<br>
-短片-单元以及大电影部分按个人喜好排序<br>
-搜索视频时最好输入完整视频标题<br>
+
+- 层级结构: 类别-作者-平台-系列(如果有的话)-视频
+- 短片-系列部分按照原作者频道的播放列表排序
+- 短片-单元以及大电影部分按个人喜好排序
+- 搜索视频时最好输入完整视频标题
+- 站内搬运视频大量参考自以下资源 感谢大佬们的整理与分享
+  - [流星穿梭](https://space.bilibili.com/1575451)的专栏和评论
+  - [dragonsnake](https://space.bilibili.com/18779489)的[TMC](https://dragonsnake-bilibili.github.io/TMC//)
+
+# 目录
 - [短片-系列](#短片-系列)
   - [くすり屋](#くすり屋)
   - [TNT](#tnt)
@@ -193,21 +199,21 @@ permalink: /mmd/
 ##### [【东方MMD】白玉楼穷途末路！【中字内嵌】](https://www.bilibili.com/video/BV188411h79e) 中文内嵌
 ##### [【东方MMD】侵略者妖梦【中字内嵌】](https://www.bilibili.com/video/BV1Yj411u7UQ) 中文内嵌
 ##### [#23【東方MMD】想要成長的魔理沙](https://www.bilibili.com/video/BV1JV4y1H74Z) 暂无翻译
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
-##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/av1100555103) 中文内嵌
+##### [【东方MMD】芙兰的分身会议【中字内嵌】](https://www.bilibili.com/video/BV1fW4y187rg) 中文内嵌
+##### [【东方MMD】逆境无赖芙兰酱 破坏录篇【中字内嵌】](https://www.bilibili.com/video/BV1JS4y1x7Dd) 中文内嵌
+##### [【东方MMD】不再叫"姐姐"的理由【中字内嵌】](https://www.bilibili.com/video/BV1kD4y1z766) 中文内嵌
+##### [【东方MMD】太过残酷的真相【中字内嵌】](https://www.bilibili.com/video/BV1yY4y1u7XX) 中文内嵌
+##### [【东方MMD】绝望中见到的希望的碎片【中字内嵌】](https://www.bilibili.com/video/BV1ad4y1G73S) 中文内嵌
+##### [【东方MMD】主角组的原点【中字内嵌】](https://www.bilibili.com/video/BV1dg411U7aD) 中文内嵌
+##### [【东方MMD】最好的圣诞礼物【中字内嵌】](https://www.bilibili.com/video/BV1JD4y1q7pb) 中文内嵌
+##### [【东方MMD】芙兰成了恋恋的宠物【中字内嵌】](https://www.bilibili.com/video/BV1rG411H72t) 中文内嵌
+##### [【东方MMD】姐姐三人组和妹妹三人组的聚餐【中字内嵌】](https://www.bilibili.com/video/BV15e4y1z7FT) 中文内嵌
+##### [【东方MMD】TNT五周年纪念动画（前篇）【中字内嵌】](https://www.bilibili.com/video/BV14d4y1b7ah) 中文内嵌
+##### [【东方MMD】TNT五周年纪念动画（后篇）【中字内嵌】](https://www.bilibili.com/video/BV1wG4y137zD) 中文内嵌
+##### [【东方MMD】平静生活的终结【中字内嵌】](https://www.bilibili.com/video/BV1U8411w7YK) 中文内嵌
+##### [【东方MMD】灵梦发现自己的黑历史已经被家长知道了…（Easy版）【中字内嵌】](https://www.bilibili.com/video/BV1sk4y1V7nA) 中文内嵌
+##### [【东方MMD】变态女仆的反击【中字内嵌】](https://www.bilibili.com/video/BV1tb4y1N7eh) 中文内嵌
+##### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/BV1CA4m1G7gM) 中文内嵌
 ##### [【东方MMD】【中文内嵌】【TNT】#37 魔与爱的原点](https://www.bilibili.com/video/BV16C411H78s) 中文内嵌
 ##### [【东方MMD】【中文内嵌】【TNT】#38 照看病人与拷问本就是一体两面](https://www.bilibili.com/video/BV1Ku4m1w78u) 中文内嵌
 ##### [【东方MMD】【中文内嵌】【TNT】#39 变态女仆卷土重来](https://www.bilibili.com/video/BV1enWQe9Eym) 中文内嵌

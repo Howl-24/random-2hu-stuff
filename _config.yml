@@ -22,7 +22,7 @@ title: random 2hu stuff
 domain: howl-24.github.io
 baseurl: "/random-2hu-stuff"
 url: "https://howl-24.github.io"
-description: "收集一些个人喜欢的东方相关作品 如果你有什么推荐或者建议的话 欢迎联系我 ᗜ‿ᗜ"
+description: '启发自<a href="https://space.bilibili.com/18779489">dragonsnake</a>的<a href="https://dragonsnake-bilibili.github.io/TMC//">TMC</a> 收集一些个人喜欢的东方相关作品 如果你有什么推荐或者建议的话 欢迎联系我 ᗜ‿ᗜ'
 
 # Build settings
 theme: minima
