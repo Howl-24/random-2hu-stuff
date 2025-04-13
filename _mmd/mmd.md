@@ -187,9 +187,9 @@ permalink: /mmd/
 ##### [【东方MMD/中文内嵌】 【TNT】 #8 沉浸于最强的喜悦中无法自拔的妖梦](https://www.bilibili.com/video/BV1wVrvYjE1v) 中文内嵌
 ##### [【东方MMD/中文内嵌】 【TNT】 #9 灵梦VS妖梦](https://www.bilibili.com/video/BV1hbwKeNEfb) 中文内嵌
 ##### [【东方MMD/中文内嵌】 【TNT】 #10 灵梦无法回头怎么想都是魔理沙的不好](https://www.bilibili.com/video/BV1ciPdehEQY) 中文内嵌
-##### [【东方MMD】灵与爱的原点](https://www.bilibili.com/video/BV1Ht4y117un) 暂无翻译
-##### [【东方MMD】友谊的初体验](https://www.bilibili.com/video/BV1Ev41117JK) 暂无翻译
-##### [【东方MMD】绊](https://www.bilibili.com/video/BV1Mf4y1C79X) 暂无翻译
+##### [【东方MMD/中文内嵌】 【TNT】 #11 灵与爱的原点](https://www.bilibili.com/video/BV18bRsYaE45) 中文内嵌
+##### [【东方MMD/中文内嵌】 【TNT】 #12 友谊的初体验](https://www.bilibili.com/video/BV1a8QhYLEmf) 中文内嵌
+##### [【东方MMD/中文内嵌】 【TNT】 #13 羁绊 【催泪向】](https://www.bilibili.com/video/BV1iCdVYjE5N) 中文内嵌
 ##### [【东方MMD】幻想乡混沌明星大乱斗SP](https://www.bilibili.com/video/BV1nN41197a5) 暂无翻译
 ##### [【东方MMD】归来的华扇大人【B站特供版】](https://www.bilibili.com/video/BV18K4y1K7Uv) 暂无翻译
 ##### [【东方MMD】爱丽丝的绝体绝命鬼畜战法](https://www.bilibili.com/video/BV1864y1S73u) 暂无翻译
