@@ -174,6 +174,7 @@ permalink: /mmd/
 ##### [#37【東方MMD】マリアリの原点](https://www.youtube.com/watch?v=px6IpaphaXI)
 ##### [#38【東方MMD】看病と拷問は紙一重（Easy版）](https://www.youtube.com/watch?v=_yrRH7MEGKE)
 ##### [#39【東方MMD】変態メイド再び（Easy版）](https://www.youtube.com/watch?v=9FeNGvkp0A8)
+##### [#40【東方MMD】大切なお友達](https://www.youtube.com/watch?v=Caci5IXdy4M&t=1s)
 ### bilibili
 #### TNT系列
 ##### [【东方MMD】博丽灵梦很饥饿【中字内嵌】](https://www.bilibili.com/video/BV1BC411s7CV) 中文内嵌
@@ -217,6 +218,7 @@ permalink: /mmd/
 ##### [【东方MMD】【中文内嵌】【TNT】#37 魔与爱的原点](https://www.bilibili.com/video/BV16C411H78s) 中文内嵌
 ##### [【东方MMD】【中文内嵌】【TNT】#38 照看病人与拷问本就是一体两面](https://www.bilibili.com/video/BV1Ku4m1w78u) 中文内嵌
 ##### [【东方MMD】【中文内嵌】【TNT】#39 变态女仆卷土重来](https://www.bilibili.com/video/BV1enWQe9Eym) 中文内嵌
+##### [【东方MMD】最珍贵的朋友【中字内嵌】](https://www.bilibili.com/video/BV12rdYYJEub) 中文内嵌
 
 ## ![](https://yt3.googleusercontent.com/ytc/AIdro_n2iwn1AyF6YLW_aXZP1zVtSgduLwBHKOQEmBnln4f9CEA=s160-c-k-c0x00ffffff-no-rj)[むぅさん63](https://www.youtube.com/@%E3%82%80%E3%81%85%E3%81%95%E3%82%9363)
 ### YouTube
