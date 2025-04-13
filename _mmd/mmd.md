@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-04-04
+date: 2025-04-13
 permalink: /mmd/
 ---
 
