@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-04-13
+date: 2025-04-19
 permalink: /mmd/
 ---
 
@@ -18,6 +18,7 @@ permalink: /mmd/
   - [くすり屋](#くすり屋)
   - [TNT](#tnt)
   - [むぅさん63](#むぅさん63)
+  - [sa sa](#sa-sa)
   - [やもり](#やもり)
 - [短片-单元](#短片-单元)
   - [ラプター](#ラプター)
@@ -278,6 +279,26 @@ permalink: /mmd/
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：地狱的阎魔](https://www.bilibili.com/video/BV1Jt4y1t7Ka) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：竹林庸医](https://www.bilibili.com/video/BV1FY4y1E7oR) 中文内嵌
 ##### [【东方MMD】【中文内嵌】幻想乡的日常：真冬里的一天](https://www.bilibili.com/video/BV15g411Z7pz) 中文内嵌
+
+## ![](https://yt3.googleusercontent.com/ytc/AIdro_kiNEA0fI-lQsILAfc6oASPhIlFmj-tV9I3XWfaC-5PPg=s160-c-k-c0x00ffffff-no-rj)[sa sa](https://www.youtube.com/@sasa-fh7xs)
+### YouTube
+#### 作った紙芝居
+##### [【東方MMD】貧乏巫女と悪戯魔法使い(茶番)](https://www.youtube.com/watch?v=7RE8uNPpNsA)
+##### [【東方MMD】歯なしにならないハナシ(茶番)](https://www.youtube.com/watch?v=wuHj7SfOMNY)
+##### [【東方MMD】一日だけの異変？(茶番)](https://www.youtube.com/watch?v=tcYgqRjwDXU)
+##### [【東方MMD】新しい遊び道具！？デュエルディスク！！(茶番)](https://www.youtube.com/watch?v=AkLBo814Pjg)
+##### [【東方MMD】楽園の素敵なたかり屋(茶番)](https://www.youtube.com/watch?v=6b3rcvkh9QI)
+##### [【東方MMD】早苗がお送りする幻想郷ラジオ(茶番)](https://www.youtube.com/watch?v=LbpEF9IsKM4)
+##### [【東方MMD】命蓮寺での一幕（茶番）](https://www.youtube.com/watch?v=oczX846z1AM)
+### bilibili
+#### 屑巫女系列
+##### [【中文内嵌】缺钱杀人魔和恶作剧小偷](https://www.bilibili.com/video/BV1TD4y1n766) 中文内嵌
+##### [红白护牙记（中文内嵌）](https://www.bilibili.com/video/BV1fv4y1y72X) 中文内嵌
+##### [【东方MMD】只有一天的异变？（茶番）](https://www.bilibili.com/video/BV1r5411j78e) 暂无翻译
+##### [【熟肉】【东方MMD】新的玩具！？决斗盘！！](https://www.bilibili.com/video/BV1RK411A7mY) 中文内嵌
+##### [【东方MMD中文字幕】乐园的可爱的强盗（茶番）](https://www.bilibili.com/video/BV12h411q7Ct) 中文内嵌
+##### [早苗主持的幻想乡电台（中文内嵌）](https://www.bilibili.com/video/BV1Av4y1v7pd) 中文内嵌
+##### [命莲寺风波（中文内嵌）](https://www.bilibili.com/video/BV14Y411m7n8) 中文内嵌
 
 ## ![](https://yt3.googleusercontent.com/ytc/AIdro_mAjwWd6on6-rkO1bMD0-8VFj9kjNm9tc_kHrpDGeAUqg=s160-c-k-c0x00ffffff-no-rj)[やもり](https://www.youtube.com/@%E3%82%84%E3%82%82%E3%82%8A-f8s)
 ### YouTube
