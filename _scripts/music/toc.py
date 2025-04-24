@@ -21,7 +21,7 @@ def generate_toc(md_file, output_file):
     content = []
 
     for line in lines:
-        match = re.match(r"^(#{1,2})\s+(.*)", line)  # mmd:1,2 douga:3,3 music:1,1
+        match = re.match(r"^(#{1,2})\s+(.*)", line)
         if match:
             level = len(match.group(1))  # 计算标题级别
             title = match.group(2).strip()
@@ -54,6 +54,6 @@ def generate_toc(md_file, output_file):
 
 
 # 使用示例
-md_input = "D:/Repos/random-2hu-stuff/_mmd/mmd.md"  # _mmd/mmd.md _douga/douga.md _music/music.md
+md_input = "D:/Repos/random-2hu-stuff/_music/music.md"
 md_output = "toc.md"  # 生成带 TOC 的新文件
 generate_toc(md_input, md_output)

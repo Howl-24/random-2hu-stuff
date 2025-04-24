@@ -55,6 +55,8 @@ with open(output_file, "a", encoding="utf-8") as f_out:
                     suffix = " CC字幕\n"
                 elif tag == "t":
                     suffix = " 中文内嵌\n"
+                elif tag == "n":
+                    suffix = " 不用翻\n"
                 else:
                     suffix = "\n"
 

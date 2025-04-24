@@ -3,7 +3,7 @@ import json
 import os
 
 # 设置 HTML 文件路径
-path = "D:/Repos/random-2hu-stuff/_site/mmd/index.html" # mmd douga music
+path = "D:/Repos/random-2hu-stuff/_site/douga/index.html"
 
 # 读取 HTML 文件
 with open(path, "r", encoding="utf-8") as file:
@@ -19,22 +19,20 @@ index_data = []
 for tag in soup.find_all(["h1", "h2", "h3", "h4", "h5"]):
     id_attr = tag.get("id", "").strip()  # 获取 id 属性
     if id_attr:  # 仅处理有 id 的标签
-        id_attr = f"/mmd#{id_attr}"  # /mmd# /douga# /music#
+        id_attr = f"/douga#{id_attr}"
     if not id_attr or "youtube" in id_attr.lower() or "bilibili" in id_attr.lower():
         continue  # 跳过包含 "youtube" 或 "bilibili" 的 id
-    
+
     title = tag.get_text(strip=True)  # 获取标题内容
     link_tag = tag.find("a")  # 查找 a 标签
-    content = link_tag.get_text(strip=True) if link_tag else title  # 提取 a 标签内文本，否则用标题
+    content = (
+        link_tag.get_text(strip=True) if link_tag else title
+    )  # 提取 a 标签内文本，否则用标题
 
-    index_data.append({
-        "id": id_attr,
-        "title": title,
-        "content": content
-    })
+    index_data.append({"id": id_attr, "title": title, "content": content})
 
 # 输出 JSON 文件路径
-json_path = "D:/Repos/random-2hu-stuff/_scripts/index.json" # _scripts/index.json D:/Repos/random-2hu-stuff/index/mmd/mmd.json
+json_path = "D:/Repos/random-2hu-stuff/_scripts/douga/index.json"
 
 # 确保输出目录存在
 os.makedirs(os.path.dirname(json_path), exist_ok=True)
