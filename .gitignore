@@ -6,8 +6,21 @@ _site
 vendor
 Gemfile.lock
 
-_scripts/bilibili.txt
-_scripts/index.json
-_scripts/toc.md
-_scripts/bilibili.md
-_scripts/youtube.md
+_scripts/mmd/bilibili.txt
+_scripts/mmd/index.json
+_scripts/mmd/toc.md
+_scripts/mmd/bilibili.md
+_scripts/mmd/youtube.md
+
+_scripts/douga/bilibili.txt
+_scripts/douga/index.json
+_scripts/douga/toc.md
+_scripts/douga/bilibili.md
+_scripts/douga/youtube.md
+
+_scripts/music/bilibili.txt
+_scripts/music/index.json
+_scripts/music/toc.md
+_scripts/music/bilibili.md
+_scripts/music/youtube.md
+
