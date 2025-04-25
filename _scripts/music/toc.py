@@ -1,16 +1,21 @@
 import re
 
-
 def generate_toc(md_file, output_file):
     """从 Markdown 文件中提取标题，生成目录（不包含图片，不生成 id，去掉 ## 目录 本身）"""
 
     def sanitize_link(title):
         """将标题中的特殊符号（如括号）替换为 URL-safe 格式"""
         title = title.lower()  # 转换为小写字母
-        title = title.replace("（", "").replace("）", "")  # 去除中文括号（）
         title = (
-            title.replace("（", "").replace("）", "").replace(" ", "-")
-        )  # 用-代替空格
+            title.replace("（", "")
+            .replace("）", "")
+            .replace("(", "")
+            .replace(")", "")
+            .replace("/", "")
+            .replace("～", "")
+            .replace("+", "")
+        )  # 去除特殊符号
+        title = title.replace(" ", "-")  # 用-代替空格
 
         return title
 
@@ -18,7 +23,7 @@ def generate_toc(md_file, output_file):
         lines = f.readlines()
 
     toc = []
-    content = []
+    last_level = 0  # 记录上一个标题的级别
 
     for line in lines:
         match = re.match(r"^(#{1,2})\s+(.*)", line)
@@ -34,21 +39,25 @@ def generate_toc(md_file, output_file):
 
             # 目录中不包含“目录”本身
             if title_cleaned.lower() != "目录":
+
+                # 如果标题级别跳级，则调整为上一级的下一级
+                if level > last_level + 1:
+                    level_toc = last_level + 1
+                elif level == last_level:
+                    pass
+                else:
+                    level_toc = level
+
                 sanitized_title = sanitize_link(title_cleaned)  # 对链接部分进行清理
                 toc.append(
-                    f"{'  ' * (level - 1)}- [{title_cleaned}](#{sanitized_title})"
+                    f"{'  ' * (level_toc - 1)}- [{title_cleaned}](#{sanitized_title})"
                 )
-
-        content.append(line)  # 原内容不变
-
-    # 生成目录部分，不包含“## 目录”标题
-    if toc:
-        toc_section = ["\n".join(toc) + "\n\n"]
-        content = toc_section + content
+                
+                last_level = level  # 更新上一个标题的级别
 
     # 输出到新文件
     with open(output_file, "w", encoding="utf-8") as f:
-        f.writelines(content)
+        f.write("\n".join(toc))
 
     print(f"✅ TOC 生成完成！结果保存在 {output_file}")
 
