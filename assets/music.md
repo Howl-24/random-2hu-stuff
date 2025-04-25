@@ -102,7 +102,7 @@
 #### 幺乐团的历史　～ Akyu's Untouched Score vol.5
 [Spotify](https://open.spotify.com/album/0y7JbQEfQQ39jWeqlknw05) [Wiki](https://thwiki.cc/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B25)
 
-## [黄昏边境/黄昏フロンティア](https://thwiki.cc/%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83)
+## 黄昏边境/黄昏フロンティア
 [Spotify](https://open.spotify.com/artist/1dzPHjckgJihSzVzKOvHxO) [Wiki](https://thwiki.cc/%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83)
 ### OST
 #### Th7.5 东方萃梦想　～ Immaterial and Missing Power.
