@@ -15,164 +15,194 @@
     "content": "上海爱丽丝幻乐团/上海アリス幻樂団"
   },
   {
-    "id": "/music#spotify",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#ost",
+    "title": "OST",
+    "content": "OST"
   },
   {
-    "id": "/music#東方紅魔郷-the-embodiment-of-scarlet-devil-サウンドトラック",
-    "title": "東方紅魔郷　～ the Embodiment of Scarlet Devil. サウンドトラック",
-    "content": "東方紅魔郷　～ the Embodiment of Scarlet Devil. サウンドトラック"
+    "id": "/music#th06-东方红魔乡-the-embodiment-of-scarlet-devil",
+    "title": "Th06 东方红魔乡　～ the Embodiment of Scarlet Devil.",
+    "content": "Th06 东方红魔乡　～ the Embodiment of Scarlet Devil."
   },
   {
-    "id": "/music#東方妖々夢-perfect-cherry-blossm-サウンドトラック",
-    "title": "東方妖々夢　～ Perfect Cherry Blossm. サウンドトラック",
-    "content": "東方妖々夢　～ Perfect Cherry Blossm. サウンドトラック"
+    "id": "/music#th07-东方妖妖梦-perfect-cherry-blossom",
+    "title": "Th07 东方妖妖梦　～ Perfect Cherry Blossom.",
+    "content": "Th07 东方妖妖梦　～ Perfect Cherry Blossom."
   },
   {
-    "id": "/music#東方永夜抄-imperishable-night-サウンドトラック",
-    "title": "東方永夜抄　～ Imperishable Night. サウンドトラック",
-    "content": "東方永夜抄　～ Imperishable Night. サウンドトラック"
+    "id": "/music#th08-东方永夜抄-imperishable-night",
+    "title": "Th08 东方永夜抄　～ Imperishable Night.",
+    "content": "Th08 东方永夜抄　～ Imperishable Night."
   },
   {
-    "id": "/music#東方花映塚-phantasmagoria-of-flower-view-サウンドトラック",
-    "title": "東方花映塚　～ Phantasmagoria of Flower View. サウンドトラック",
-    "content": "東方花映塚　～ Phantasmagoria of Flower View. サウンドトラック"
+    "id": "/music#th09-东方花映塚-phantasmagoria-of-flower-view",
+    "title": "Th09 东方花映塚　～ Phantasmagoria of Flower View.",
+    "content": "Th09 东方花映塚　～ Phantasmagoria of Flower View."
   },
   {
-    "id": "/music#東方風神録-mountain-of-faith-サウンドトラック",
-    "title": "東方風神録　〜 Mountain of Faith. サウンドトラック",
-    "content": "東方風神録　〜 Mountain of Faith. サウンドトラック"
+    "id": "/music#th10-东方风神录-mountain-of-faith",
+    "title": "Th10 东方风神录　～ Mountain of Faith.",
+    "content": "Th10 东方风神录　～ Mountain of Faith."
   },
   {
-    "id": "/music#東方地霊殿-subterranean-animism-サウンドトラック",
-    "title": "東方地霊殿　〜 Subterranean Animism. サウンドトラック",
-    "content": "東方地霊殿　〜 Subterranean Animism. サウンドトラック"
+    "id": "/music#th11-东方地灵殿-subterranean-animism",
+    "title": "Th11 东方地灵殿　～ Subterranean Animism.",
+    "content": "Th11 东方地灵殿　～ Subterranean Animism."
   },
   {
-    "id": "/music#東方星蓮船-undefined-fantastic-object-サウンドトラック",
-    "title": "東方星蓮船　〜 Undefined Fantastic Object. サウンドトラック",
-    "content": "東方星蓮船　〜 Undefined Fantastic Object. サウンドトラック"
+    "id": "/music#th12-东方星莲船-undefined-fantastic-object",
+    "title": "Th12 东方星莲船　～ Undefined Fantastic Object.",
+    "content": "Th12 东方星莲船　～ Undefined Fantastic Object."
   },
   {
-    "id": "/music#妖精大戦争-東方三月精-サウンドトラック",
-    "title": "妖精大戦争　〜 東方三月精 サウンドトラック",
-    "content": "妖精大戦争　〜 東方三月精 サウンドトラック"
+    "id": "/music#th125-double-spoiler-东方文花帖",
+    "title": "Th12.5 Double Spoiler　～ 东方文花帖",
+    "content": "Th12.5 Double Spoiler　～ 东方文花帖"
   },
   {
-    "id": "/music#東方神霊廟-ten-desires-サウンドトラック",
-    "title": "東方神霊廟　〜 Ten Desires. サウンドトラック",
-    "content": "東方神霊廟　〜 Ten Desires. サウンドトラック"
+    "id": "/music#th128-妖精大战争-东方三月精",
+    "title": "Th12.8 妖精大战争　～ 东方三月精",
+    "content": "Th12.8 妖精大战争　～ 东方三月精"
   },
   {
-    "id": "/music#東方輝針城-double-dealing-character-サウンドトラック",
-    "title": "東方輝針城　〜 Double Dealing Character. サウンドトラック",
-    "content": "東方輝針城　〜 Double Dealing Character. サウンドトラック"
+    "id": "/music#th13-东方神灵庙-ten-desires",
+    "title": "Th13 东方神灵庙　～ Ten Desires.",
+    "content": "Th13 东方神灵庙　～ Ten Desires."
   },
   {
-    "id": "/music#弾幕アマノジャク-impossible-spell-card-サウンドトラック",
-    "title": "弾幕アマノジャク　〜 Impossible Spell Card. サウンドトラック",
-    "content": "弾幕アマノジャク　〜 Impossible Spell Card. サウンドトラック"
+    "id": "/music#th14-东方辉针城-double-dealing-character",
+    "title": "Th14 东方辉针城　～ Double Dealing Character.",
+    "content": "Th14 东方辉针城　～ Double Dealing Character."
   },
   {
-    "id": "/music#東方紺珠伝-legacy-of-lunatic-kingdom-サウンドトラック",
-    "title": "東方紺珠伝　〜 Legacy of Lunatic Kingdom. サウンドトラック",
-    "content": "東方紺珠伝　〜 Legacy of Lunatic Kingdom. サウンドトラック"
+    "id": "/music#th143-弹幕天邪鬼-impossible-spell-card",
+    "title": "Th14.3 弹幕天邪鬼　～ Impossible Spell Card.",
+    "content": "Th14.3 弹幕天邪鬼　～ Impossible Spell Card."
   },
   {
-    "id": "/music#東方天空璋-hidden-star-in-four-seasons-サウンドトラック",
-    "title": "東方天空璋　〜 Hidden Star in Four Seasons. サウンドトラック",
-    "content": "東方天空璋　〜 Hidden Star in Four Seasons. サウンドトラック"
+    "id": "/music#th15-东方绀珠传-legacy-of-lunatic-kingdom",
+    "title": "Th15 东方绀珠传　～ Legacy of Lunatic Kingdom.",
+    "content": "Th15 东方绀珠传　～ Legacy of Lunatic Kingdom."
   },
   {
-    "id": "/music#秘封ナイトメアダイアリー-violet-detector-サウンドトラック",
-    "title": "秘封ナイトメアダイアリー　〜 Violet Detector. サウンドトラック",
-    "content": "秘封ナイトメアダイアリー　〜 Violet Detector. サウンドトラック"
+    "id": "/music#th16-东方天空璋-hidden-star-in-four-seasons",
+    "title": "Th16 东方天空璋　～ Hidden Star in Four Seasons.",
+    "content": "Th16 东方天空璋　～ Hidden Star in Four Seasons."
   },
   {
-    "id": "/music#東方鬼形獣-wily-beast-and-weakest-creature-サウンドトラック",
-    "title": "東方鬼形獣　〜 Wily Beast and Weakest Creature. サウンドトラック",
-    "content": "東方鬼形獣　〜 Wily Beast and Weakest Creature. サウンドトラック"
+    "id": "/music#th165-秘封噩梦日记-violet-detector",
+    "title": "Th16.5 秘封噩梦日记　～ Violet Detector.",
+    "content": "Th16.5 秘封噩梦日记　～ Violet Detector."
   },
   {
-    "id": "/music#東方虹龍洞-unconnected-marketeers-サウンドトラック",
-    "title": "東方虹龍洞　〜 Unconnected Marketeers. サウンドトラック",
-    "content": "東方虹龍洞　〜 Unconnected Marketeers. サウンドトラック"
+    "id": "/music#th17-东方鬼形兽-wily-beast-and-weakest-creature",
+    "title": "Th17 东方鬼形兽　～ Wily Beast and Weakest Creature.",
+    "content": "Th17 东方鬼形兽　～ Wily Beast and Weakest Creature."
   },
   {
-    "id": "/music#蓬莱人形--dolls-in-pseudo-paradise",
-    "title": "蓬莱人形 ～ Dolls in Pseudo Paradise",
-    "content": "蓬莱人形 ～ Dolls in Pseudo Paradise"
+    "id": "/music#th18-东方虹龙洞-unconnected-marketeers",
+    "title": "Th18 东方虹龙洞　～ Unconnected Marketeers.",
+    "content": "Th18 东方虹龙洞　～ Unconnected Marketeers."
   },
   {
-    "id": "/music#蓮台野夜行--ghostly-field-club",
-    "title": "蓮台野夜行 ～ Ghostly Field Club",
-    "content": "蓮台野夜行 ～ Ghostly Field Club"
+    "id": "/music#th185-弹幕狂们的黑市-100th-black-market",
+    "title": "Th18.5 弹幕狂们的黑市　～ 100th Black Market.",
+    "content": "Th18.5 弹幕狂们的黑市　～ 100th Black Market."
   },
   {
-    "id": "/music#夢違科学世紀--changeability-of-strange-dream",
-    "title": "夢違科学世紀 ～ Changeability of Strange Dream",
-    "content": "夢違科学世紀 ～ Changeability of Strange Dream"
+    "id": "/music#th19-东方兽王园-unfinished-dream-of-all-living-ghost",
+    "title": "Th19 东方兽王园　～ Unfinished Dream of All Living Ghost.",
+    "content": "Th19 东方兽王园　～ Unfinished Dream of All Living Ghost."
   },
   {
-    "id": "/music#卯酉東海道--retrospective-53-minutes",
-    "title": "卯酉東海道 ～ Retrospective 53 minutes",
-    "content": "卯酉東海道 ～ Retrospective 53 minutes"
+    "id": "/music#专辑",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
-    "id": "/music#大空魔術--magical-astronomy",
-    "title": "大空魔術 ～ Magical Astronomy",
-    "content": "大空魔術 ～ Magical Astronomy"
+    "id": "/music#蓬莱人形-dolls-in-pseudo-paradise",
+    "title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+    "content": "蓬莱人形　～ Dolls in Pseudo Paradise"
   },
   {
-    "id": "/music#鳥船遺跡--trojan-green-asteroid",
-    "title": "鳥船遺跡 ～ Trojan Green Asteroid",
-    "content": "鳥船遺跡 ～ Trojan Green Asteroid"
+    "id": "/music#莲台野夜行-ghostly-field-club",
+    "title": "莲台野夜行　～ Ghostly Field Club.",
+    "content": "莲台野夜行　～ Ghostly Field Club."
   },
   {
-    "id": "/music#伊弉諾物質--neo-traditionalism-of-japan",
-    "title": "伊弉諾物質 ～ Neo-traditionalism of Japan.",
-    "content": "伊弉諾物質 ～ Neo-traditionalism of Japan."
+    "id": "/music#梦违科学世纪-changeability-of-strange-dream",
+    "title": "梦违科学世纪　～ Changeability of Strange Dream",
+    "content": "梦违科学世纪　～ Changeability of Strange Dream"
   },
   {
-    "id": "/music#燕石博物誌--drlatencys-freak-report",
-    "title": "燕石博物誌 ～ Dr.Latency’s Freak Report.",
-    "content": "燕石博物誌 ～ Dr.Latency’s Freak Report."
+    "id": "/music#卯酉东海道-retrospective-53-minutes",
+    "title": "卯酉东海道　～ Retrospective 53 minutes",
+    "content": "卯酉东海道　～ Retrospective 53 minutes"
   },
   {
-    "id": "/music#旧約酒場--dateless-bar-old-adam",
-    "title": "旧約酒場 ～ Dateless Bar “Old Adam”.",
-    "content": "旧約酒場 ～ Dateless Bar “Old Adam”."
+    "id": "/music#大空魔术-magical-astronomy",
+    "title": "大空魔术　～ Magical Astronomy",
+    "content": "大空魔术　～ Magical Astronomy"
   },
   {
-    "id": "/music#七夕坂夢幻能--taboo-japan-disentanglement",
-    "title": "七夕坂夢幻能 〜 Taboo Japan Disentanglement.",
-    "content": "七夕坂夢幻能 〜 Taboo Japan Disentanglement."
+    "id": "/music#未知之花-魅知之旅",
+    "title": "未知之花 魅知之旅",
+    "content": "未知之花 魅知之旅"
   },
   {
-    "id": "/music#幺樂団の歴史1-akyus-untouched-score-vol1",
-    "title": "幺樂団の歴史1 Akyu’s Untouched Score vol.1",
-    "content": "幺樂団の歴史1 Akyu’s Untouched Score vol.1"
+    "id": "/music#鸟船遗迹-trojan-green-asteroid",
+    "title": "鸟船遗迹　～ Trojan Green Asteroid",
+    "content": "鸟船遗迹　～ Trojan Green Asteroid"
   },
   {
-    "id": "/music#幺樂団の歴史2-akyus-untouched-score-vol2",
-    "title": "幺樂団の歴史2 Akyu’s Untouched Score vol.2",
-    "content": "幺樂団の歴史2 Akyu’s Untouched Score vol.2"
+    "id": "/music#伊奘诺物质-neo-traditionalism-of-japan",
+    "title": "伊奘诺物质　～ Neo-traditionalism of Japan.",
+    "content": "伊奘诺物质　～ Neo-traditionalism of Japan."
   },
   {
-    "id": "/music#幺樂団の歴史3-akyus-untouched-score-vol3",
-    "title": "幺樂団の歴史3 Akyu’s Untouched Score vol.3",
-    "content": "幺樂団の歴史3 Akyu’s Untouched Score vol.3"
+    "id": "/music#燕石博物志-drlatencys-freak-report",
+    "title": "燕石博物志　～ Dr.Latency’s Freak Report.",
+    "content": "燕石博物志　～ Dr.Latency’s Freak Report."
   },
   {
-    "id": "/music#幺樂団の歴史4-akyus-untouched-score-vol4",
-    "title": "幺樂団の歴史4 Akyu’s Untouched Score vol.4",
-    "content": "幺樂団の歴史4 Akyu’s Untouched Score vol.4"
+    "id": "/music#旧约酒馆-dateless-bar-old-adam",
+    "title": "旧约酒馆　～ Dateless Bar “Old Adam”.",
+    "content": "旧约酒馆　～ Dateless Bar “Old Adam”."
   },
   {
-    "id": "/music#幺樂団の歴史5-akyus-untouched-score-vol5",
-    "title": "幺樂団の歴史5 Akyu’s Untouched Score vol.5",
-    "content": "幺樂団の歴史5 Akyu’s Untouched Score vol.5"
+    "id": "/music#虹色的北斗七星",
+    "title": "虹色的北斗七星",
+    "content": "虹色的北斗七星"
+  },
+  {
+    "id": "/music#七夕坂梦幻能-taboo-japan-disentanglement",
+    "title": "七夕坂梦幻能　～ Taboo Japan Disentanglement.",
+    "content": "七夕坂梦幻能　～ Taboo Japan Disentanglement."
+  },
+  {
+    "id": "/music#幺乐团的历史-akyus-untouched-score-vol1",
+    "title": "幺乐团的历史　～ Akyu’s Untouched Score vol.1",
+    "content": "幺乐团的历史　～ Akyu’s Untouched Score vol.1"
+  },
+  {
+    "id": "/music#幺乐团的历史-akyus-untouched-score-vol2",
+    "title": "幺乐团的历史　～ Akyu’s Untouched Score vol.2",
+    "content": "幺乐团的历史　～ Akyu’s Untouched Score vol.2"
+  },
+  {
+    "id": "/music#幺乐团的历史-akyus-untouched-score-vol3",
+    "title": "幺乐团的历史　～ Akyu’s Untouched Score vol.3",
+    "content": "幺乐团的历史　～ Akyu’s Untouched Score vol.3"
+  },
+  {
+    "id": "/music#幺乐团的历史-akyus-untouched-score-vol4",
+    "title": "幺乐团的历史　～ Akyu’s Untouched Score vol.4",
+    "content": "幺乐团的历史　～ Akyu’s Untouched Score vol.4"
+  },
+  {
+    "id": "/music#幺乐团的历史-akyus-untouched-score-vol5",
+    "title": "幺乐团的历史　～ Akyu’s Untouched Score vol.5",
+    "content": "幺乐团的历史　～ Akyu’s Untouched Score vol.5"
   },
   {
     "id": "/music#黄昏边境黄昏フロンティア",
@@ -180,49 +210,89 @@
     "content": "黄昏边境/黄昏フロンティア"
   },
   {
-    "id": "/music#spotify-1",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#ost-1",
+    "title": "OST",
+    "content": "OST"
   },
   {
-    "id": "/music#幻想曲抜萃",
-    "title": "幻想曲抜萃",
-    "content": "幻想曲抜萃"
+    "id": "/music#th75-东方萃梦想-immaterial-and-missing-power",
+    "title": "Th7.5 东方萃梦想　～ Immaterial and Missing Power.",
+    "content": "Th7.5 东方萃梦想　～ Immaterial and Missing Power."
   },
   {
-    "id": "/music#全人類ノ天楽録",
-    "title": "全人類ノ天楽録",
-    "content": "全人類ノ天楽録"
+    "id": "/music#th105-东方绯想天-scarlet-weather-rhapsody",
+    "title": "Th10.5 东方绯想天　～ Scarlet Weather Rhapsody.",
+    "content": "Th10.5 东方绯想天　～ Scarlet Weather Rhapsody."
   },
   {
-    "id": "/music#核熱造神ヒソウテンソク",
-    "title": "核熱造神ヒソウテンソク",
-    "content": "核熱造神ヒソウテンソク"
+    "id": "/music#th123-东方非想天则-追寻特大型人偶之谜",
+    "title": "Th12.3 东方非想天则　～ 追寻特大型人偶之谜",
+    "content": "Th12.3 东方非想天则　～ 追寻特大型人偶之谜"
   },
   {
-    "id": "/music#暗黒能楽集心綺楼",
-    "title": "暗黒能楽集・心綺楼",
-    "content": "暗黒能楽集・心綺楼"
+    "id": "/music#th135-东方心绮楼-hopeless-masquerade",
+    "title": "Th13.5 东方心绮楼　～ Hopeless Masquerade.",
+    "content": "Th13.5 东方心绮楼　～ Hopeless Masquerade."
   },
   {
-    "id": "/music#深秘的楽曲集",
-    "title": "深秘的楽曲集",
-    "content": "深秘的楽曲集"
+    "id": "/music#th145-东方深秘录-urban-legend-in-limbo",
+    "title": "Th14.5 东方深秘录　～ Urban Legend in Limbo.",
+    "content": "Th14.5 东方深秘录　～ Urban Legend in Limbo."
   },
   {
-    "id": "/music#完全憑依ディスコグラフィ",
-    "title": "完全憑依ディスコグラフィ",
-    "content": "完全憑依ディスコグラフィ"
+    "id": "/music#th155-东方凭依华-antinomy-of-common-flowers",
+    "title": "Th15.5 东方凭依华　～ Antinomy of Common Flowers.",
+    "content": "Th15.5 东方凭依华　～ Antinomy of Common Flowers."
   },
   {
-    "id": "/music#強欲な獣のムジカ-東方剛欲異聞-original-sound-track",
-    "title": "強欲な獣のムジカ (東方剛欲異聞 ORIGINAL SOUND TRACK)",
-    "content": "強欲な獣のムジカ (東方剛欲異聞 ORIGINAL SOUND TRACK)"
+    "id": "/music#th175-东方刚欲异闻-被水淹没的沉愁地狱",
+    "title": "Th17.5 东方刚欲异闻　～ 被水淹没的沉愁地狱",
+    "content": "Th17.5 东方刚欲异闻　～ 被水淹没的沉愁地狱"
   },
   {
-    "id": "/music#魔理沙と６つのキノコ-original-sound-track",
-    "title": "魔理沙と６つのキノコ ORIGINAL SOUND TRACK",
-    "content": "魔理沙と６つのキノコ ORIGINAL SOUND TRACK"
+    "id": "/music#专辑-1",
+    "title": "专辑",
+    "content": "专辑"
+  },
+  {
+    "id": "/music#幻想曲抜萃--東方萃夢想-original-sound-track",
+    "title": "幻想曲抜萃 ～ 東方萃夢想 ORIGINAL SOUND TRACK",
+    "content": "幻想曲抜萃 ～ 東方萃夢想 ORIGINAL SOUND TRACK"
+  },
+  {
+    "id": "/music#全人類ノ天楽録--東方緋想天-original-sound-track-cover-image",
+    "title": "全人類ノ天楽録 ～ 東方緋想天 ORIGINAL SOUND TRACK Cover Image",
+    "content": "全人類ノ天楽録 ～ 東方緋想天 ORIGINAL SOUND TRACK Cover Image"
+  },
+  {
+    "id": "/music#核熱造神ヒソウテンソク--東方非想天則-original-sound-track",
+    "title": "核熱造神ヒソウテンソク ～ 東方非想天則 ORIGINAL SOUND TRACK",
+    "content": "核熱造神ヒソウテンソク ～ 東方非想天則 ORIGINAL SOUND TRACK"
+  },
+  {
+    "id": "/music#暗黒能楽集心綺楼-東方心綺楼-original-soundtrack-cover-image",
+    "title": "暗黒能楽集・心綺楼 東方心綺楼 ORIGINAL SOUNDTRACK Cover Image",
+    "content": "暗黒能楽集・心綺楼 東方心綺楼 ORIGINAL SOUNDTRACK Cover Image"
+  },
+  {
+    "id": "/music#深秘的楽曲集宇佐見菫子と秘密の部室",
+    "title": "深秘的楽曲集　宇佐見菫子と秘密の部室",
+    "content": "深秘的楽曲集　宇佐見菫子と秘密の部室"
+  },
+  {
+    "id": "/music#深秘的楽曲集補東方深秘録初回特典ｃｄ",
+    "title": "深秘的楽曲集·補　東方深秘録初回特典ＣＤ",
+    "content": "深秘的楽曲集·補　東方深秘録初回特典ＣＤ"
+  },
+  {
+    "id": "/music#完全憑依ディスコグラフィ東方憑依華-original-sound-track-cover-image",
+    "title": "完全憑依ディスコグラフィ　東方憑依華 ORIGINAL SOUND TRACK Cover Image",
+    "content": "完全憑依ディスコグラフィ　東方憑依華 ORIGINAL SOUND TRACK Cover Image"
+  },
+  {
+    "id": "/music#強欲な獣のムジカ東方剛欲異聞-original-sound-track-cover-image",
+    "title": "強欲な獣のムジカ　東方剛欲異聞 ORIGINAL SOUND TRACK Cover Image",
+    "content": "強欲な獣のムジカ　東方剛欲異聞 ORIGINAL SOUND TRACK Cover Image"
   },
   {
     "id": "/music#社团",
@@ -235,9 +305,9 @@
     "content": "凋叶棕"
   },
   {
-    "id": "/music#spotify-2",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-2",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#宴",
@@ -255,9 +325,14 @@
     "content": "掲"
   },
   {
-    "id": "/music#童遊warabe-asobikids-playめらみぽっぷいお-ver",
-    "title": "童遊(Warabe-Asobi/Kid’s Play)（めらみぽっぷ＆いお ver.）",
-    "content": "童遊(Warabe-Asobi/Kid’s Play)（めらみぽっぷ＆いお ver.）"
+    "id": "/music#mv",
+    "title": "MV",
+    "content": "MV"
+  },
+  {
+    "id": "/music#童遊warabe-asobi-kids-playめらみぽっぷいお-ver",
+    "title": "童遊(Warabe-Asobi /Kid’s Play)（めらみぽっぷ＆いお ver.）",
+    "content": "童遊(Warabe-Asobi /Kid’s Play)（めらみぽっぷ＆いお ver.）"
   },
   {
     "id": "/music#魂音泉",
@@ -265,14 +340,14 @@
     "content": "魂音泉"
   },
   {
-    "id": "/music#spotify-3",
-    "title": "Spotify",
-    "content": "Spotify"
-  },
-  {
     "id": "/music#elysion-ii-toho-geek",
     "title": "Elysion II :TOHO Geek",
     "content": "Elysion II :TOHO Geek"
+  },
+  {
+    "id": "/music#the-selected-works-of-tamaonsen-ex",
+    "title": "THE SELECTED WORKS OF TAMAONSEN EX",
+    "content": "THE SELECTED WORKS OF TAMAONSEN EX"
   },
   {
     "id": "/music#kalanchoe-records",
@@ -280,9 +355,9 @@
     "content": "KALANCHOE RECORDS"
   },
   {
-    "id": "/music#spotify-4",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#wind-of-faith",
+    "title": "Wind of Faith",
+    "content": "Wind of Faith"
   },
   {
     "id": "/music#moonlight-sanctuary",
@@ -290,19 +365,9 @@
     "content": "Moonlight Sanctuary"
   },
   {
-    "id": "/music#wind-of-faith",
-    "title": "Wind of Faith",
-    "content": "Wind of Faith"
-  },
-  {
     "id": "/music#彩音-xi-on",
     "title": "彩音 ～xi-on～",
     "content": "彩音 ～xi-on～"
-  },
-  {
-    "id": "/music#spotify-5",
-    "title": "Spotify",
-    "content": "Spotify"
   },
   {
     "id": "/music#彩花永月--さいかえいげつ-",
@@ -315,19 +380,9 @@
     "content": "幽闭星光/幽閉サテライト"
   },
   {
-    "id": "/music#spotify-6",
-    "title": "Spotify",
-    "content": "Spotify"
-  },
-  {
     "id": "/music#yonder-voice",
     "title": "Yonder Voice",
     "content": "Yonder Voice"
-  },
-  {
-    "id": "/music#spotify-7",
-    "title": "Spotify",
-    "content": "Spotify"
   },
   {
     "id": "/music#alstroemeria-records",
@@ -335,34 +390,29 @@
     "content": "Alstroemeria Records"
   },
   {
-    "id": "/music#spotify-8",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-3",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
-    "id": "/music#10th-anniversary-bad-apple-featnomico",
-    "title": "10th ANNIVERSARY Bad Apple!! feat.nomico",
-    "content": "10th ANNIVERSARY Bad Apple!! feat.nomico"
+    "id": "/music#10th-anniversary-bad-apple",
+    "title": "10th Anniversary Bad Apple!!",
+    "content": "10th Anniversary Bad Apple!!"
   },
   {
-    "id": "/music#10th-anniversary-bad-apple-featnomico-phase2",
-    "title": "10th ANNIVERSARY Bad Apple!! feat.nomico PHASE2",
-    "content": "10th ANNIVERSARY Bad Apple!! feat.nomico PHASE2"
+    "id": "/music#10th-anniversary-bad-apple-phase2",
+    "title": "10th Anniversary Bad Apple!! PHASE2",
+    "content": "10th Anniversary Bad Apple!! PHASE2"
   },
   {
-    "id": "/music#10th-anniversary-bad-apple-featnomico-phase3",
-    "title": "10th Anniversary Bad Apple!! feat.nomico PHASE3",
-    "content": "10th Anniversary Bad Apple!! feat.nomico PHASE3"
+    "id": "/music#10th-anniversary-bad-apple-phase3",
+    "title": "10th Anniversary Bad Apple!! PHASE3",
+    "content": "10th Anniversary Bad Apple!! PHASE3"
   },
   {
     "id": "/music#coolcreate",
     "title": "COOL&CREATE",
     "content": "COOL&CREATE"
-  },
-  {
-    "id": "/music#spotify-9",
-    "title": "Spotify",
-    "content": "Spotify"
   },
   {
     "id": "/music#オールナイトオブナイツ",
@@ -375,19 +425,9 @@
     "content": "暁Records"
   },
   {
-    "id": "/music#spotify-10",
-    "title": "Spotify",
-    "content": "Spotify"
-  },
-  {
     "id": "/music#undead-corporation",
     "title": "UNDEAD CORPORATION",
     "content": "UNDEAD CORPORATION"
-  },
-  {
-    "id": "/music#spotify-11",
-    "title": "Spotify",
-    "content": "Spotify"
   },
   {
     "id": "/music#紅染の鬼が哭く",
@@ -395,14 +435,9 @@
     "content": "紅染の鬼が哭く"
   },
   {
-    "id": "/music#东京active-neets東京アクティブneets-",
+    "id": "/music#东京active-neets東京アクティブneets",
     "title": "东京Active NEETs/東京アクティブNEETs",
     "content": "东京Active NEETs/東京アクティブNEETs"
-  },
-  {
-    "id": "/music#spotify-12",
-    "title": "Spotify",
-    "content": "Spotify"
   },
   {
     "id": "/music#交响active-neets交響アクティブneets",
@@ -410,14 +445,9 @@
     "content": "交响Active NEETs/交響アクティブNEETs"
   },
   {
-    "id": "/music#spotify-13",
-    "title": "Spotify",
-    "content": "Spotify"
-  },
-  {
-    "id": "/music#東方フィルハーモニー交響楽団-メドレィズ",
-    "title": "東方フィルハーモニー交響楽団 メドレィズ",
-    "content": "東方フィルハーモニー交響楽団 メドレィズ"
+    "id": "/music#東方フィルハーモニー交響楽団メドレィズ",
+    "title": "東方フィルハーモニー交響楽団メドレィズ",
+    "content": "東方フィルハーモニー交響楽団メドレィズ"
   },
   {
     "id": "/music#狐尾草foxtail-grass-studio",
@@ -425,49 +455,39 @@
     "content": "狐尾草/Foxtail-Grass Studio"
   },
   {
-    "id": "/music#spotify-14",
-    "title": "Spotify",
-    "content": "Spotify"
-  },
-  {
     "id": "/music#mondorium",
     "title": "mondorium",
     "content": "mondorium"
   },
   {
-    "id": "/music#spotify-15",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#少女作業中-subterranean-animism",
+    "title": "少女作業中　～ Subterranean Animism.",
+    "content": "少女作業中　～ Subterranean Animism."
   },
   {
-    "id": "/music#少女作業中--subterranean-animism",
-    "title": "少女作業中 ～ Subterranean Animism.",
-    "content": "少女作業中 ～ Subterranean Animism."
+    "id": "/music#少女作業中-shoot-the-bullet",
+    "title": "少女作業中　～ Shoot the Bullet.",
+    "content": "少女作業中　～ Shoot the Bullet."
   },
   {
-    "id": "/music#少女作業中--shoot-the-bullet",
-    "title": "少女作業中 ～ Shoot the Bullet.",
-    "content": "少女作業中 ～ Shoot the Bullet."
+    "id": "/music#少女作業中-perfect-cherry-blossom",
+    "title": "少女作業中　～ Perfect Cherry Blossom.",
+    "content": "少女作業中　～ Perfect Cherry Blossom."
   },
   {
-    "id": "/music#少女作業中--perfect-cherry-blossom",
-    "title": "少女作業中 ～ Perfect Cherry Blossom.",
-    "content": "少女作業中 ～ Perfect Cherry Blossom."
+    "id": "/music#少女作業中-imperishable-night",
+    "title": "少女作業中　～ Imperishable Night.",
+    "content": "少女作業中　～ Imperishable Night."
   },
   {
-    "id": "/music#少女作業中--imperishable-night",
-    "title": "少女作業中 〜 Imperishable Night.",
-    "content": "少女作業中 〜 Imperishable Night."
+    "id": "/music#少女作業中-the-embodiment-of-scarlet-devil",
+    "title": "少女作業中　～ the Embodiment of Scarlet Devil.",
+    "content": "少女作業中　～ the Embodiment of Scarlet Devil."
   },
   {
-    "id": "/music#少女作業中--the-embodiment-of-scarlet-devil",
-    "title": "少女作業中 ～ the Embodiment of Scarlet Devil.",
-    "content": "少女作業中 ～ the Embodiment of Scarlet Devil."
-  },
-  {
-    "id": "/music#少女作業中--mountain-of-faith-2",
-    "title": "少女作業中 〜 Mountain of Faith. 2",
-    "content": "少女作業中 〜 Mountain of Faith. 2"
+    "id": "/music#少女作業中-mountain-of-faith2",
+    "title": "少女作業中　～ Mountain of Faith.2",
+    "content": "少女作業中　～ Mountain of Faith.2"
   },
   {
     "id": "/music#n",
@@ -475,34 +495,34 @@
     "content": "N+"
   },
   {
-    "id": "/music#spotify-16",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-4",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
-    "id": "/music#spill-overfeatchata",
-    "title": "『spill over』feat.Chata",
-    "content": "『spill over』feat.Chata"
+    "id": "/music#spill-over",
+    "title": "spill over",
+    "content": "spill over"
   },
   {
-    "id": "/music#swing-of-the-dead",
-    "title": "Swing Of the Dead",
-    "content": "Swing Of the Dead"
+    "id": "/music#swing-of-the-dead休止",
+    "title": "Swing Of the Dead(休止)",
+    "content": "Swing Of the Dead(休止)"
   },
   {
-    "id": "/music#spotify-17",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-5",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
-    "id": "/music#toho-jazzy-vocal-i",
-    "title": "TOHO JAZZY VOCAL I",
-    "content": "TOHO JAZZY VOCAL I"
+    "id": "/music#toho-jazzy-vocalⅰ",
+    "title": "TOHO JAZZY VOCALⅠ",
+    "content": "TOHO JAZZY VOCALⅠ"
   },
   {
-    "id": "/music#felt",
-    "title": "FELT",
-    "content": "FELT"
+    "id": "/music#felt解散",
+    "title": "FELT(解散)",
+    "content": "FELT(解散)"
   },
   {
     "id": "/music#个人",
@@ -515,9 +535,9 @@
     "content": "FalKKonE"
   },
   {
-    "id": "/music#spotify-18",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-6",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#intense-symphonic-metal-covers-sakuya-izayoi-edition",
@@ -530,9 +550,9 @@
     "content": "Edison Lee"
   },
   {
-    "id": "/music#spotify-19",
-    "title": "Spotify",
-    "content": "Spotify"
+    "id": "/music#专辑-7",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#toho-teatime-ep1",
