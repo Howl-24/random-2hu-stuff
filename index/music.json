@@ -340,6 +340,11 @@
     "content": "魂音泉"
   },
   {
+    "id": "/music#专辑-3",
+    "title": "专辑",
+    "content": "专辑"
+  },
+  {
     "id": "/music#elysion-ii-toho-geek",
     "title": "Elysion II :TOHO Geek",
     "content": "Elysion II :TOHO Geek"
@@ -355,6 +360,11 @@
     "content": "KALANCHOE RECORDS"
   },
   {
+    "id": "/music#专辑-4",
+    "title": "专辑",
+    "content": "专辑"
+  },
+  {
     "id": "/music#wind-of-faith",
     "title": "Wind of Faith",
     "content": "Wind of Faith"
@@ -368,6 +378,11 @@
     "id": "/music#彩音-xi-on",
     "title": "彩音 ～xi-on～",
     "content": "彩音 ～xi-on～"
+  },
+  {
+    "id": "/music#专辑-5",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#彩花永月--さいかえいげつ-",
@@ -390,7 +405,7 @@
     "content": "Alstroemeria Records"
   },
   {
-    "id": "/music#专辑-3",
+    "id": "/music#专辑-6",
     "title": "专辑",
     "content": "专辑"
   },
@@ -415,6 +430,11 @@
     "content": "COOL&CREATE"
   },
   {
+    "id": "/music#专辑-7",
+    "title": "专辑",
+    "content": "专辑"
+  },
+  {
     "id": "/music#オールナイトオブナイツ",
     "title": "オールナイト・オブ・ナイツ",
     "content": "オールナイト・オブ・ナイツ"
@@ -428,6 +448,11 @@
     "id": "/music#undead-corporation",
     "title": "UNDEAD CORPORATION",
     "content": "UNDEAD CORPORATION"
+  },
+  {
+    "id": "/music#专辑-8",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#紅染の鬼が哭く",
@@ -445,6 +470,11 @@
     "content": "交响Active NEETs/交響アクティブNEETs"
   },
   {
+    "id": "/music#专辑-9",
+    "title": "专辑",
+    "content": "专辑"
+  },
+  {
     "id": "/music#東方フィルハーモニー交響楽団メドレィズ",
     "title": "東方フィルハーモニー交響楽団メドレィズ",
     "content": "東方フィルハーモニー交響楽団メドレィズ"
@@ -458,6 +488,11 @@
     "id": "/music#mondorium",
     "title": "mondorium",
     "content": "mondorium"
+  },
+  {
+    "id": "/music#专辑-10",
+    "title": "专辑",
+    "content": "专辑"
   },
   {
     "id": "/music#少女作業中-subterranean-animism",
@@ -495,7 +530,7 @@
     "content": "N+"
   },
   {
-    "id": "/music#专辑-4",
+    "id": "/music#专辑-11",
     "title": "专辑",
     "content": "专辑"
   },
@@ -510,7 +545,7 @@
     "content": "Swing Of the Dead(休止)"
   },
   {
-    "id": "/music#专辑-5",
+    "id": "/music#专辑-12",
     "title": "专辑",
     "content": "专辑"
   },
@@ -535,7 +570,7 @@
     "content": "FalKKonE"
   },
   {
-    "id": "/music#专辑-6",
+    "id": "/music#专辑-13",
     "title": "专辑",
     "content": "专辑"
   },
@@ -550,7 +585,7 @@
     "content": "Edison Lee"
   },
   {
-    "id": "/music#专辑-7",
+    "id": "/music#专辑-14",
     "title": "专辑",
     "content": "专辑"
   },

@@ -152,6 +152,7 @@
 
 ## 魂音泉
 [Spotify](https://open.spotify.com/artist/7KETDASc4oTHgEAo7m1NpQ) [YouTube](https://www.youtube.com/channel/UCqpbRaygFCfsLj1dPl9OmwQ) [Wiki](https://thwiki.cc/%E9%AD%82%E9%9F%B3%E6%B3%89)
+### 专辑
 #### Elysion II :TOHO Geek
 [Spotify](https://open.spotify.com/album/7MTFKt6pD1Nbw5WAcPnq5f) [Wiki](https://thwiki.cc/Elysion_II%EF%BC%9ATOHO_Geek)
 #### THE SELECTED WORKS OF TAMAONSEN EX
@@ -159,12 +160,14 @@
 
 ## KALANCHOE RECORDS
 [Spotify](https://open.spotify.com/artist/6nRWVgasMNfJuXxg8dC5OW) [YouTube](https://www.youtube.com/@kalanchoerecords) [Wiki](https://thwiki.cc/KALANCHOE_RECORDS)
+### 专辑
 #### Wind of Faith
 [Spotify](https://open.spotify.com/album/5aUZzSNOznLqXbeL0uic4C) [Wiki](https://thwiki.cc/Wind_of_Faith)
 #### Moonlight Sanctuary
 [Spotify](https://open.spotify.com/album/0prhcQmXiCxp7pMiaJDppc) [Wiki](https://thwiki.cc/Moonlight_Sanctuary)
 
 ## 彩音 ～xi-on～
+### 专辑
 [Spotify](https://open.spotify.com/artist/677CYbjdYd14bhjISkVTA3) [YouTube](https://www.youtube.com/@xionmusic) [Wiki](https://thwiki.cc/%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E)
 #### 彩花永月 -さいかえいげつ-
 [Spotify](https://open.spotify.com/album/698BLTGNZNmm6MRLM11aqp) [Wiki](https://thwiki.cc/%E5%BD%A9%E8%8A%B1%E6%B0%B8%E6%9C%88_-%E3%81%95%E3%81%84%E3%81%8B%E3%81%88%E3%81%84%E3%81%92%E3%81%A4-)
@@ -187,6 +190,7 @@
 
 ## COOL&CREATE
 [Spotify](https://open.spotify.com/artist/6iCaBLgyK2nJqzSkCGrV4L) [YouTube](https://www.youtube.com/@beatmario) [Wiki](https://thwiki.cc/COOL%26CREATE)
+### 专辑
 #### オールナイト・オブ・ナイツ
 [Spotify](https://open.spotify.com/album/3XmsHV9gq72ENvqFvYf79V) [Wiki](https://thwiki.cc/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84)
 
@@ -195,6 +199,7 @@
 
 ## UNDEAD CORPORATION
 [Spotify](https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX) [YouTube](https://www.youtube.com/channel/UCjeBoy31Copp1o02SOlNqWQ) [Wiki](https://thwiki.cc/UNDEAD_CORPORATION)
+### 专辑
 #### 紅染の鬼が哭く
 [Spotify](https://open.spotify.com/album/5KpTQAeu7QSEthFdPUYzlm) [Wiki](https://thwiki.cc/%E7%B4%85%E6%9F%93%E3%81%AE%E9%AC%BC%E3%81%8C%E5%93%AD%E3%81%8F)
 
@@ -203,6 +208,7 @@
 
 ## 交响Active NEETs/交響アクティブNEETs
 [Spotify](https://open.spotify.com/artist/7zWsYDdOdderAU20zDNGtv) [YouTube](https://www.youtube.com/@KokyoActiveNEETs) [Wiki](https://thwiki.cc/%E4%BA%A4%E9%9F%BF%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96NEETs)
+### 专辑
 #### 東方フィルハーモニー交響楽団メドレィズ
 [Spotify](https://open.spotify.com/album/6H5Qu5Q2331Be4yFl9yIvs) [Wiki](https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3%E3%83%A1%E3%83%89%E3%83%AC%E3%82%A3%E3%82%BA)
 
@@ -211,6 +217,7 @@
 
 ## mondorium
 [Spotify](https://open.spotify.com/artist/7yQ9UYPAFGCEZQww4EGa0O) [YouTube](https://www.youtube.com/@mondorium) [Wiki](https://thwiki.cc/mondorium)
+### 专辑
 #### 少女作業中　～ Subterranean Animism.
 [Spotify](https://open.spotify.com/album/2N5BcoUgtCdY2NxjQWTbOm) [Wiki](https://thwiki.cc/%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Subterranean_Animism.)
 #### 少女作業中　～ Shoot the Bullet.
