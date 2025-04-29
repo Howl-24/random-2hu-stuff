@@ -81,6 +81,7 @@ permalink: /mmd/
 ##### [【東方MMD紙芝居】アリスと人形](https://www.youtube.com/watch?v=9Rnn4u1I8I8)
 ##### [【東方MMD紙芝居】しかけ絵本の夢想曲～ポップアップ・トロイメライ～](https://www.youtube.com/watch?v=yTN_0cOuRsU)
 ##### [【東方MMD紙芝居】猫耳異変](https://www.youtube.com/watch?v=20xEprO1HIY)
+##### [【東方MMD紙芝居】鰻の味が変わった話](https://www.youtube.com/watch?v=z1CYCxsO-b8)
 ### biliblil
 #### 本篇
 ##### [【东方MMD】重启魔理沙](https://www.bilibili.com/video/BV1aq4y1Q7X2) CC字幕
