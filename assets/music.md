@@ -25,7 +25,7 @@
   - [Edison Lee](#edison-lee)
 
 # 官方
-## 上海爱丽丝幻乐团/上海アリス幻樂団
+## ![](https://i.scdn.co/image/ab67616d00001e0296350dab8a493ca50abc8d34)上海爱丽丝幻乐团/上海アリス幻樂団
 [Spotify](https://open.spotify.com/artist/53UfU5Etv91LUU69GzTQ1X) [Wiki](https://thwiki.cc/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E5%B9%BB%E4%B9%90%E5%9B%A2)
 ### OST
 #### Th06 东方红魔乡　～ the Embodiment of Scarlet Devil.
@@ -102,7 +102,7 @@
 #### 幺乐团的历史　～ Akyu's Untouched Score vol.5
 [Spotify](https://open.spotify.com/album/0y7JbQEfQQ39jWeqlknw05) [Wiki](https://thwiki.cc/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B25)
 
-## 黄昏边境/黄昏フロンティア
+## ![](https://i.scdn.co/image/ab67616d0000e1a3d1930132a5395d67caa6c89a)黄昏边境/黄昏フロンティア
 [Spotify](https://open.spotify.com/artist/1dzPHjckgJihSzVzKOvHxO) [Wiki](https://thwiki.cc/%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83)
 ### OST
 #### Th7.5 东方萃梦想　～ Immaterial and Missing Power.
@@ -138,11 +138,15 @@
 [Spotify](https://open.spotify.com/album/3VjUXrHBTbigUnAcZxxG6m) [wiki](https://thwiki.cc/%E8%B4%AA%E6%AC%B2%E4%B9%8B%E5%85%BD%E7%9A%84%E9%9F%B3%E4%B9%90)
 
 # 社团
-## 凋叶棕
+## ![](https://i.scdn.co/image/ab67616d0000e1a3cb057f9a6bf82dfabcb19a8d)凋叶棕
 [Spotify](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO) [YouTube](https://www.youtube.com/@rd-soundsofficial) [Wiki](https://thwiki.cc/%E5%87%8B%E5%8F%B6%E6%A3%95)
 ### 专辑
 #### 宴
 [Spotify](https://open.spotify.com/album/5BxLnraFa9SBgSvCkUTu2k) [Wiki](https://thwiki.cc/%E5%AE%B4%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
+#### 廻
+[Spotify](https://open.spotify.com/album/3wJZ1gfjxQB3Ouo6LM2MqQ) [Wiki](https://thwiki.cc/%E5%BB%BB)
+#### 憩
+[Spotify](https://open.spotify.com/album/525WLkIt9pKF1cIV3nFE8S) [Wiki](https://thwiki.cc/%E6%86%A9)
 #### 望
 [Spotify](https://open.spotify.com/album/5YPp2cNZ7glfiQcEmD3zb1) [Wiki](https://thwiki.cc/%E6%9C%9B%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
 #### 掲
@@ -150,7 +154,7 @@
 ### MV
 #### [童遊(Warabe-Asobi /Kid's Play)（めらみぽっぷ＆いお ver.）](https://www.youtube.com/watch?v=4p-WkT_vGJo)
 
-## 魂音泉
+## ![](https://i.scdn.co/image/ab67616d0000e1a39c530c1fbaf0ce8f508496fc)魂音泉
 [Spotify](https://open.spotify.com/artist/7KETDASc4oTHgEAo7m1NpQ) [YouTube](https://www.youtube.com/channel/UCqpbRaygFCfsLj1dPl9OmwQ) [Wiki](https://thwiki.cc/%E9%AD%82%E9%9F%B3%E6%B3%89)
 ### 专辑
 #### Elysion II :TOHO Geek
@@ -158,7 +162,7 @@
 #### THE SELECTED WORKS OF TAMAONSEN EX
 [spotify](https://open.spotify.com/album/55zai3AsBWvrI7kPxwCkP9) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_EX)
 
-## KALANCHOE RECORDS
+## ![](https://i.scdn.co/image/ab67616d0000e1a33e695e783363bd759c16fe08)KALANCHOE RECORDS
 [Spotify](https://open.spotify.com/artist/6nRWVgasMNfJuXxg8dC5OW) [YouTube](https://www.youtube.com/@kalanchoerecords) [Wiki](https://thwiki.cc/KALANCHOE_RECORDS)
 ### 专辑
 #### Wind of Faith
@@ -166,19 +170,19 @@
 #### Moonlight Sanctuary
 [Spotify](https://open.spotify.com/album/0prhcQmXiCxp7pMiaJDppc) [Wiki](https://thwiki.cc/Moonlight_Sanctuary)
 
-## 彩音 ～xi-on～
+## ![](https://i.scdn.co/image/ab67616d0000e1a38b415e31f0e5c0ecfde4615a)彩音 ～xi-on～
 ### 专辑
 [Spotify](https://open.spotify.com/artist/677CYbjdYd14bhjISkVTA3) [YouTube](https://www.youtube.com/@xionmusic) [Wiki](https://thwiki.cc/%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E)
 #### 彩花永月 -さいかえいげつ-
 [Spotify](https://open.spotify.com/album/698BLTGNZNmm6MRLM11aqp) [Wiki](https://thwiki.cc/%E5%BD%A9%E8%8A%B1%E6%B0%B8%E6%9C%88_-%E3%81%95%E3%81%84%E3%81%8B%E3%81%88%E3%81%84%E3%81%92%E3%81%A4-)
 
-## 幽闭星光/幽閉サテライト
+## ![](https://i.scdn.co/image/ab67616d0000e1a3a80c9c7195cb915f5b8b0fb9)幽闭星光/幽閉サテライト
 [Spotify](https://open.spotify.com/artist/2SAR9drBQcqYVx0hdZPVmo) [YouTube](https://www.youtube.com/@yuuheitube2011) [Wiki](https://thwiki.cc/%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89)
 
-## Yonder Voice
+## ![](https://i.scdn.co/image/ab67616d0000e1a397fe898f05f8cbf9d728f45b)Yonder Voice
 [Spotify](https://open.spotify.com/artist/3nFZFc0DNsp0FPy1E3u78l) [YouTube](https://www.youtube.com/@yondervoice9615) [Wiki](https://thwiki.cc/Yonder_Voice)
 
-## Alstroemeria Records
+## ![](https://i.scdn.co/image/ab67616d0000e1a3c58e8c7222bea9bcc7782c1d)Alstroemeria Records
 [Spotify](https://open.spotify.com/artist/3wsXGKiJ4bCByD0jHHbL4Y) [YouTube](https://www.youtube.com/@AlstroemeriaRecords) [Wiki](https://thwiki.cc/Alstroemeria_Records)
 ### 专辑
 #### 10th Anniversary Bad Apple!!
@@ -188,34 +192,34 @@
 #### 10th Anniversary Bad Apple!! PHASE3
 [Spotify](https://open.spotify.com/album/48kKlY5ZEgtUmyoUnA1BpU) [Wiki](https://thwiki.cc/10th_Anniversary_Bad_Apple%EF%BC%81%EF%BC%81PHASE3)
 
-## COOL&CREATE
+## ![](https://i.scdn.co/image/ab67616d0000e1a377dc10acd08f28f2d32e66b4)COOL&CREATE
 [Spotify](https://open.spotify.com/artist/6iCaBLgyK2nJqzSkCGrV4L) [YouTube](https://www.youtube.com/@beatmario) [Wiki](https://thwiki.cc/COOL%26CREATE)
 ### 专辑
 #### オールナイト・オブ・ナイツ
 [Spotify](https://open.spotify.com/album/3XmsHV9gq72ENvqFvYf79V) [Wiki](https://thwiki.cc/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84)
 
-## 暁Records
+## ![](https://i.scdn.co/image/ab67616d0000e1a39b32f1370e5c73a1bfc15e69)暁Records
 [Spotify](https://open.spotify.com/artist/6j1DAkRNEEfYCkASzuPFfZ) [YouTube](https://www.youtube.com/@Akatsuki-Records) [Wiki](https://thwiki.cc/%E6%9A%81Records)
 
-## UNDEAD CORPORATION
+## ![](https://i.scdn.co/image/ab67616d0000e1a326990743b32477cef10d6988)UNDEAD CORPORATION
 [Spotify](https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX) [YouTube](https://www.youtube.com/channel/UCjeBoy31Copp1o02SOlNqWQ) [Wiki](https://thwiki.cc/UNDEAD_CORPORATION)
 ### 专辑
 #### 紅染の鬼が哭く
 [Spotify](https://open.spotify.com/album/5KpTQAeu7QSEthFdPUYzlm) [Wiki](https://thwiki.cc/%E7%B4%85%E6%9F%93%E3%81%AE%E9%AC%BC%E3%81%8C%E5%93%AD%E3%81%8F)
 
-## 东京Active NEETs/東京アクティブNEETs
+## ![](https://i.scdn.co/image/ab67616d0000e1a3e776075a36ca9074acf4a924)东京Active NEETs/東京アクティブNEETs
 [Spotify](https://open.spotify.com/artist/5J3AVQ30ac1UbttX380LQo) [YouTube](https://www.youtube.com/@ActiveNEETs) [Wiki](https://thwiki.cc/%E6%9D%B1%E4%BA%AC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96NEETs)
 
-## 交响Active NEETs/交響アクティブNEETs
+## ![](https://i.scdn.co/image/ab67616d0000e1a34d979df32464b0ff9ddefffb)交响Active NEETs/交響アクティブNEETs
 [Spotify](https://open.spotify.com/artist/7zWsYDdOdderAU20zDNGtv) [YouTube](https://www.youtube.com/@KokyoActiveNEETs) [Wiki](https://thwiki.cc/%E4%BA%A4%E9%9F%BF%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96NEETs)
 ### 专辑
 #### 東方フィルハーモニー交響楽団メドレィズ
 [Spotify](https://open.spotify.com/album/6H5Qu5Q2331Be4yFl9yIvs) [Wiki](https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3%E3%83%A1%E3%83%89%E3%83%AC%E3%82%A3%E3%82%BA)
 
-## 狐尾草/Foxtail-Grass Studio
+## ![](https://i.scdn.co/image/ab6761610000101f7e9ef25c35ef224de04be8f8)狐尾草/Foxtail-Grass Studio
 [Spotify](https://open.spotify.com/artist/0eFVVg97VFAlMg1tNoYfDJ) [YouTube](https://www.youtube.com/channel/UCXEkrBPElUXrlVvap7Rmpbg) [Wiki](https://thwiki.cc/Foxtail-Grass_Studio)
 
-## mondorium
+## ![](https://i.scdn.co/image/ab67616d0000e1a3ef818cc6a6f1d52d29710ee5)mondorium
 [Spotify](https://open.spotify.com/artist/7yQ9UYPAFGCEZQww4EGa0O) [YouTube](https://www.youtube.com/@mondorium) [Wiki](https://thwiki.cc/mondorium)
 ### 专辑
 #### 少女作業中　～ Subterranean Animism.
@@ -231,29 +235,29 @@
 #### 少女作業中　～ Mountain of Faith.2
 [Spotify](https://open.spotify.com/album/5WPFcf7vQ6TriCLZduPMRX) [Wiki](https://thwiki.cc/%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Mountain_of_Faith.2)
 
-## N+
+## ![](https://i.scdn.co/image/ab67616d0000e1a350c4cefe4b096142c8ef2b82)N+
 [Spotify](https://open.spotify.com/artist/6C7WG62kx4mkGa2K3VBOqH) [Wiki](https://thwiki.cc/N%2B)
 ### 专辑
 #### spill over
 [Spotify](https://open.spotify.com/album/4KHOBkkOnTHfsUuInQHjdi) [Wiki](https://thwiki.cc/spill_over)
 
-## Swing Of the Dead(休止)
+## ![](https://i.scdn.co/image/ab67616d0000e1a30ed335bd37bfeadcdb893342)Swing Of the Dead(休止)
 [Spotify](https://open.spotify.com/artist/4zd8pOTFHEzC3CSJhGfVnm) [Wiki](https://thwiki.cc/Swing_Of_the_Dead)
 ### 专辑
 #### TOHO JAZZY VOCALⅠ
 [Spotify](https://open.spotify.com/album/06XPs9K4lRqiUc0FkBx4SR) [Wiki](https://thwiki.cc/TOHO_JAZZY_VOCAL%E2%85%A0)
 
-## FELT(解散)
+## ![](https://yt3.googleusercontent.com/ytc/AIdro_ku4YEKlAyvJkO2UFDYyBth15rQxDpfmD8L8hpOiNoxVw=s160-c-k-c0x00ffffff-no-rj)FELT(解散)
 [YouTube](https://www.youtube.com/@Felt2010) [Wiki](https://thwiki.cc/FELT)
 
 # 个人
-## FalKKonE
+## ![](https://i.scdn.co/image/ab6761610000101fa1454eefddff8d7c7ad37424)FalKKonE
 [Spotify](https://open.spotify.com/artist/4pAgH7ZVMfeEqm11iwwYjA) [YouTube](https://www.youtube.com/@FalKKonE) [Offical](https://www.falkkone.com/)
 ### 专辑
 #### Intense Symphonic Metal Covers: Sakuya Izayoi Edition
 [Spotify](https://open.spotify.com/album/2Ho6mxMLwYW8vMh6o4jXIQ)
 
-## Edison Lee
+## ![](https://i.scdn.co/image/ab6761610000101fe4b7d4ab48b9633f7e15ac0f)Edison Lee
 [Spotify](https://open.spotify.com/artist/4Q7G9k5AmNoUKDnN4ACain) [YouTube](https://www.youtube.com/channel/UCItqSN7qI1VUEFnyURsnZVQ) [Offical](https://yuna0x0.com/)
 ### 专辑
 #### Toho Teatime, Ep.1
