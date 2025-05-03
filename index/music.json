@@ -325,6 +325,11 @@
     "content": "憩"
   },
   {
+    "id": "/music#綴",
+    "title": "綴",
+    "content": "綴"
+  },
+  {
     "id": "/music#望",
     "title": "望",
     "content": "望"
@@ -333,6 +338,11 @@
     "id": "/music#掲",
     "title": "掲",
     "content": "掲"
+  },
+  {
+    "id": "/music#𠷡",
+    "title": "𠷡",
+    "content": "𠷡"
   },
   {
     "id": "/music#mv",
@@ -358,6 +368,11 @@
     "id": "/music#elysion-ii-toho-geek",
     "title": "Elysion II :TOHO Geek",
     "content": "Elysion II :TOHO Geek"
+  },
+  {
+    "id": "/music#the-selected-works-of-tamaonsen-4",
+    "title": "THE SELECTED WORKS OF TAMAONSEN 4",
+    "content": "THE SELECTED WORKS OF TAMAONSEN 4"
   },
   {
     "id": "/music#the-selected-works-of-tamaonsen-ex",
@@ -448,6 +463,26 @@
     "id": "/music#オールナイトオブナイツ",
     "title": "オールナイト・オブ・ナイツ",
     "content": "オールナイト・オブ・ナイツ"
+  },
+  {
+    "id": "/music#オールナイトオブナイツ-ルナティック",
+    "title": "オールナイト・オブ・ナイツ ルナティック",
+    "content": "オールナイト・オブ・ナイツ ルナティック"
+  },
+  {
+    "id": "/music#mv-1",
+    "title": "MV",
+    "content": "MV"
+  },
+  {
+    "id": "/music#touhou-mv-help-me-erinnnnnn-beatmario",
+    "title": "[Touhou MV] Help me, ERINNNNNN!! [beatMARIO]",
+    "content": "[Touhou MV] Help me, ERINNNNNN!! [beatMARIO]"
+  },
+  {
+    "id": "/music#touhou-mv-cirnos-perfect-math-academy-beatmario",
+    "title": "[Touhou MV] Cirno’s Perfect Math Academy [beatMARIO]",
+    "content": "[Touhou MV] Cirno’s Perfect Math Academy [beatMARIO]"
   },
   {
     "id": "/music#暁records",

@@ -1,7 +1,7 @@
 ---
 layout: music
 title: 音乐
-date: 2025-04-30
+date: 2025-05-03
 permalink: /music/
 ---
 
@@ -158,10 +158,14 @@ permalink: /music/
 [Spotify](https://open.spotify.com/album/3wJZ1gfjxQB3Ouo6LM2MqQ) [Wiki](https://thwiki.cc/%E5%BB%BB)
 #### 憩
 [Spotify](https://open.spotify.com/album/525WLkIt9pKF1cIV3nFE8S) [Wiki](https://thwiki.cc/%E6%86%A9)
+#### 綴
+[Spotify](https://open.spotify.com/album/5QSDpp5WZXVAeUwnKFKgYf) [Wiki](https://thwiki.cc/%E7%B6%B4%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
 #### 望
 [Spotify](https://open.spotify.com/album/5YPp2cNZ7glfiQcEmD3zb1) [Wiki](https://thwiki.cc/%E6%9C%9B%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
 #### 掲
 [Spotify](https://open.spotify.com/album/5lnx1rQmxyn9PojqcRCWV7) [Wiki](https://thwiki.cc/%E6%8E%B2)
+#### 𠷡
+[Spotify](https://open.spotify.com/album/4IQYgoTrHtNSEg6236Vusl) [Wiki](https://thwiki.cc/%F0%A0%B7%A1)
 ### MV
 #### [童遊(Warabe-Asobi /Kid's Play)（めらみぽっぷ＆いお ver.）](https://www.youtube.com/watch?v=4p-WkT_vGJo)
 
@@ -170,6 +174,8 @@ permalink: /music/
 ### 专辑
 #### Elysion II :TOHO Geek
 [Spotify](https://open.spotify.com/album/7MTFKt6pD1Nbw5WAcPnq5f) [Wiki](https://thwiki.cc/Elysion_II%EF%BC%9ATOHO_Geek)
+#### THE SELECTED WORKS OF TAMAONSEN 4
+[Spotify](https://open.spotify.com/album/5lfGPwhGrxuklP1Euhsci0) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_4)
 #### THE SELECTED WORKS OF TAMAONSEN EX
 [spotify](https://open.spotify.com/album/55zai3AsBWvrI7kPxwCkP9) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_EX)
 
@@ -208,6 +214,11 @@ permalink: /music/
 ### 专辑
 #### オールナイト・オブ・ナイツ
 [Spotify](https://open.spotify.com/album/3XmsHV9gq72ENvqFvYf79V) [Wiki](https://thwiki.cc/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84)
+#### オールナイト・オブ・ナイツ ルナティック
+[Spotify](https://open.spotify.com/album/4nlIfS2jBmUx2HdMGBAFWZ) [Wiki](https://thwiki.cc/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84_%E3%83%AB%E3%83%8A%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF)
+### MV
+#### [[Touhou MV] Help me, ERINNNNNN!! [beatMARIO]](https://www.youtube.com/watch?v=X8z23t428kU)
+#### [[Touhou MV] Cirno's Perfect Math Academy [beatMARIO]](https://www.youtube.com/watch?v=JDpkvycpqaQ)
 
 ## ![](https://i.scdn.co/image/ab67616d0000e1a39b32f1370e5c73a1bfc15e69)暁Records
 [Spotify](https://open.spotify.com/artist/6j1DAkRNEEfYCkASzuPFfZ) [YouTube](https://www.youtube.com/@Akatsuki-Records) [Wiki](https://thwiki.cc/%E6%9A%81Records)
