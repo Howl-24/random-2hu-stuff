@@ -1,3 +1,4 @@
+
 # 目录
 - [短片-系列](#短片-系列)
   - [くすり屋](#くすり屋)
@@ -116,6 +117,7 @@
 ##### [【中文内嵌】爱丽丝与人偶 # 番外篇【东方MMD】](https://www.bilibili.com/video/BV1taRsY8EYr) 中文内嵌
 ##### [【東方MMD紙芝居】立体绘本梦想曲～Pop up・Träumerei～](https://www.bilibili.com/video/BV1T6BWYEEZa) 中文内嵌
 ##### [【东方MMD中文内嵌】猫耳异变](https://www.bilibili.com/video/BV1naQXYWEDh) 中文内嵌
+##### [【东方MMD紙芝居】鳗鱼味道变了的故事](https://www.bilibili.com/video/BV1BMGkzcErT)
 
 ## ![](https://yt3.googleusercontent.com/ytc/AIdro_l_7NoR9oTTlVn4BJLxVExujuOiRCB6cZXcSd9OVk8kpyo=s160-c-k-c0x00ffffff-no-rj)[TNT](https://www.youtube.com/@tnt4085)
 ### YouTube
@@ -162,6 +164,7 @@
 ##### [#38【東方MMD】看病と拷問は紙一重（Easy版）](https://www.youtube.com/watch?v=_yrRH7MEGKE)
 ##### [#39【東方MMD】変態メイド再び（Easy版）](https://www.youtube.com/watch?v=9FeNGvkp0A8)
 ##### [#40【東方MMD】大切なお友達](https://www.youtube.com/watch?v=Caci5IXdy4M&t=1s)
+##### [#41【東方MMD】目覚めた力](https://www.youtube.com/watch?v=jU7taW6hOyY)
 ### bilibili
 #### TNT系列
 ##### [【东方MMD】博丽灵梦很饥饿【中字内嵌】](https://www.bilibili.com/video/BV1BC411s7CV) 中文内嵌
