@@ -30,7 +30,7 @@ with yt_dlp.YoutubeDL(options) as ydl:
 
         # 如果有 title 和 url，则生成 Markdown 格式
         if title and url:
-            md_content_list.append(f"##### [{title}]({url})\n")
+            md_content_list.append(f"#### [{title}]({url})\n")
         else:
             md_content_list.append("该条目没有找到URL或标题\n")
 

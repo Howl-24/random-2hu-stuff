@@ -26,7 +26,7 @@ def generate_toc(md_file, output_file):
     last_level = 0  # 记录上一个标题的级别
 
     for line in lines:
-        match = re.match(r"^(#{1,4})\s+(.*)", line)
+        match = re.match(r"^(#{1,2})\s+(.*)", line)
         if match:
             level = len(match.group(1))  # 计算标题级别
             title = match.group(2).strip()
