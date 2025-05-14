@@ -159,6 +159,8 @@
 [Spotify](https://open.spotify.com/album/5QSDpp5WZXVAeUwnKFKgYf) [Wiki](https://thwiki.cc/%E7%B6%B4%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
 ### 望
 [Spotify](https://open.spotify.com/album/5YPp2cNZ7glfiQcEmD3zb1) [Wiki](https://thwiki.cc/%E6%9C%9B%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89)
+### 奉
+[Spotify](https://open.spotify.com/album/5ms9jipXahjBv12ihMQbno) [Wiki](https://thwiki.cc/%E5%A5%89)
 ### 求
 [Spotify](https://open.spotify.com/album/3BgismZLUPSvKIocQmBwMZ) [Wiki](https://thwiki.cc/%E6%B1%82)
 ### 掲
