@@ -25,8 +25,8 @@ permalink: /mmd/
 - [sa sa](#sa-sa)
   - [作った紙芝居](#作った紙芝居)
 - [ヘルカルトン/Hellニュート](#ヘルカルトンhellニュート)
-  - [制作した東方MMD](#制作した東方mmd)
-  - [MMD作成物](#mmd作成物)
+  - [制作した東方MMD (ヘルカルトン)](#制作した東方mmd-ヘルカルトン)
+  - [MMD作成物 (Hellニュート)](#mmd作成物-hellニュート)
 - [小岩井てんこ](#小岩井てんこ)
   - [幻想郷はずかしプロレスリング](#幻想郷はずかしプロレスリング)
   - [東方幻影夢](#東方幻影夢)
@@ -328,7 +328,7 @@ permalink: /mmd/
 ---
 # ![](https://yt3.googleusercontent.com/TcWgLYue5F2WZbXipfn0GGY4a6pkyeOgyxmrrafBdiMrMtHw0OBPEPqLykLfhu5dhZWkeFWqVg=s160-c-k-c0x00ffffff-no-rj)![](https://yt3.googleusercontent.com/ytc/AIdro_nMo1fUUDYMr1Kk7L_hvHy9r_nqoQKX1UiHLNt4LZrQWQ=s160-c-k-c0x00ffffff-no-rj)[ヘルカルトン](https://www.youtube.com/@%E3%83%98%E3%83%AB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%B3)/[Hellニュート](https://www.youtube.com/@hell6570)
 ---
-## 制作した東方MMD
+## 制作した東方MMD (ヘルカルトン)
 ### 原视频
 #### [【東方MMD】かにもみ](https://www.youtube.com/watch?v=02sACcAPa9U)
 #### [【東方MMD】東方MMDオムニバス！](https://www.youtube.com/watch?v=YNt8P1lTACo)
@@ -338,7 +338,7 @@ permalink: /mmd/
 #### [【東方MMD·中文内嵌】合集！（名字就是合集）](https://www.bilibili.com/video/BV1guUnYMEA2) 中文内嵌
 #### [【東方MMD·中文内嵌】奥赛德 - Dirty Experiments（肮脏的试验）](https://www.bilibili.com/video/BV1HfUxYuEMZ) 中文内嵌
 ---
-## MMD作成物
+## MMD作成物 (Hellニュート)
 ### 原视频
 #### [【東方MMD】レミリア、500歳の保健体育](https://www.youtube.com/watch?v=TW03Hx_fa54)
 #### [【にじさんじMMD】委員長に三十六煩悩鳳をぶちかます皇女](https://www.youtube.com/watch?v=lyZaVQf94CE)
