@@ -6,6 +6,7 @@
 - [KALANCHOE RECORDS](#kalanchoe-records)
 - [彩音 ～xi-on～](#彩音-xi-on)
 - [幽闭星光/幽閉サテライト](#幽闭星光幽閉サテライト)
+- [豚乙女/Butaotome](#豚乙女butaotome)
 - [Yonder Voice](#yonder-voice)
 - [Alstroemeria Records](#alstroemeria-records)
 - [COOL&CREATE](#cool&create)
@@ -178,12 +179,16 @@
 
 ---
 ## 专辑
+### STILLING
+[Spotify](https://open.spotify.com/album/5uJql0nlQ6IUY1LVTD41DI) [Wiki](https://thwiki.cc/STILLING)
 ### Elysion II :TOHO Geek
 [Spotify](https://open.spotify.com/album/7MTFKt6pD1Nbw5WAcPnq5f) [Wiki](https://thwiki.cc/Elysion_II%EF%BC%9ATOHO_Geek)
 ### THE SELECTED WORKS OF TAMAONSEN 4
 [Spotify](https://open.spotify.com/album/5lfGPwhGrxuklP1Euhsci0) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_4)
+### TOSX TOKYO at clubasia
+[Spotify](https://open.spotify.com/album/0QPmQemPs6aiOAPkInyUg8) [Wiki](https://thwiki.cc/TOSX_TOKYO_at_clubasia)
 ### THE SELECTED WORKS OF TAMAONSEN EX
-[spotify](https://open.spotify.com/album/55zai3AsBWvrI7kPxwCkP9) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_EX)
+[Spotify](https://open.spotify.com/album/55zai3AsBWvrI7kPxwCkP9) [Wiki](https://thwiki.cc/THE_SELECTED_WORKS_OF_TAMAONSEN_EX)
 
 ---
 # ![](https://i.scdn.co/image/ab67616d0000e1a33e695e783363bd759c16fe08)KALANCHOE RECORDS
@@ -208,6 +213,13 @@
 ---
 # ![](https://i.scdn.co/image/ab67616d0000e1a3a80c9c7195cb915f5b8b0fb9)幽闭星光/幽閉サテライト
 [Spotify](https://open.spotify.com/artist/2SAR9drBQcqYVx0hdZPVmo) [YouTube](https://www.youtube.com/@yuuheitube2011) [Wiki](https://thwiki.cc/%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89)
+
+---
+# 豚乙女/Butaotome
+[Spotify](https://open.spotify.com/artist/7ejGih4hGEmw5dgVy4jgdZ) [YouTube](https://www.youtube.com/channel/UCliG2TPBFMc6zweohklZxFQ) [Wiki](https://thwiki.cc/%E8%B1%9A%E4%B9%99%E5%A5%B3)
+## 专辑
+### 縁
+[Spotify](https://open.spotify.com/album/3niwBtkidRNEv8RAqbgDFJ) [Wiki](https://thwiki.cc/%E7%B8%81%EF%BC%88%E8%B1%9A%E4%B9%99%E5%A5%B3%EF%BC%89)
 
 ---
 # ![](https://i.scdn.co/image/ab67616d0000e1a397fe898f05f8cbf9d728f45b)Yonder Voice
