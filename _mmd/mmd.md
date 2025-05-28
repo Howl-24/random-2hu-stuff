@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-05-14
+date: 2025-05-28
 permalink: /mmd/
 ---
 ---
@@ -24,6 +24,9 @@ permalink: /mmd/
   - [旧](#旧)
 - [sa sa](#sa-sa)
   - [作った紙芝居](#作った紙芝居)
+- [おばにわん - OBANIWAN channel [touhou mmd]](#おばにわん---obaniwan-channel-touhou-mmd)
+  - [【東方MMD】飯綱丸様、暴走シリーズ](#東方mmd飯綱丸様暴走シリーズ)
+  - [【東方MMD】ある日の五大老シリーズ【ＭＭＤ紙芝居】](#東方mmdある日の五大老シリーズｍｍｄ紙芝居)
 - [ヘルカルトン/Hellニュート](#ヘルカルトンhellニュート)
   - [制作した東方MMD (ヘルカルトン)](#制作した東方mmd-ヘルカルトン)
   - [MMD作成物 (Hellニュート)](#mmd作成物-hellニュート)
@@ -44,7 +47,6 @@ permalink: /mmd/
 - [たかしま（タカシマ）](#たかしまタカシマ)
 - [がてん](#がてん)
 - [黒ぶるごーにゅ](#黒ぶるごーにゅ)
-
 ---
 # ![](https://yt3.googleusercontent.com/TKVlWIivjxLlM-QcZfrhy0lO5c0h15GKKL-luqDXv0pLM8BulcNKFRSm3W-ArU7MPmVhHYQ=s160-c-k-c0x00ffffff-no-rj)[くすり屋](https://www.youtube.com/@kusuriya_)
 ---
@@ -326,6 +328,104 @@ permalink: /mmd/
 #### [早苗主持的幻想乡电台（中文内嵌）](https://www.bilibili.com/video/BV1Av4y1v7pd) 中文内嵌
 #### [命莲寺风波（中文内嵌）](https://www.bilibili.com/video/BV14Y411m7n8) 中文内嵌
 ---
+# ![](https://yt3.googleusercontent.com/rHN9J3fbfblowD0yHNpYgl60-pyVCIKFbLMe3aIweW_-Dhym8bHo97Zs9D8ACH4IcGeTs7iqXA=s160-c-k-c0x00ffffff-no-rj)[おばにわん - OBANIWAN channel [touhou mmd]](https://www.youtube.com/@obaniwan)
+## 【東方MMD】飯綱丸様、暴走シリーズ
+### 原视频
+#### [Iizunamaru-sama, Rampage (touhou MMD)](https://www.youtube.com/watch?v=WOZ2TxHIQGU)
+#### [【東方MMD】飯綱丸様、再び暴走す【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=eiZykHAJa4E)
+#### [【東方MMD】飯綱丸様、三度暴走す【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=jxEa3ZHPksE)
+#### [【東方MMD】飯綱丸様、四度目の暴走【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=b-Vp9Wlnn40)
+#### [Iizunamaru-sama, the 5th Rampage (touhou MMD)](https://www.youtube.com/watch?v=vkihZQcG_ck)
+#### [【東方MMD】飯綱丸様、六度目の暴走【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=kAcXdBFZ5ok)
+#### [[Touhou MMD] Reimu and Iizunamaru's boredom](https://www.youtube.com/watch?v=e2ZhhVC3SXY)
+#### [【東方MMD】飯綱丸様、六度目の暴走（マイルド）【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=jlYW0LJAN1k)
+#### [【東方MMD】飯綱丸様、七度目の暴走【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=ODinhHo3UY8)
+#### [IIzunamaru who wants to use Harisen(touhou MMD)](https://www.youtube.com/watch?v=W17hScTzJC4)
+#### [【東方MMD】飯綱丸様、八度目の暴走【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=uS3hfvO30Fw)
+#### [【東方MMD】人気投票、はじまる（飯綱丸様の暴走、番外編）【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=2spNY_czneQ)
+#### [Touhou Popularity Poll Results(touhou MMD)](https://www.youtube.com/watch?v=13T8Ds9I8p8)
+#### [Iizunamaru-sama, the Ninth Rampage (touhou MMD)](https://www.youtube.com/watch?v=xOMBN8mb4YE)
+#### [Iizunamaru-sama, the 10th Rampage (touhou MMD)](https://www.youtube.com/watch?v=L11PeJoNPG0)
+#### [Iizunamaru-sama, the 11th Rampage (touhou MMD)](https://www.youtube.com/watch?v=MRPuo6Dk8DE)
+#### [Iizunamaru-sama, the 12th Rampage (touhou MMD)](https://www.youtube.com/watch?v=MFnupWmt7zE)
+#### [Iizunamaru-sama, the 13th Rampage (touhou MMD)](https://www.youtube.com/watch?v=i76loGcvojU)
+#### [Iizunamaru-sama, the 14th Rampage (touhou MMD)](https://www.youtube.com/watch?v=uStae-pmjzM)
+#### [Iizunamaru-sama, the 15th Rampage (touhou MMD)](https://www.youtube.com/watch?v=kGQndbfRpoI)
+#### [Iizunamaru-sama, the 16th Rampage (touhou MMD)](https://www.youtube.com/watch?v=bUTDsUzW828)
+#### [Iizunamaru-sama, the 17th Rampage (touhou MMD)](https://www.youtube.com/watch?v=SM4wp2foJSs)
+#### [Iizunamaru-sama, the 18th Rampage (touhou MMD)](https://www.youtube.com/watch?v=-nF-uCkMerI)
+#### [Iizunamaru-sama, the 19th Rampage (touhou MMD)](https://www.youtube.com/watch?v=SbXj41vTnNk)
+#### [Iizunamaru-sama, the 20th Rampage (touhou MMD)](https://www.youtube.com/watch?v=SVVGKNrjGR8)
+#### [Iizunamaru-sama, the 21th Rampage (touhou MMD)](https://www.youtube.com/watch?v=m3Aj-anRpPM)
+#### [Iizunamaru-sama, the 22th Rampage (touhou MMD)](https://www.youtube.com/watch?v=qfspB1Yj-9s)
+#### [Iizunamaru-sama, the 23th Rampage (touhou MMD)](https://www.youtube.com/watch?v=zevYkJ1sN1g)
+#### [Iizunamaru-sama, the 24th Rampage (touhou MMD)](https://www.youtube.com/watch?v=NtVXBy-2gC8)
+#### [Iizunamaru-sama, the 25th Rampage (touhou MMD)](https://www.youtube.com/watch?v=ssZi1RWqsoQ)
+#### [Iizunamaru-sama, the 26th Rampage (touhou MMD)](https://www.youtube.com/watch?v=YwN36qTSJjM)
+#### [Iizunamaru-sama, the 27th Rampage (touhou MMD)](https://www.youtube.com/watch?v=SFmSpGQCafU)
+#### [Iizunamaru-sama, the 28th Rampage (touhou MMD)](https://www.youtube.com/watch?v=Vvy8_-sjKcg)
+#### [Iizunamaru-sama, the 29th Rampage (touhou MMD)](https://www.youtube.com/watch?v=dCkhuJ_JtQg)
+#### [Iizunamaru-sama, the 30th Rampage (touhou MMD)](https://www.youtube.com/watch?v=jOYOKD-IHA0)
+#### [Iizunamaru-sama, the 31th Rampage (touhou MMD)](https://www.youtube.com/watch?v=iItQVm8wnV0)
+#### [Iizunamaru-sama, the 32th Rampage (touhou MMD)](https://www.youtube.com/watch?v=eQuNim0tZp4)
+#### [Iizunamaru-sama, the 33th Rampage (touhou MMD)](https://www.youtube.com/watch?v=BDErrFMeUN0)
+### 搬运
+#### [【东方MMD中文内嵌】饭纲丸大人、暴走](https://www.bilibili.com/video/BV1JG41157QB) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、再次暴走](https://www.bilibili.com/video/BV1Cd4y1G7SK) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、三度暴走](https://www.bilibili.com/video/BV1ae4y1d736) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、四度暴走](https://www.bilibili.com/video/BV1qe411u77Y) 中文内嵌
+#### [【东方MMD/魔恋字幕组】饭纲丸暴走、梅开五度](https://www.bilibili.com/video/BV1GT411L7oS) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、六度暴走](https://www.bilibili.com/video/BV1c24y197oB) 中文内嵌
+#### [（东方MMD/中文字幕）灵梦和饭纲丸龙很无聊](https://www.bilibili.com/video/BV1g64y1H7c6) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、七度暴走](https://www.bilibili.com/video/BV1nG4y1H7mB) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、八度暴走](https://www.bilibili.com/video/BV1v24y197p9) 中文内嵌
+#### [【东方MMD中文内嵌】人气投票、开始了（饭纲丸暴走、番外編）](https://www.bilibili.com/video/BV1N84y1z7H4) 中文内嵌
+#### [【东方MMD中文内嵌】人气投票、落下帷幕（饭纲丸暴走、番外篇）](https://www.bilibili.com/video/BV1jm4y1c7xM) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、九度暴走](https://www.bilibili.com/video/BV1Ye411G7ZY) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、十度暴走](https://www.bilibili.com/video/BV1gg411b7qS) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、⑪度暴走](https://www.bilibili.com/video/BV1AW4y1K74s) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、⑫度暴走](https://www.bilibili.com/video/BV1824y167Ws) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、⑬度暴走](https://www.bilibili.com/video/BV1Ts4y1E7ow) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人，⑭度暴走](https://www.bilibili.com/video/BV1YT41187P3) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人，⑮度暴走](https://www.bilibili.com/video/BV18s4y1v7aL) 中文内嵌
+#### [【东方MMD中文内嵌】饭纲丸大人、⑯度暴走](https://www.bilibili.com/video/BV1Hh4y1f7vY) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，⑰度暴走](https://www.bilibili.com/video/BV1L64y1H785) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人,⑱度暴走](https://www.bilibili.com/video/BV1bQ4y1u7P4) 中文内嵌
+#### [(东方MMD/中文字幕)饭纲丸大人，⑲度暴走](https://www.bilibili.com/video/BV1sQ4y1E74B) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，⑳度暴走](https://www.bilibili.com/video/BV1rK411Y739) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉑度暴走](https://www.bilibili.com/video/BV1NC411p75c) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，☐☐度暴走](https://www.bilibili.com/video/BV1ym411R7CZ) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉓度暴走](https://www.bilibili.com/video/BV1Xm421L7wx) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉔度暴走](https://www.bilibili.com/video/BV1br421L7gy) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉕度暴走](https://www.bilibili.com/video/BV1d6iMeNEkG) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉖度暴走](https://www.bilibili.com/video/BV1oU4FeWEq2) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉗度暴走](https://www.bilibili.com/video/BV1ssDZYzEtL) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉘度暴走](https://www.bilibili.com/video/BV15bCPYQE52) 中文内嵌
+#### [（东方MMD/中文字幕）饭纲丸大人，㉙度暴走](https://www.bilibili.com/video/BV1v2Afe4E3j) 中文内嵌
+#### [【おばにわん/中字】饭纲丸大人，30度暴走](https://www.bilibili.com/video/BV1JKd6Y4Ebq) 中文内嵌
+#### [【おばにわん/中字】饭纲丸大人，31度暴走](https://www.bilibili.com/video/BV1nDdhYvEuJ) 中文内嵌
+#### [【东方MMD/中字】饭纲丸大人！32度暴走！](https://www.bilibili.com/video/BV1ufLpzKEMj) 中文内嵌
+#### [【东方MMD/中字】饭纲丸大人！33度暴走！](https://www.bilibili.com/video/BV1EuVNzfEkd) 中文内嵌
+---
+## 【東方MMD】ある日の五大老シリーズ【ＭＭＤ紙芝居】
+### 原视频
+#### [One day the Five Elders (Gotairou) (touhou MMD)](https://www.youtube.com/watch?v=RRH72IeNQxI)
+#### [One day the Five Elders (Gotairou) 2 (touhou MMD)](https://www.youtube.com/watch?v=_4RmYVubcfE)
+#### [One day the Five Elders (Gotairou) 3 (touhou MMD)](https://www.youtube.com/watch?v=iBQgWVzVpII)
+#### [One day the Five Elders (Gotairou) 4 (touhou MMD)](https://www.youtube.com/watch?v=8ZTw8AG8EB4)
+#### [One day the Five Elders (Gotairou) 5 (touhou MMD)](https://www.youtube.com/watch?v=mIXrVx4evAs)
+#### [One day the Five Elders (Gotairou) 6 (touhou MMD)](https://www.youtube.com/watch?v=IuYVgk20j7Q)
+#### [One day the Five Elders (Gotairou) 7 (touhou MMD)](https://www.youtube.com/watch?v=XtMVGxq5oXI)
+#### [One day the Five Elders (Gotairou) 8 (touhou MMD)](https://www.youtube.com/watch?v=iaTqirOxxYk)
+### 搬运
+#### [（东方MMD/中文字幕）五大老的一天](https://www.bilibili.com/video/BV1fT421a713) 中文内嵌
+#### [（东方MMD/中文字幕）五大老的一天 2](https://www.bilibili.com/video/BV1foC1YCExt) 中文内嵌
+#### [（东方MMD/中文字幕）五大老的一天 3](https://www.bilibili.com/video/BV15cmZYLE4T) 中文内嵌
+#### [（东方MMD/中文字幕）五大老的一天 4](https://www.bilibili.com/video/BV1pqkyYyEJw) 中文内嵌
+#### [（东方MMD/中文字幕）五大老的一天 5](https://www.bilibili.com/video/BV1KDf5YGEJT) 中文内嵌
+#### [（东方MMD/中文字幕）五大老的一天 6](https://www.bilibili.com/video/BV15Y9mYNEEd) 中文内嵌
+#### [（东方MMD/中文内嵌）五大老的一天 7](https://www.bilibili.com/video/BV1bzLvzqEcD) 中文内嵌
+---
 # ![](https://yt3.googleusercontent.com/TcWgLYue5F2WZbXipfn0GGY4a6pkyeOgyxmrrafBdiMrMtHw0OBPEPqLykLfhu5dhZWkeFWqVg=s160-c-k-c0x00ffffff-no-rj)![](https://yt3.googleusercontent.com/ytc/AIdro_nMo1fUUDYMr1Kk7L_hvHy9r_nqoQKX1UiHLNt4LZrQWQ=s160-c-k-c0x00ffffff-no-rj)[ヘルカルトン](https://www.youtube.com/@%E3%83%98%E3%83%AB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%B3)/[Hellニュート](https://www.youtube.com/@hell6570)
 ---
 ## 制作した東方MMD (ヘルカルトン)
@@ -499,7 +599,6 @@ permalink: /mmd/
 #### [【东方MMD中文内嵌】 东方笑传之抽鬼牌](https://www.bilibili.com/video/BV1Pr421b78n) 中文内嵌
 #### [【東方MMD中文内嵌】咲夜成为早苗宠物的结果](https://www.bilibili.com/video/BV1S44y1w7nG) 中文内嵌
 #### [【东方MMD中文内嵌】弱智想成为低能的结果](https://www.bilibili.com/video/BV14z4y1g7By) 中文内嵌
-#### [【东方MMD（中文字幕）】上传制作了东方的LINE表情【告诉大家】](https://www.bilibili.com/video/BV1uz31ePEow) 中文内嵌
 #### [【东方MMD中文内嵌】不想变成这样的人](https://www.bilibili.com/video/BV1bp4y1G7Sn) 中文内嵌
 ---
 # ![](https://yt3.googleusercontent.com/ytc/AIdro_m-HYbYtDPnqe3lQaaPlg84p4Lu2ATsbVsoLhICGWy-bg=s160-c-k-c0x00ffffff-no-rj)[ラプター](https://www.youtube.com/@%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC-j9s/playlists)
