@@ -1,5 +1,6 @@
 import re
 
+
 def generate_toc(md_file, output_file):
     """从 Markdown 文件中提取标题，生成目录（不包含图片，不生成 id，去掉 ## 目录 本身）"""
 
@@ -14,6 +15,11 @@ def generate_toc(md_file, output_file):
             .replace("/", "")
             .replace("～", "")
             .replace("+", "")
+            .replace("[", "")
+            .replace("]", "")
+            .replace("【", "")
+            .replace("】", "")
+            .replace("、", "")
         )  # 去除特殊符号
         title = title.replace(" ", "-")  # 用-代替空格
 
@@ -39,7 +45,6 @@ def generate_toc(md_file, output_file):
 
             # 目录中不包含“目录”本身
             if title_cleaned.lower() != "目录":
-
                 # 如果标题级别跳级，则调整为上一级的下一级
                 if level > last_level + 1:
                     level_toc = last_level + 1
@@ -52,7 +57,7 @@ def generate_toc(md_file, output_file):
                 toc.append(
                     f"{'  ' * (level_toc - 1)}- [{title_cleaned}](#{sanitized_title})"
                 )
-                
+
                 last_level = level  # 更新上一个标题的级别
 
     # 输出到新文件

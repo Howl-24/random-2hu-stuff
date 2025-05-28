@@ -61,7 +61,14 @@ with open(output_file, "a", encoding="utf-8") as f_out:
                     suffix = "\n"
 
                 # 判断是否包含“内嵌”或“字幕”
-                if "内嵌" in title or "字幕" in title or "熟肉" in title or "翻译" in title or "汉化" in title:
+                if (
+                    "内嵌" in title
+                    or "字幕" in title
+                    or "熟肉" in title
+                    or "翻译" in title
+                    or "汉化" in title
+                    or "中字" in title
+                ):
                     suffix = " 中文内嵌\n"
 
                 # 写入 Markdown 文件
