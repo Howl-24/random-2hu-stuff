@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-05-28
+date: 2025-06-01
 permalink: /mmd/
 ---
 ---
@@ -136,6 +136,7 @@ permalink: /mmd/
 #### [【東方MMD紙芝居】しかけ絵本の夢想曲～ポップアップ・トロイメライ～](https://www.youtube.com/watch?v=yTN_0cOuRsU)
 #### [【東方MMD紙芝居】猫耳異変](https://www.youtube.com/watch?v=20xEprO1HIY)
 #### [【東方MMD紙芝居】鰻の味が変わった話](https://www.youtube.com/watch?v=z1CYCxsO-b8)
+#### [【東方MMD紙芝居】リンゴのお裾分け](https://www.youtube.com/watch?v=sREgVxKK2nI)
 ### 搬运
 #### [【东方MMD】既然是圣诞节、咱们就去约会吧](https://www.bilibili.com/video/BV1Ku411S7LC) CC字幕
 #### [【东方MMD中文字幕】粉丝破万纪念☆大蜘蛛风波（番外）](https://www.bilibili.com/video/BV1mU4y1i7Sz) 中文内嵌
