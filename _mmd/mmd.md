@@ -155,6 +155,7 @@ permalink: /mmd/
 #### [【東方MMD紙芝居】立体绘本梦想曲～Pop up・Träumerei～](https://www.bilibili.com/video/BV1T6BWYEEZa) 中文内嵌
 #### [【东方MMD中文内嵌】猫耳异变](https://www.bilibili.com/video/BV1naQXYWEDh) 中文内嵌
 #### [【东方MMD中文内嵌】关于鳗鱼味道变了的这档事](https://www.bilibili.com/video/BV1kdVmz4E6a) 中文内嵌
+#### [【转载翻译】分你一些苹果哦【东方MMD】](https://www.bilibili.com/video/BV1Dz76zfEVq) 中文内嵌
 ---
 # ![](https://yt3.googleusercontent.com/ytc/AIdro_l_7NoR9oTTlVn4BJLxVExujuOiRCB6cZXcSd9OVk8kpyo=s160-c-k-c0x00ffffff-no-rj)[TNT](https://www.youtube.com/@tnt4085)
 ---
