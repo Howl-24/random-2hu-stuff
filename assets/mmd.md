@@ -205,7 +205,7 @@
 #### [【东方MMD/中文内嵌】 【TNT】 #13 羁绊 【催泪向】](https://www.bilibili.com/video/BV1iCdVYjE5N) 中文内嵌
 #### [【东方MMD/中文内嵌】 【TNT】 #14 混沌的幻想乡全明星大乱斗 【全程高能】](https://www.bilibili.com/video/BV1TXL8zWEpm) 中文内嵌
 #### [【东方MMD/中文内嵌】 【TNT】 #15 归来的华扇大人](https://www.bilibili.com/video/BV1CTVRzVEKr) 中文内嵌
-#### [【东方MMD】爱丽丝的绝体绝命鬼畜战法](https://www.bilibili.com/video/BV1864y1S73u) 暂无翻译
+#### [【东方MMD/中文内嵌】 【TNT】 #16 爱丽丝的绝体鬼畜战法](https://www.bilibili.com/video/BV1uvT4zfEgH/) 中文内嵌
 #### [【东方MMD】平面砧板贫乳魔理沙的烦恼【中字内嵌】](https://www.bilibili.com/video/BV1rU4y1v7FC) 中文内嵌
 #### [【东方MMD】结盟！？灵梦和早苗【中字内嵌】](https://www.bilibili.com/video/BV17d4y1T7NR) 中文内嵌
 #### [【东方MMD】无论如何都想和灵梦结盟的早苗【中字内嵌】](https://www.bilibili.com/video/BV1Tg411y7P7) 中文内嵌
