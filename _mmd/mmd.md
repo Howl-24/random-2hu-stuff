@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-06-06
+date: 2025-06-07
 permalink: /mmd/
 ---
 ---
@@ -17,6 +17,18 @@ permalink: /mmd/
 - [くすり屋](#くすり屋)
   - [本編（全32話）](#本編全32話)
   - [番外編](#番外編)
+- [おばにわん - OBANIWAN channel [touhou mmd]](#おばにわん---obaniwan-channel-touhou-mmd)
+  - [【東方MMD】飯綱丸様、暴走シリーズ](#東方mmd飯綱丸様暴走シリーズ)
+  - [【東方MMD】ある日の五大老シリーズ【ＭＭＤ紙芝居】](#東方mmdある日の五大老シリーズｍｍｄ紙芝居)
+  - [【東方MMD】幻想郷「仕事シリーズ」【ＭＭＤ紙芝居】](#東方mmd幻想郷「仕事シリーズ」ｍｍｄ紙芝居)
+  - [【東方MMD】出張！お宝大発見](#東方mmd出張！お宝大発見)
+  - [【東方MMD】幻想郷カレー戦争](#東方mmd幻想郷カレー戦争)
+  - [【東方MMD】幻想郷「薄い本」狂想曲](#東方mmd幻想郷「薄い本」狂想曲)
+  - [【東方MMD】東方にゃんこシリーズ（猫キャラ主役）【ＭＭＤ紙芝居】](#東方mmd東方にゃんこシリーズ猫キャラ主役ｍｍｄ紙芝居)
+  - [【東方MMD】文々。ことわざ実験シリーズ【ＭＭＤ紙芝居】](#東方mmd文々。ことわざ実験シリーズｍｍｄ紙芝居)
+  - [【東方MMD】天狗漫才「龍＆文」【ＭＭＤ紙芝居】](#東方mmd天狗漫才「龍＆文」ｍｍｄ紙芝居)
+  - [【東方MMD】バカルテットの大活躍](#東方mmdバカルテットの大活躍)
+  - [【東方MMD】レミリアのプリン（魔理沙シリーズ）](#東方mmdレミリアのプリン魔理沙シリーズ)
 - [TNT](#tnt)
   - [作成した東方MMD動画](#作成した東方mmd動画)
 - [むぅさん63](#むぅさん63)
@@ -24,13 +36,11 @@ permalink: /mmd/
   - [旧](#旧)
 - [sa sa](#sa-sa)
   - [作った紙芝居](#作った紙芝居)
-- [おばにわん - OBANIWAN channel [touhou mmd]](#おばにわん---obaniwan-channel-touhou-mmd)
-  - [【東方MMD】飯綱丸様、暴走シリーズ](#東方mmd飯綱丸様暴走シリーズ)
-  - [【東方MMD】ある日の五大老シリーズ【ＭＭＤ紙芝居】](#東方mmdある日の五大老シリーズｍｍｄ紙芝居)
 - [ヘルカルトン/Hellニュート](#ヘルカルトンhellニュート)
   - [制作した東方MMD (ヘルカルトン)](#制作した東方mmd-ヘルカルトン)
   - [MMD作成物 (Hellニュート)](#mmd作成物-hellニュート)
 - [小岩井てんこ](#小岩井てんこ)
+  - [東方MMD紙芝居](#東方mmd紙芝居)
   - [幻想郷はずかしプロレスリング](#幻想郷はずかしプロレスリング)
   - [東方幻影夢](#東方幻影夢)
   - [紅美鈴『拳』シリーズ](#紅美鈴『拳』シリーズ)
@@ -48,7 +58,8 @@ permalink: /mmd/
 - [がてん](#がてん)
 - [黒ぶるごーにゅ](#黒ぶるごーにゅ)
 ---
-# ![](https://yt3.googleusercontent.com/TKVlWIivjxLlM-QcZfrhy0lO5c0h15GKKL-luqDXv0pLM8BulcNKFRSm3W-ArU7MPmVhHYQ=s160-c-k-c0x00ffffff-no-rj)[くすり屋](https://www.youtube.com/@kusuriya_)
+![](https://yt3.googleusercontent.com/TKVlWIivjxLlM-QcZfrhy0lO5c0h15GKKL-luqDXv0pLM8BulcNKFRSm3W-ArU7MPmVhHYQ=s160-c-k-c0x00ffffff-no-rj)
+# [くすり屋](https://www.youtube.com/@kusuriya_)
 ---
 ## 本編（全32話）
 ### 原视频
@@ -157,180 +168,9 @@ permalink: /mmd/
 #### [【东方MMD中文内嵌】关于鳗鱼味道变了的这档事](https://www.bilibili.com/video/BV1kdVmz4E6a) 中文内嵌
 #### [【转载翻译】分你一些苹果哦【东方MMD】](https://www.bilibili.com/video/BV1Dz76zfEVq) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_l_7NoR9oTTlVn4BJLxVExujuOiRCB6cZXcSd9OVk8kpyo=s160-c-k-c0x00ffffff-no-rj)[TNT](https://www.youtube.com/@tnt4085)
+![](https://yt3.googleusercontent.com/rHN9J3fbfblowD0yHNpYgl60-pyVCIKFbLMe3aIweW_-Dhym8bHo97Zs9D8ACH4IcGeTs7iqXA=s160-c-k-c0x00ffffff-no-rj)
+# [おばにわん - OBANIWAN channel [touhou mmd]](https://www.youtube.com/@obaniwan)
 ---
-## 作成した東方MMD動画
-### 原视频
-#### [#1【東方MMD】博麗霊夢は飢えている](https://www.youtube.com/watch?v=ueSCY1CLukI)
-#### [#2【東方MMD】どんなにすごいやつでも人に言えない悩みや秘密の一つや二つはあったりする](https://www.youtube.com/watch?v=VyfbdjP-V6Y)
-#### [#3【東方MMD】姉と姉](https://www.youtube.com/watch?v=-UGBtwQpEKM)
-#### [#4【東方MMD】ヤンデレのこいしちゃんに死ぬほど愛されるさとり様だけどこれはこれで羨ましいかもしれない](https://www.youtube.com/watch?v=v0U4g3QOzKY)
-#### [#5【東方MMD】アリスちゃんは欲求不満](https://www.youtube.com/watch?v=gliRs-AruWE)
-#### [#６【東方MMD】小さい女の子が大好きなのは母性溢れる優しいお姉ちゃんなのか？](https://www.youtube.com/watch?v=v1HELqVrYPE)
-#### [#7【東方MMD】霊夢ちゃんおかず事件　　　（解決編）](https://www.youtube.com/watch?v=mq7Ra717Tuc)
-#### [#8【東方MMD】最強の喜びを知ってしまった妖夢ちゃん](https://www.youtube.com/watch?v=pljamhg4f3w)
-#### [#9【東方MMD】霊夢　VS　妖夢](https://www.youtube.com/watch?v=ucGbgKTmk5M)
-#### [#10【東方MMD】霊夢が振り向いてくれないのはどう考えても魔理沙が悪い](https://www.youtube.com/watch?v=KXTw-5iV34I)
-#### [#11【東方MMD】レイアリの原点](https://www.youtube.com/watch?v=y4Gi55h5ZiU)
-#### [#12【東方MMD】初めてできたお友達](https://www.youtube.com/watch?v=8ZeJrcxtbQM)
-#### [#13【東方MMD】絆](https://www.youtube.com/watch?v=QjJd0KC1j1A)
-#### [#14【東方MMD】ベビーシッター　アリス](https://www.youtube.com/watch?v=aFZTUMpE6qw)
-#### [#15【東方MMD】帰って来た〇乱ピンク](https://www.youtube.com/watch?v=8sS4ZY5ld1c)
-#### [#16【東方MMD】アリスのえげつなきまでの鬼畜戦法](https://www.youtube.com/watch?v=Z2C7cMepTjE)
-#### [#17【東方MMD】ペチャパイつるペタまな板マリちゃんの悩み](https://www.youtube.com/watch?v=x5r5FXbhuQk)
-#### [#1８【東方MMD】同盟結成！？霊夢と早苗](https://www.youtube.com/watch?v=e6SkDJXPDnk)
-#### [#19【東方MMD】何としてでも博麗と同盟を結びたい早苗さん](https://www.youtube.com/watch?v=_qRgG21Dokk)
-#### [#20【東方MMD】妖夢ちゃん覇権異変](https://www.youtube.com/watch?v=gc9ztsmbvIs)
-#### [#21【東方MMD】白玉楼絶体絶命！](https://www.youtube.com/watch?v=ui9p1YLeHyA)
-#### [#22【東方MMD】侵略者妖夢](https://www.youtube.com/watch?v=2c_W7vSGu4E)
-#### [#23【東方MMD】ペチャパイつるペタまな板マリちゃんのまな板からの脱却](https://www.youtube.com/watch?v=9mV1UKiyRgs)
-#### [#24【東方MMD】フランちゃんの分身会議](https://www.youtube.com/watch?v=3EHFr1OrFD8)
-#### [#25【東方MMD】逆境無頼フランちゃん　破壊録編](https://www.youtube.com/watch?v=_JV1YoMhrQE)
-#### [#26【東方MMD】お姉様と呼ばなくなった理由](https://www.youtube.com/watch?v=5oyECrUsycI)
-#### [#27【東方MMD】あまりにも残酷すぎた真実](https://www.youtube.com/watch?v=Mx_i1Gyo9sM)
-#### [#28【東方MMD】絶望の中に見た希望の欠片](https://www.youtube.com/watch?v=C4PPHmsDjtI)
-#### [#29【東方MMD】レイマリの原点](https://www.youtube.com/watch?v=GqXG39IUb5M)
-#### [#30【東方MMD】最高のクリスマスプレゼント](https://www.youtube.com/watch?v=sZ4ZU1aYm-I)
-#### [#31【東方MMD】フランちゃんがこいしちゃんのペットになりました](https://www.youtube.com/watch?v=fREZkrkMea4)
-#### [#32【東方MMD】姉トリオと妹トリオの食事会](https://www.youtube.com/watch?v=xheqzg3m954)
-#### [【東方MMD】五周年記念動画（メタ回）　[前編]](https://www.youtube.com/watch?v=_m4EXdeWV2c)
-#### [【東方MMD】五周年記念動画（メタ回）　[後編]](https://www.youtube.com/watch?v=LlLsCgfxqIc)
-#### [#33【東方MMD】平穏の終焉](https://www.youtube.com/watch?v=WdjA20Al36c)
-#### [#34【東方MMD】霊夢ちゃんが親に自分の黒歴史を知られてしまった結果...（Easy版）](https://www.youtube.com/watch?v=NKXDXHTs_z0)
-#### [#35【東方MMD】変態メイドの逆襲](https://www.youtube.com/watch?v=tGv8qmjcKlI)
-#### [#36【東方MMD】友達の友達](https://www.youtube.com/watch?v=aoyJgqrUZyk)
-#### [#37【東方MMD】マリアリの原点](https://www.youtube.com/watch?v=px6IpaphaXI)
-#### [#38【東方MMD】看病と拷問は紙一重（Easy版）](https://www.youtube.com/watch?v=_yrRH7MEGKE)
-#### [#39【東方MMD】変態メイド再び（Easy版）](https://www.youtube.com/watch?v=9FeNGvkp0A8)
-#### [#40【東方MMD】大切なお友達](https://www.youtube.com/watch?v=Caci5IXdy4M&t=1s)
-#### [#41【東方MMD】目覚めた力](https://www.youtube.com/watch?v=jU7taW6hOyY)
-### 搬运
-#### [【东方MMD】博丽灵梦很饥饿【中字内嵌】](https://www.bilibili.com/video/BV1BC411s7CV) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #2 不论多强，总是会有一两个不能说的烦恼](https://www.bilibili.com/video/BV1k5BtYDEtP) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #3 姐与姐](https://www.bilibili.com/video/BV187zdYjERY) 中文内嵌
-#### [【东方MMD/中文内嵌】  【TNT】 #4 被病娇恋爱的要死的觉大人](https://www.bilibili.com/video/BV1gPi6YFEpL) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #5 爱丽丝最近有些欲求不满](https://www.bilibili.com/video/BV1NTqkYfELL) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #6喜欢小女孩的，一定就是母性溢发的大姐姐吗](https://www.bilibili.com/video/BV1A2BGYyEhU) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #7 灵梦酱的妄想天则](https://www.bilibili.com/video/BV1z3CnYMEF8) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #8 沉浸于最强的喜悦中无法自拔的妖梦](https://www.bilibili.com/video/BV1wVrvYjE1v) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #9 灵梦VS妖梦](https://www.bilibili.com/video/BV1hbwKeNEfb) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #10 灵梦无法回头怎么想都是魔理沙的不好](https://www.bilibili.com/video/BV1ciPdehEQY) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #11 灵与爱的原点](https://www.bilibili.com/video/BV18bRsYaE45) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #12 友谊的初体验](https://www.bilibili.com/video/BV1a8QhYLEmf) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #13 羁绊 【催泪向】](https://www.bilibili.com/video/BV1iCdVYjE5N) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #14 混沌的幻想乡全明星大乱斗 【全程高能】](https://www.bilibili.com/video/BV1TXL8zWEpm) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #15 归来的华扇大人](https://www.bilibili.com/video/BV1CTVRzVEKr) 中文内嵌
-#### [【东方MMD/中文内嵌】 【TNT】 #16 爱丽丝的绝体鬼畜战法](https://www.bilibili.com/video/BV1uvT4zfEgH/) 中文内嵌
-#### [【东方MMD】平面砧板贫乳魔理沙的烦恼【中字内嵌】](https://www.bilibili.com/video/BV1rU4y1v7FC) 中文内嵌
-#### [【东方MMD】结盟！？灵梦和早苗【中字内嵌】](https://www.bilibili.com/video/BV17d4y1T7NR) 中文内嵌
-#### [【东方MMD】无论如何都想和灵梦结盟的早苗【中字内嵌】](https://www.bilibili.com/video/BV1Tg411y7P7) 中文内嵌
-#### [【东方MMD】妖梦霸权异变【中字内嵌】](https://www.bilibili.com/video/BV1Ee4y1e79k) 中文内嵌
-#### [【东方MMD】白玉楼穷途末路！【中字内嵌】](https://www.bilibili.com/video/BV188411h79e) 中文内嵌
-#### [【东方MMD】侵略者妖梦【中字内嵌】](https://www.bilibili.com/video/BV1Yj411u7UQ) 中文内嵌
-#### [#23【東方MMD】想要成長的魔理沙](https://www.bilibili.com/video/BV1JV4y1H74Z) 暂无翻译
-#### [【东方MMD】芙兰的分身会议【中字内嵌】](https://www.bilibili.com/video/BV1fW4y187rg) 中文内嵌
-#### [【东方MMD】逆境无赖芙兰酱 破坏录篇【中字内嵌】](https://www.bilibili.com/video/BV1JS4y1x7Dd) 中文内嵌
-#### [【东方MMD】不再叫"姐姐"的理由【中字内嵌】](https://www.bilibili.com/video/BV1kD4y1z766) 中文内嵌
-#### [【东方MMD】太过残酷的真相【中字内嵌】](https://www.bilibili.com/video/BV1yY4y1u7XX) 中文内嵌
-#### [【东方MMD】绝望中见到的希望的碎片【中字内嵌】](https://www.bilibili.com/video/BV1ad4y1G73S) 中文内嵌
-#### [【东方MMD】主角组的原点【中字内嵌】](https://www.bilibili.com/video/BV1dg411U7aD) 中文内嵌
-#### [【东方MMD】最好的圣诞礼物【中字内嵌】](https://www.bilibili.com/video/BV1JD4y1q7pb) 中文内嵌
-#### [【东方MMD】芙兰成了恋恋的宠物【中字内嵌】](https://www.bilibili.com/video/BV1rG411H72t) 中文内嵌
-#### [【东方MMD】姐姐三人组和妹妹三人组的聚餐【中字内嵌】](https://www.bilibili.com/video/BV15e4y1z7FT) 中文内嵌
-#### [【东方MMD】TNT五周年纪念动画（前篇）【中字内嵌】](https://www.bilibili.com/video/BV14d4y1b7ah) 中文内嵌
-#### [【东方MMD】TNT五周年纪念动画（后篇）【中字内嵌】](https://www.bilibili.com/video/BV1wG4y137zD) 中文内嵌
-#### [【东方MMD】平静生活的终结【中字内嵌】](https://www.bilibili.com/video/BV1U8411w7YK) 中文内嵌
-#### [【东方MMD】灵梦发现自己的黑历史已经被家长知道了…（Easy版）【中字内嵌】](https://www.bilibili.com/video/BV1sk4y1V7nA) 中文内嵌
-#### [【东方MMD】变态女仆的反击【中字内嵌】](https://www.bilibili.com/video/BV1tb4y1N7eh) 中文内嵌
-#### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/BV1CA4m1G7gM) 中文内嵌
-#### [【东方MMD】【中文内嵌】【TNT】#37 魔与爱的原点](https://www.bilibili.com/video/BV16C411H78s) 中文内嵌
-#### [【东方MMD】【中文内嵌】【TNT】#38 照看病人与拷问本就是一体两面](https://www.bilibili.com/video/BV1Ku4m1w78u) 中文内嵌
-#### [【东方MMD】【中文内嵌】【TNT】#39 变态女仆卷土重来](https://www.bilibili.com/video/BV1enWQe9Eym) 中文内嵌
-#### [【东方MMD】最珍贵的朋友【中字内嵌】](https://www.bilibili.com/video/BV12rdYYJEub) 中文内嵌
-#### [【东方MMD】觉醒的力量【中字内嵌】](https://www.bilibili.com/video/BV1e3VWzgExg) 中文内嵌
----
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_n2iwn1AyF6YLW_aXZP1zVtSgduLwBHKOQEmBnln4f9CEA=s160-c-k-c0x00ffffff-no-rj)[むぅさん63](https://www.youtube.com/@%E3%82%80%E3%81%85%E3%81%95%E3%82%9363)
----
-## 新
-### 原视频
-#### [【東方MMD】幻想郷の日常：愉快な妖精たち【MMD紙芝居】](https://www.youtube.com/watch?v=nQ91XWT01S4)
-#### [【東方MMD】幻想郷の日常：無口なこころちゃん【MMD紙芝居】](https://www.youtube.com/watch?v=b3M9TsZLuzI)
-#### [【東方MMD】幻想郷の日常：逆ナン【MMD紙芝居】](https://www.youtube.com/watch?v=IjqEQ1C6UCo)
-#### [【東方MMD】幻想郷の日常：館【MMD紙芝居】](https://www.youtube.com/watch?v=e-pealS-EiE)
-#### [【東方MMD】幻想郷の日常：聖夜【MMD紙芝居】](https://www.youtube.com/watch?v=SeR3CDgk6Ow)
-#### [【東方MMD】幻想郷の日常：人の驚かせ方【MMD紙芝居】](https://www.youtube.com/watch?v=a0G6OI7Bd9Q)
-#### [【東方MMD】幻想郷の日常：道徳【MMD紙芝居】](https://www.youtube.com/watch?v=2vG00BjMT9w)
-#### [【東方MMD】幻想郷の日常：森の異変と魔理沙の新居【MMD紙芝居】](https://www.youtube.com/watch?v=A5Uw9umAijM)
-#### [【東方MMD】幻想郷の日常：守矢一家【MMD紙芝居】](https://www.youtube.com/watch?v=E4BiOLxy96k)
-#### [【東方MMD】幻想郷の日常：生存報告とおしゃべり【MMD紙芝居】](https://www.youtube.com/watch?v=1APtJapgfdY)
-#### [【東方MMD】幻想郷の日常：頭の異変【MMD紙芝居】](https://www.youtube.com/watch?v=29J80aUYJGQ)
-#### [【東方MMD】幻想郷の日常：社会見学【MMD紙芝居】](https://www.youtube.com/watch?v=R9qOYmHKbA0)
-#### [【東方MMD】幻想郷の日常：花の恐怖【MMD紙芝居】](https://www.youtube.com/watch?v=h9cCLsEx6ik)
-#### [【東方MMD】幻想郷の日常：ゴールデンウィーク【MMD紙芝居】](https://www.youtube.com/watch?v=JORPsMuU8q4)
-#### [【東方MMD】幻想郷の日常：紅魔館のカリスマ吸血鬼【MMD紙芝居】](https://www.youtube.com/watch?v=kEek3JVdmtU)
-#### [【東方MMD】幻想郷の日常：質問コーナー【MMD紙芝居】](https://www.youtube.com/watch?v=DfRhLfpLN7Q)
-#### [【東方MMD】幻想郷の日常：新年【MMD紙芝居】](https://www.youtube.com/watch?v=HULST9xy-eU)
-#### [【東方MMD】幻想郷の日常：命蓮寺【MMD紙芝居】](https://www.youtube.com/watch?v=oHcIsx_f1UQ)
-#### [【東方MMD】幻想郷の日常：祭り 前編【MMD紙芝居】](https://www.youtube.com/watch?v=pB73sWbm76g)
-#### [【東方MMD】幻想郷の日常：祭り 後編【MMD紙芝居】](https://www.youtube.com/watch?v=J9QfX_f9RDg)
-### 搬运
-#### [【东方MMD】【中文内嵌】幻想乡的日常：笨蛋军团](https://www.bilibili.com/video/BV1J94y1X7EW) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：无口少女心酱](https://www.bilibili.com/video/BV1mN4y1j7tg) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：钓凯子](https://www.bilibili.com/video/BV17W4y1S7Vd) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：洋馆](https://www.bilibili.com/video/BV1GB4y1v7kn) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：圣诞夜](https://www.bilibili.com/video/BV1tY4y1J7uq) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：吓唬人的方法](https://www.bilibili.com/video/BV1jB4y1a7kQ) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：道德](https://www.bilibili.com/video/BV1ZS4y1E799) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：森林异变和魔理沙的新家](https://www.bilibili.com/video/BV1HG411s75Y) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：守矢一家](https://www.bilibili.com/video/BV1oa411X7JE) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：生存报告和闲聊（番外）](https://www.bilibili.com/video/BV1tB4y187mQ) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：脑袋异变](https://www.bilibili.com/video/BV1SV4y1E78o) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：社会见学](https://www.bilibili.com/video/BV1VU4y1B7F2) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：花有多恐怖](https://www.bilibili.com/video/BV1m54y1M7xh) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：黄金周](https://www.bilibili.com/video/BV1XV411K7aG) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：红魔馆的威严吸血鬼](https://www.bilibili.com/video/BV1GP411y7UW) 中文内嵌
-#### [【東方MMD】幻想郷の日常：質問コーナー【MMD紙芝居】](https://www.youtube.com/watch?v=DfRhLfpLN7Q) 暂无翻译
-#### [【东方MMD】【中文内嵌】【幻想乡的日常】新年](https://www.bilibili.com/video/BV1wi421o7Xh) 中文内嵌
-#### [【东方MMD】【中文内嵌】 幻想乡的日常:命莲寺 【个人汉化】](https://www.bilibili.com/video/BV1KcbueKEfR) 中文内嵌
-#### [【东方MMD】【中文内嵌】【幻想乡的日常】祭典 前篇](https://www.bilibili.com/video/BV13hNmedEZh) 中文内嵌
----
-## 旧
-### 原视频
-#### [【東方MMD】幻想郷の日常：チルノの不満【MMD紙芝居】](https://www.youtube.com/watch?v=4ftD_XCwOfU)
-#### [【東方MMD】幻想郷の日常：霊夢の退屈な一日【MMD紙芝居】](https://www.youtube.com/watch?v=njZi3ken_zA)
-#### [【東方MMD】幻想郷の日常：三魔女の一日【MMD紙芝居】](https://www.youtube.com/watch?v=TY_iw2NqG5k)
-#### [【東方MMD】幻想郷の日常：地獄の閻魔【MMD紙芝居】](https://www.youtube.com/watch?v=LZV32xJyAYk)
-#### [【東方MMD】幻想郷の日常：幻想郷のお医者様【MMD紙芝居】](https://www.youtube.com/watch?v=caL9VXavALY)
-#### [【東方MMD】幻想郷の日常：とある冬の一日【MMD紙芝居】](https://www.youtube.com/watch?v=7Wpj8fttirc)
-### 搬运
-#### [【东方MMD】【中文内嵌】幻想乡的日常：琪露诺的不满](https://www.bilibili.com/video/BV1aV4y177wE) 中文内嵌
-#### [灵梦和觉的交流【已汉化】](https://www.bilibili.com/video/BV1ti4y1L7mJ) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：三魔女的一天](https://www.bilibili.com/video/BV1fG4y1v7Qt) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：地狱的阎魔](https://www.bilibili.com/video/BV1Jt4y1t7Ka) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：竹林庸医](https://www.bilibili.com/video/BV1FY4y1E7oR) 中文内嵌
-#### [【东方MMD】【中文内嵌】幻想乡的日常：真冬里的一天](https://www.bilibili.com/video/BV15g411Z7pz) 中文内嵌
----
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_kiNEA0fI-lQsILAfc6oASPhIlFmj-tV9I3XWfaC-5PPg=s160-c-k-c0x00ffffff-no-rj)[sa sa](https://www.youtube.com/@sasa-fh7xs)
----
-## 作った紙芝居
-### 原视频
-#### [【東方MMD】貧乏巫女と悪戯魔法使い(茶番)](https://www.youtube.com/watch?v=7RE8uNPpNsA)
-#### [【東方MMD】歯なしにならないハナシ(茶番)](https://www.youtube.com/watch?v=wuHj7SfOMNY)
-#### [【東方MMD】一日だけの異変？(茶番)](https://www.youtube.com/watch?v=tcYgqRjwDXU)
-#### [【東方MMD】新しい遊び道具！？デュエルディスク！！(茶番)](https://www.youtube.com/watch?v=AkLBo814Pjg)
-#### [【東方MMD】楽園の素敵なたかり屋(茶番)](https://www.youtube.com/watch?v=6b3rcvkh9QI)
-#### [【東方MMD】早苗がお送りする幻想郷ラジオ(茶番)](https://www.youtube.com/watch?v=LbpEF9IsKM4)
-#### [【東方MMD】命蓮寺での一幕（茶番）](https://www.youtube.com/watch?v=oczX846z1AM)
-### 搬运
-#### [【中文内嵌】缺钱杀人魔和恶作剧小偷](https://www.bilibili.com/video/BV1TD4y1n766) 中文内嵌
-#### [红白护牙记（中文内嵌）](https://www.bilibili.com/video/BV1fv4y1y72X) 中文内嵌
-#### [【东方MMD】只有一天的异变？（茶番）](https://www.bilibili.com/video/BV1r5411j78e) 暂无翻译
-#### [【熟肉】【东方MMD】新的玩具！？决斗盘！！](https://www.bilibili.com/video/BV1RK411A7mY) 中文内嵌
-#### [【东方MMD中文字幕】乐园的可爱的强盗（茶番）](https://www.bilibili.com/video/BV12h411q7Ct) 中文内嵌
-#### [早苗主持的幻想乡电台（中文内嵌）](https://www.bilibili.com/video/BV1Av4y1v7pd) 中文内嵌
-#### [命莲寺风波（中文内嵌）](https://www.bilibili.com/video/BV14Y411m7n8) 中文内嵌
----
-# ![](https://yt3.googleusercontent.com/rHN9J3fbfblowD0yHNpYgl60-pyVCIKFbLMe3aIweW_-Dhym8bHo97Zs9D8ACH4IcGeTs7iqXA=s160-c-k-c0x00ffffff-no-rj)[おばにわん - OBANIWAN channel [touhou mmd]](https://www.youtube.com/@obaniwan)
 ## 【東方MMD】飯綱丸様、暴走シリーズ
 ### 原视频
 #### [Iizunamaru-sama, Rampage (touhou MMD)](https://www.youtube.com/watch?v=WOZ2TxHIQGU)
@@ -428,7 +268,318 @@ permalink: /mmd/
 #### [（东方MMD/中文字幕）五大老的一天 6](https://www.bilibili.com/video/BV15Y9mYNEEd) 中文内嵌
 #### [（东方MMD/中文内嵌）五大老的一天 7](https://www.bilibili.com/video/BV1bzLvzqEcD) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/TcWgLYue5F2WZbXipfn0GGY4a6pkyeOgyxmrrafBdiMrMtHw0OBPEPqLykLfhu5dhZWkeFWqVg=s160-c-k-c0x00ffffff-no-rj)![](https://yt3.googleusercontent.com/ytc/AIdro_nMo1fUUDYMr1Kk7L_hvHy9r_nqoQKX1UiHLNt4LZrQWQ=s160-c-k-c0x00ffffff-no-rj)[ヘルカルトン](https://www.youtube.com/@%E3%83%98%E3%83%AB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%B3)/[Hellニュート](https://www.youtube.com/@hell6570)
+## 【東方MMD】幻想郷「仕事シリーズ」【ＭＭＤ紙芝居】
+### 原视频
+#### [Head maid's job (touhou MMD)](https://www.youtube.com/watch?v=h23Kl662GA4)
+#### [Kappa's job (touhou MMD)](https://www.youtube.com/watch?v=6I6VsZ5eJUA)
+#### [Shrine maiden's work (touhou MMD)](https://www.youtube.com/watch?v=YRVq1baMPSg)
+#### [Eientei's work (touhou MMD)](https://www.youtube.com/watch?v=U6iY6ADoYoM)
+### 搬运
+#### [（东方MMD/中文字幕）女仆长的工作](https://www.bilibili.com/video/BV1sZ42127X6) 中文内嵌
+#### [（东方MMD／中文字幕）河童的工作](https://www.bilibili.com/video/BV14J4m1L7qd) 中文内嵌
+#### [（东方MMD/中文字幕）巫女的工作](https://www.bilibili.com/video/BV1Xz421y7TM) 中文内嵌
+#### [（东方MMD／中文字幕）永远亭的工作](https://www.bilibili.com/video/BV1gy41187wC) 中文内嵌
+---
+## 【東方MMD】出張！お宝大発見
+### 原视频
+#### [【東方MMD】出張！お宝大発見（命蓮寺編）【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=fFjIVulVz84)
+#### [Great Treasure Discovery (Red Devil Mansion) touhou MMD](https://www.youtube.com/watch?v=w2aWAS15XYI)
+#### [Great Treasure Discovery (Hakurei Shrine) touhou MMD](https://www.youtube.com/watch?v=dIvYanSK_5Y)
+#### [Great Treasure Discovery (Kirisame magic store) touhou MMD](https://www.youtube.com/watch?v=CiBREkR8seY)
+### 搬运
+#### [（东方MMD／中文字幕）出发！宝藏大发现（命莲寺篇）](https://www.bilibili.com/video/BV1AK411v7gu) 中文内嵌
+#### [（东方MMD／中文字幕）出发！宝藏大发现（红魔馆篇）](https://www.bilibili.com/video/BV1JQ4y157Ls) 中文内嵌
+#### [（东方MMD/中文字幕）出发！宝藏大发现（博丽神社篇）](https://www.bilibili.com/video/BV1Xm421W7Nw) 中文内嵌
+#### [（东方MMD/中文字幕）出发！宝藏大发现（雾雨魔法店篇）](https://www.bilibili.com/video/BV1AkKKecEP6) 中文内嵌
+---
+## 【東方MMD】幻想郷カレー戦争
+### 原视频
+#### [Myon Curry (touhou MMD)](https://www.youtube.com/watch?v=ClX4_JQR8Xk)
+#### [U-Mont Curry (touhou MMD)](https://www.youtube.com/watch?v=Ux8YFdsv_Mo)
+#### [Curry Marisa (touhou MMD)](https://www.youtube.com/watch?v=0mOI1LJCTCk)
+#### [Settled! Gensokyo Curry War (touhou MMD)](https://www.youtube.com/watch?v=jxvD1MJKS8I)
+#### [Gensokyo Curry War "Full version" (touhou MMD)](https://www.youtube.com/watch?v=A5XLer2lKyM)
+#### [Nitori's Curry War (Part 1) (touhou MMD)](https://www.youtube.com/watch?v=GChdqSvpr-c)
+#### [Nitori's Curry War (Part 2) (touhou MMD)](https://www.youtube.com/watch?v=i8Tt2GVQFVo)
+#### [Nitori's Curry War (Part 3) (touhou MMD)](https://www.youtube.com/watch?v=x27XPno31y0)
+#### [Nitori's Curry War "Full version" (touhou MMD)](https://www.youtube.com/watch?v=B4c4CwVrfMU)
+### 搬运
+#### [(东方MMD/中文字幕)幻想乡咖喱战争 1](https://www.bilibili.com/video/BV1Yu4y1G74g) 中文内嵌
+#### [（东方MMD/中文字幕）幻想乡咖喱战争 2](https://www.bilibili.com/video/BV1eC4y1F75F) 中文内嵌
+#### [(东方MMD/中文字幕)幻想乡咖喱战争 3](https://www.bilibili.com/video/BV17g4y1Z7Mi) 中文内嵌
+#### [（东方MMD/中文字幕）决战！幻想乡咖喱战争](https://www.bilibili.com/video/BV1Ue411y7ac) 中文内嵌
+#### [(东方MMD/中文字幕）荷取的咖喱战争 上篇](https://www.bilibili.com/video/BV1Fc411S72C) 中文内嵌
+#### [(东方MMD/中文字幕）荷取的咖喱战争 中篇](https://www.bilibili.com/video/BV1Tb4y1L7jU) 中文内嵌
+#### [(东方MMD/中文字幕） 荷取的咖喱战争 下篇](https://www.bilibili.com/video/BV12N411V7de) 中文内嵌
+---
+## 【東方MMD】幻想郷「薄い本」狂想曲
+### 原视频
+#### [Dreams and Desires of Gensokyo (touhou MMD)](https://www.youtube.com/watch?v=nTmP8GwMab0)
+#### [Aya, Nitori, and Fanzine (touhou MMD)](https://www.youtube.com/watch?v=3B0REa-KmPM)
+#### [Fanzine factory restarts (touhou MMD)](https://www.youtube.com/watch?v=B32Ryx-Dqp8)
+#### [Strike back! Blockade the doujinshi factory! (touhou MMD)](https://www.youtube.com/watch?v=0u7Df48Nths)
+#### [Doujinshi, be forever! (touhou MMD)](https://www.youtube.com/watch?v=0F5e_reThnI)
+### 搬运
+#### [（东方MMD/中文字幕）幻想乡的梦想和欲望](https://www.bilibili.com/video/BV1Vg4y1X7YD) 中文内嵌
+#### [(东方MMD/中文字幕)文文的薄本](https://www.bilibili.com/video/BV1PN4y1U7dV) 中文内嵌
+#### [（东方MMD/中文字幕）本子工厂，启动！](https://www.bilibili.com/video/BV1Si4y1e7x1) 中文内嵌
+#### [(东方MMD/中文字幕)逆袭！封锁本子工厂！](https://www.bilibili.com/video/BV16b4y1L7hW) 中文内嵌
+#### [（东方MMD/中文字幕）永远的小薄本](https://www.bilibili.com/video/BV1NqsdepEn3) 中文内嵌
+---
+## 【東方MMD】東方にゃんこシリーズ（猫キャラ主役）【ＭＭＤ紙芝居】
+### 原视频
+#### [Mike and the Mystery Vending Machine (touhou MMD)](https://www.youtube.com/watch?v=5Y1QqdXqOF8)
+#### [Mike's errands (touhou MMD)](https://www.youtube.com/watch?v=6n6vsKAd04A)
+#### [Kitty Party in Gensoukyou (touhou MMD)](https://www.youtube.com/watch?v=R6GwWajP4Aw)
+#### [Mike's Favorite Food (touhou MMD)](https://www.youtube.com/watch?v=9-Bg20s8FCI)
+#### [Mike wants to be kept (touhou MMD)](https://www.youtube.com/watch?v=WPYFL855oMc)
+### 搬运
+#### [（东方MMD/中文字幕）三花与谜之自动贩卖机](https://www.bilibili.com/video/BV1rN4feZEgP) 中文内嵌
+#### [（东方MMD/中文字幕）三花的差事](https://www.bilibili.com/video/BV1QE421A7Bu) 中文内嵌
+#### [（东方MMD/中文字幕）猫猫们的女子会](https://www.bilibili.com/video/BV1Pw4m1X7uP) 中文内嵌
+#### [（东方MMD／中文字幕）三花心爱的东西](https://www.bilibili.com/video/BV1vC411j7vU) 中文内嵌
+#### [（东方MMD/中文字幕）请收养三花吧](https://www.bilibili.com/video/BV1ZM4m1d7KU) 中文内嵌
+---
+## 【東方MMD】文々。ことわざ実験シリーズ【ＭＭＤ紙芝居】
+### 原视频
+#### [BunBunMaru - Proverb experiment (touhou MMD)](https://www.youtube.com/watch?v=p_F7bvtrTLc)
+#### [BunBunMaru - Proverb experiment 2 (touhou MMD)](https://www.youtube.com/watch?v=mmoCr54jGhk)
+#### [BunBunMaru - Proverb experiment 3 (touhou MMD)](https://www.youtube.com/watch?v=T5Hx3eeEEDc)
+#### [BunBunMaru - Proverb experiment 4 (touhou MMD)](https://www.youtube.com/watch?v=ocJyYJtHmz4)
+#### [BunBunMaru - Proverb experiment 5 (touhou MMD)](https://www.youtube.com/watch?v=q5s1uTfe91Y)
+#### [BunBunMaru - Proverb experiment 6 (touhou MMD)](https://www.youtube.com/watch?v=-p-0XkP3E0s)
+#### [BunBunMaru - Proverb experiment 7 (touhou MMD)](https://www.youtube.com/watch?v=oGnd4fbT1ow)
+#### [BunBunMaru - Proverb experiment 8 (touhou MMD)](https://www.youtube.com/watch?v=7VyCaAFBWHI)
+### 搬运
+#### [（东方MMD/中文字幕）文文的谚语实验 1](https://www.bilibili.com/video/BV1V6421M7UZ) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 2](https://www.bilibili.com/video/BV1Cx4y1y71y) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 3](https://www.bilibili.com/video/BV1YW421N7Aw) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 4](https://www.bilibili.com/video/BV17t421t7hx) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 5](https://www.bilibili.com/video/BV1GT421i7aW) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 6](https://www.bilibili.com/video/BV1sqBMYNEJc) 中文内嵌
+#### [（东方MMD/中文字幕）文文的谚语实验 7](https://www.bilibili.com/video/BV1LSN8eSEJh) 中文内嵌
+#### [【东方MMD/中字】文文的谚语实验 8](https://www.bilibili.com/video/BV1VmJVz4EV3) 中文内嵌
+---
+## 【東方MMD】天狗漫才「龍＆文」【ＭＭＤ紙芝居】
+### 原视频
+#### [Tengu Manzai "Megumu & Aya" Great Tengu loves computers! (touhou MMD)](https://www.youtube.com/watch?v=84lFcsAl9mw)
+#### [Tengu Manzai "Megumu & Aya" Great Tengu's part-time job (touhou MMD)](https://www.youtube.com/watch?v=hemL_UrxqVU)
+#### [Tengu Manzai "Megumu & Aya" Hatate's concerns (touhou MMD)](https://www.youtube.com/watch?v=0r2ezZp5wQM)
+#### [Tengu Manzai "Megumu & Aya" Apology of the Great Tengu (touhou MMD)](https://www.youtube.com/watch?v=stwRh5Ircyw)
+#### [Tengu Manzai "Megumu & Aya" Tengu's Lost and Found (touhou MMD)](https://www.youtube.com/watch?v=gUe4aet6w0o)
+#### [Tengu Manzai "Megumu & Aya" Stand-up Soba (touhou MMD)](https://www.youtube.com/watch?v=EBD-tbDAThY)
+### 搬运
+#### [（东方MMD/中文字幕）天狗漫才 龙&文 「喜欢网购的大天狗！」](https://www.bilibili.com/video/BV1om411Q7kK) 中文内嵌
+#### [（东方MMD／中文字幕）天狗漫才 龙&文 「大天狗的兼职」](https://www.bilibili.com/video/BV197H5eVER3) 中文内嵌
+#### [【东方MMD】天狗漫才「龙＆文」姬海棠果的烦恼【MMD紙芝居】](https://www.bilibili.com/video/av236088540)
+#### [（东方MMD/中文字幕）天狗漫才 龙&文 「天狗遗忘之物」](https://www.bilibili.com/video/BV1JbcJeUErm) 中文内嵌
+---
+## 【東方MMD】バカルテットの大活躍
+### 原视频
+#### [Baquartet's Spy Operations (touhou MMD)](https://www.youtube.com/watch?v=LfPwe-Rp554)
+#### [Baquartet counterattack (touhou MMD)](https://www.youtube.com/watch?v=vSv2cVEIBaM)
+#### [Free study of Baquartet (touhou MMD)](https://www.youtube.com/watch?v=g4s2d4GyVHU)
+#### [Children's Day in Baquartet (touhou MMD)](https://www.youtube.com/watch?v=9lcrsZ6LH3s)
+#### [Evacuation Drill for the Baquartet (touhou MMD)](https://www.youtube.com/watch?v=n560GrCSOyI)
+#### [Baquartet's Dolls' Festival (touhou MMD)](https://www.youtube.com/watch?v=LYjYZGAtTiE)
+#### [Baquartet's class newspaper (touhou MMD)](https://www.youtube.com/watch?v=9mxygvzvXGo)
+#### [Baquartet's unannounced test (touhou MMD)](https://www.youtube.com/watch?v=r-AyjB328pA)
+### 搬运
+#### [（东方MMD/中文字幕）Baka军团的间谍大作战](https://www.bilibili.com/video/BV1Qb4y137Vb) 中文内嵌
+#### [（东方MMD/中文字幕）Baka军团的逆袭](https://www.bilibili.com/video/BV1Eg4y1U7n3) 中文内嵌
+#### [（东方MMD/中文字幕）Baka军团的自由研究](https://www.bilibili.com/video/BV1aK4y1B7Nk) 中文内嵌
+#### [［东方mmd］BaKa军团的儿童节](https://www.bilibili.com/video/BV1pr421E7dP)
+#### [（东方MMD/中文字幕）Baka军团的避难演习](https://www.bilibili.com/video/BV17TSdYnEe3) 中文内嵌
+#### [【东方MMD/中字】BAKA军团的班级报纸](https://www.bilibili.com/video/BV1zvjSz8E5V) 中文内嵌
+---
+## 【東方MMD】レミリアのプリン（魔理沙シリーズ）
+### 原视频
+#### [Remilia's pudding 1 (touhou MMD)](https://www.youtube.com/watch?v=YIvN32Z2F1A)
+#### [Remilia's pudding 2 (touhou MMD)](https://www.youtube.com/watch?v=Nga23akWJuM)
+#### [Remilia's pudding 3 (touhou MMD)](https://www.youtube.com/watch?v=8hByz1cXMqM)
+### 搬运
+#### [（东方MMD／中文字幕）蕾米莉亚的布丁　１](https://www.bilibili.com/video/BV1Et421t7Qm) 中文内嵌
+#### [（东方MMD／中文字幕）蕾米莉亚的布丁 2](https://www.bilibili.com/video/BV1HZ421a745) 中文内嵌
+#### [（东方MMD/中文字幕）蕾米莉亚的布丁 3](https://www.bilibili.com/video/BV1Fi421Z7xB) 中文内嵌
+---
+![](https://yt3.googleusercontent.com/ytc/AIdro_l_7NoR9oTTlVn4BJLxVExujuOiRCB6cZXcSd9OVk8kpyo=s160-c-k-c0x00ffffff-no-rj)
+# [TNT](https://www.youtube.com/@tnt4085)
+---
+## 作成した東方MMD動画
+### 原视频
+#### [#1【東方MMD】博麗霊夢は飢えている](https://www.youtube.com/watch?v=ueSCY1CLukI)
+#### [#2【東方MMD】どんなにすごいやつでも人に言えない悩みや秘密の一つや二つはあったりする](https://www.youtube.com/watch?v=VyfbdjP-V6Y)
+#### [#3【東方MMD】姉と姉](https://www.youtube.com/watch?v=-UGBtwQpEKM)
+#### [#4【東方MMD】ヤンデレのこいしちゃんに死ぬほど愛されるさとり様だけどこれはこれで羨ましいかもしれない](https://www.youtube.com/watch?v=v0U4g3QOzKY)
+#### [#5【東方MMD】アリスちゃんは欲求不満](https://www.youtube.com/watch?v=gliRs-AruWE)
+#### [#６【東方MMD】小さい女の子が大好きなのは母性溢れる優しいお姉ちゃんなのか？](https://www.youtube.com/watch?v=v1HELqVrYPE)
+#### [#7【東方MMD】霊夢ちゃんおかず事件　　　（解決編）](https://www.youtube.com/watch?v=mq7Ra717Tuc)
+#### [#8【東方MMD】最強の喜びを知ってしまった妖夢ちゃん](https://www.youtube.com/watch?v=pljamhg4f3w)
+#### [#9【東方MMD】霊夢　VS　妖夢](https://www.youtube.com/watch?v=ucGbgKTmk5M)
+#### [#10【東方MMD】霊夢が振り向いてくれないのはどう考えても魔理沙が悪い](https://www.youtube.com/watch?v=KXTw-5iV34I)
+#### [#11【東方MMD】レイアリの原点](https://www.youtube.com/watch?v=y4Gi55h5ZiU)
+#### [#12【東方MMD】初めてできたお友達](https://www.youtube.com/watch?v=8ZeJrcxtbQM)
+#### [#13【東方MMD】絆](https://www.youtube.com/watch?v=QjJd0KC1j1A)
+#### [#14【東方MMD】ベビーシッター　アリス](https://www.youtube.com/watch?v=aFZTUMpE6qw)
+#### [#15【東方MMD】帰って来た〇乱ピンク](https://www.youtube.com/watch?v=8sS4ZY5ld1c)
+#### [#16【東方MMD】アリスのえげつなきまでの鬼畜戦法](https://www.youtube.com/watch?v=Z2C7cMepTjE)
+#### [#17【東方MMD】ペチャパイつるペタまな板マリちゃんの悩み](https://www.youtube.com/watch?v=x5r5FXbhuQk)
+#### [#1８【東方MMD】同盟結成！？霊夢と早苗](https://www.youtube.com/watch?v=e6SkDJXPDnk)
+#### [#19【東方MMD】何としてでも博麗と同盟を結びたい早苗さん](https://www.youtube.com/watch?v=_qRgG21Dokk)
+#### [#20【東方MMD】妖夢ちゃん覇権異変](https://www.youtube.com/watch?v=gc9ztsmbvIs)
+#### [#21【東方MMD】白玉楼絶体絶命！](https://www.youtube.com/watch?v=ui9p1YLeHyA)
+#### [#22【東方MMD】侵略者妖夢](https://www.youtube.com/watch?v=2c_W7vSGu4E)
+#### [#23【東方MMD】ペチャパイつるペタまな板マリちゃんのまな板からの脱却](https://www.youtube.com/watch?v=9mV1UKiyRgs)
+#### [#24【東方MMD】フランちゃんの分身会議](https://www.youtube.com/watch?v=3EHFr1OrFD8)
+#### [#25【東方MMD】逆境無頼フランちゃん　破壊録編](https://www.youtube.com/watch?v=_JV1YoMhrQE)
+#### [#26【東方MMD】お姉様と呼ばなくなった理由](https://www.youtube.com/watch?v=5oyECrUsycI)
+#### [#27【東方MMD】あまりにも残酷すぎた真実](https://www.youtube.com/watch?v=Mx_i1Gyo9sM)
+#### [#28【東方MMD】絶望の中に見た希望の欠片](https://www.youtube.com/watch?v=C4PPHmsDjtI)
+#### [#29【東方MMD】レイマリの原点](https://www.youtube.com/watch?v=GqXG39IUb5M)
+#### [#30【東方MMD】最高のクリスマスプレゼント](https://www.youtube.com/watch?v=sZ4ZU1aYm-I)
+#### [#31【東方MMD】フランちゃんがこいしちゃんのペットになりました](https://www.youtube.com/watch?v=fREZkrkMea4)
+#### [#32【東方MMD】姉トリオと妹トリオの食事会](https://www.youtube.com/watch?v=xheqzg3m954)
+#### [【東方MMD】五周年記念動画（メタ回）　[前編]](https://www.youtube.com/watch?v=_m4EXdeWV2c)
+#### [【東方MMD】五周年記念動画（メタ回）　[後編]](https://www.youtube.com/watch?v=LlLsCgfxqIc)
+#### [#33【東方MMD】平穏の終焉](https://www.youtube.com/watch?v=WdjA20Al36c)
+#### [#34【東方MMD】霊夢ちゃんが親に自分の黒歴史を知られてしまった結果...（Easy版）](https://www.youtube.com/watch?v=NKXDXHTs_z0)
+#### [#35【東方MMD】変態メイドの逆襲](https://www.youtube.com/watch?v=tGv8qmjcKlI)
+#### [#36【東方MMD】友達の友達](https://www.youtube.com/watch?v=aoyJgqrUZyk)
+#### [#37【東方MMD】マリアリの原点](https://www.youtube.com/watch?v=px6IpaphaXI)
+#### [#38【東方MMD】看病と拷問は紙一重（Easy版）](https://www.youtube.com/watch?v=_yrRH7MEGKE)
+#### [#39【東方MMD】変態メイド再び（Easy版）](https://www.youtube.com/watch?v=9FeNGvkp0A8)
+#### [#40【東方MMD】大切なお友達](https://www.youtube.com/watch?v=Caci5IXdy4M&t=1s)
+#### [#41【東方MMD】目覚めた力](https://www.youtube.com/watch?v=jU7taW6hOyY)
+### 搬运
+#### [【东方MMD】博丽灵梦很饥饿【中字内嵌】](https://www.bilibili.com/video/BV1BC411s7CV) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #2 不论多强，总是会有一两个不能说的烦恼](https://www.bilibili.com/video/BV1k5BtYDEtP) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #3 姐与姐](https://www.bilibili.com/video/BV187zdYjERY) 中文内嵌
+#### [【东方MMD/中文内嵌】  【TNT】 #4 被病娇恋爱的要死的觉大人](https://www.bilibili.com/video/BV1gPi6YFEpL) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #5 爱丽丝最近有些欲求不满](https://www.bilibili.com/video/BV1NTqkYfELL) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #6喜欢小女孩的，一定就是母性溢发的大姐姐吗](https://www.bilibili.com/video/BV1A2BGYyEhU) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #7 灵梦酱的妄想天则](https://www.bilibili.com/video/BV1z3CnYMEF8) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #8 沉浸于最强的喜悦中无法自拔的妖梦](https://www.bilibili.com/video/BV1wVrvYjE1v) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #9 灵梦VS妖梦](https://www.bilibili.com/video/BV1hbwKeNEfb) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #10 灵梦无法回头怎么想都是魔理沙的不好](https://www.bilibili.com/video/BV1ciPdehEQY) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #11 灵与爱的原点](https://www.bilibili.com/video/BV18bRsYaE45) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #12 友谊的初体验](https://www.bilibili.com/video/BV1a8QhYLEmf) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #13 羁绊 【催泪向】](https://www.bilibili.com/video/BV1iCdVYjE5N) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #14 混沌的幻想乡全明星大乱斗 【全程高能】](https://www.bilibili.com/video/BV1TXL8zWEpm) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #15 归来的华扇大人](https://www.bilibili.com/video/BV1CTVRzVEKr) 中文内嵌
+#### [【东方MMD/中文内嵌】 【TNT】 #16 爱丽丝的绝体鬼畜战法](https://www.bilibili.com/video/BV1uvT4zfEgH/) 中文内嵌
+#### [【东方MMD】平面砧板贫乳魔理沙的烦恼【中字内嵌】](https://www.bilibili.com/video/BV1rU4y1v7FC) 中文内嵌
+#### [【东方MMD】结盟！？灵梦和早苗【中字内嵌】](https://www.bilibili.com/video/BV17d4y1T7NR) 中文内嵌
+#### [【东方MMD】无论如何都想和灵梦结盟的早苗【中字内嵌】](https://www.bilibili.com/video/BV1Tg411y7P7) 中文内嵌
+#### [【东方MMD】妖梦霸权异变【中字内嵌】](https://www.bilibili.com/video/BV1Ee4y1e79k) 中文内嵌
+#### [【东方MMD】白玉楼穷途末路！【中字内嵌】](https://www.bilibili.com/video/BV188411h79e) 中文内嵌
+#### [【东方MMD】侵略者妖梦【中字内嵌】](https://www.bilibili.com/video/BV1Yj411u7UQ) 中文内嵌
+#### [#23【東方MMD】想要成長的魔理沙](https://www.bilibili.com/video/BV1JV4y1H74Z) 暂无翻译
+#### [【东方MMD】芙兰的分身会议【中字内嵌】](https://www.bilibili.com/video/BV1fW4y187rg) 中文内嵌
+#### [【东方MMD】逆境无赖芙兰酱 破坏录篇【中字内嵌】](https://www.bilibili.com/video/BV1JS4y1x7Dd) 中文内嵌
+#### [【东方MMD】不再叫"姐姐"的理由【中字内嵌】](https://www.bilibili.com/video/BV1kD4y1z766) 中文内嵌
+#### [【东方MMD】太过残酷的真相【中字内嵌】](https://www.bilibili.com/video/BV1yY4y1u7XX) 中文内嵌
+#### [【东方MMD】绝望中见到的希望的碎片【中字内嵌】](https://www.bilibili.com/video/BV1ad4y1G73S) 中文内嵌
+#### [【东方MMD】主角组的原点【中字内嵌】](https://www.bilibili.com/video/BV1dg411U7aD) 中文内嵌
+#### [【东方MMD】最好的圣诞礼物【中字内嵌】](https://www.bilibili.com/video/BV1JD4y1q7pb) 中文内嵌
+#### [【东方MMD】芙兰成了恋恋的宠物【中字内嵌】](https://www.bilibili.com/video/BV1rG411H72t) 中文内嵌
+#### [【东方MMD】姐姐三人组和妹妹三人组的聚餐【中字内嵌】](https://www.bilibili.com/video/BV15e4y1z7FT) 中文内嵌
+#### [【东方MMD】TNT五周年纪念动画（前篇）【中字内嵌】](https://www.bilibili.com/video/BV14d4y1b7ah) 中文内嵌
+#### [【东方MMD】TNT五周年纪念动画（后篇）【中字内嵌】](https://www.bilibili.com/video/BV1wG4y137zD) 中文内嵌
+#### [【东方MMD】平静生活的终结【中字内嵌】](https://www.bilibili.com/video/BV1U8411w7YK) 中文内嵌
+#### [【东方MMD】灵梦发现自己的黑历史已经被家长知道了…（Easy版）【中字内嵌】](https://www.bilibili.com/video/BV1sk4y1V7nA) 中文内嵌
+#### [【东方MMD】变态女仆的反击【中字内嵌】](https://www.bilibili.com/video/BV1tb4y1N7eh) 中文内嵌
+#### [【东方MMD】朋友的朋友【中字内嵌】](https://www.bilibili.com/video/BV1CA4m1G7gM) 中文内嵌
+#### [【东方MMD】【中文内嵌】【TNT】#37 魔与爱的原点](https://www.bilibili.com/video/BV16C411H78s) 中文内嵌
+#### [【东方MMD】【中文内嵌】【TNT】#38 照看病人与拷问本就是一体两面](https://www.bilibili.com/video/BV1Ku4m1w78u) 中文内嵌
+#### [【东方MMD】【中文内嵌】【TNT】#39 变态女仆卷土重来](https://www.bilibili.com/video/BV1enWQe9Eym) 中文内嵌
+#### [【东方MMD】最珍贵的朋友【中字内嵌】](https://www.bilibili.com/video/BV12rdYYJEub) 中文内嵌
+#### [【东方MMD】觉醒的力量【中字内嵌】](https://www.bilibili.com/video/BV1e3VWzgExg) 中文内嵌
+---
+![](https://yt3.googleusercontent.com/ytc/AIdro_n2iwn1AyF6YLW_aXZP1zVtSgduLwBHKOQEmBnln4f9CEA=s160-c-k-c0x00ffffff-no-rj)
+# [むぅさん63](https://www.youtube.com/@%E3%82%80%E3%81%85%E3%81%95%E3%82%9363)
+---
+## 新
+### 原视频
+#### [【東方MMD】幻想郷の日常：愉快な妖精たち【MMD紙芝居】](https://www.youtube.com/watch?v=nQ91XWT01S4)
+#### [【東方MMD】幻想郷の日常：無口なこころちゃん【MMD紙芝居】](https://www.youtube.com/watch?v=b3M9TsZLuzI)
+#### [【東方MMD】幻想郷の日常：逆ナン【MMD紙芝居】](https://www.youtube.com/watch?v=IjqEQ1C6UCo)
+#### [【東方MMD】幻想郷の日常：館【MMD紙芝居】](https://www.youtube.com/watch?v=e-pealS-EiE)
+#### [【東方MMD】幻想郷の日常：聖夜【MMD紙芝居】](https://www.youtube.com/watch?v=SeR3CDgk6Ow)
+#### [【東方MMD】幻想郷の日常：人の驚かせ方【MMD紙芝居】](https://www.youtube.com/watch?v=a0G6OI7Bd9Q)
+#### [【東方MMD】幻想郷の日常：道徳【MMD紙芝居】](https://www.youtube.com/watch?v=2vG00BjMT9w)
+#### [【東方MMD】幻想郷の日常：森の異変と魔理沙の新居【MMD紙芝居】](https://www.youtube.com/watch?v=A5Uw9umAijM)
+#### [【東方MMD】幻想郷の日常：守矢一家【MMD紙芝居】](https://www.youtube.com/watch?v=E4BiOLxy96k)
+#### [【東方MMD】幻想郷の日常：生存報告とおしゃべり【MMD紙芝居】](https://www.youtube.com/watch?v=1APtJapgfdY)
+#### [【東方MMD】幻想郷の日常：頭の異変【MMD紙芝居】](https://www.youtube.com/watch?v=29J80aUYJGQ)
+#### [【東方MMD】幻想郷の日常：社会見学【MMD紙芝居】](https://www.youtube.com/watch?v=R9qOYmHKbA0)
+#### [【東方MMD】幻想郷の日常：花の恐怖【MMD紙芝居】](https://www.youtube.com/watch?v=h9cCLsEx6ik)
+#### [【東方MMD】幻想郷の日常：ゴールデンウィーク【MMD紙芝居】](https://www.youtube.com/watch?v=JORPsMuU8q4)
+#### [【東方MMD】幻想郷の日常：紅魔館のカリスマ吸血鬼【MMD紙芝居】](https://www.youtube.com/watch?v=kEek3JVdmtU)
+#### [【東方MMD】幻想郷の日常：質問コーナー【MMD紙芝居】](https://www.youtube.com/watch?v=DfRhLfpLN7Q)
+#### [【東方MMD】幻想郷の日常：新年【MMD紙芝居】](https://www.youtube.com/watch?v=HULST9xy-eU)
+#### [【東方MMD】幻想郷の日常：命蓮寺【MMD紙芝居】](https://www.youtube.com/watch?v=oHcIsx_f1UQ)
+#### [【東方MMD】幻想郷の日常：祭り 前編【MMD紙芝居】](https://www.youtube.com/watch?v=pB73sWbm76g)
+#### [【東方MMD】幻想郷の日常：祭り 後編【MMD紙芝居】](https://www.youtube.com/watch?v=J9QfX_f9RDg)
+### 搬运
+#### [【东方MMD】【中文内嵌】幻想乡的日常：笨蛋军团](https://www.bilibili.com/video/BV1J94y1X7EW) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：无口少女心酱](https://www.bilibili.com/video/BV1mN4y1j7tg) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：钓凯子](https://www.bilibili.com/video/BV17W4y1S7Vd) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：洋馆](https://www.bilibili.com/video/BV1GB4y1v7kn) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：圣诞夜](https://www.bilibili.com/video/BV1tY4y1J7uq) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：吓唬人的方法](https://www.bilibili.com/video/BV1jB4y1a7kQ) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：道德](https://www.bilibili.com/video/BV1ZS4y1E799) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：森林异变和魔理沙的新家](https://www.bilibili.com/video/BV1HG411s75Y) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：守矢一家](https://www.bilibili.com/video/BV1oa411X7JE) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：生存报告和闲聊（番外）](https://www.bilibili.com/video/BV1tB4y187mQ) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：脑袋异变](https://www.bilibili.com/video/BV1SV4y1E78o) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：社会见学](https://www.bilibili.com/video/BV1VU4y1B7F2) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：花有多恐怖](https://www.bilibili.com/video/BV1m54y1M7xh) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：黄金周](https://www.bilibili.com/video/BV1XV411K7aG) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：红魔馆的威严吸血鬼](https://www.bilibili.com/video/BV1GP411y7UW) 中文内嵌
+#### [【東方MMD】幻想郷の日常：質問コーナー【MMD紙芝居】](https://www.youtube.com/watch?v=DfRhLfpLN7Q) 暂无翻译
+#### [【东方MMD】【中文内嵌】【幻想乡的日常】新年](https://www.bilibili.com/video/BV1wi421o7Xh) 中文内嵌
+#### [【东方MMD】【中文内嵌】 幻想乡的日常:命莲寺 【个人汉化】](https://www.bilibili.com/video/BV1KcbueKEfR) 中文内嵌
+#### [【东方MMD】【中文内嵌】【幻想乡的日常】祭典 前篇](https://www.bilibili.com/video/BV13hNmedEZh) 中文内嵌
+---
+## 旧
+### 原视频
+#### [【東方MMD】幻想郷の日常：チルノの不満【MMD紙芝居】](https://www.youtube.com/watch?v=4ftD_XCwOfU)
+#### [【東方MMD】幻想郷の日常：霊夢の退屈な一日【MMD紙芝居】](https://www.youtube.com/watch?v=njZi3ken_zA)
+#### [【東方MMD】幻想郷の日常：三魔女の一日【MMD紙芝居】](https://www.youtube.com/watch?v=TY_iw2NqG5k)
+#### [【東方MMD】幻想郷の日常：地獄の閻魔【MMD紙芝居】](https://www.youtube.com/watch?v=LZV32xJyAYk)
+#### [【東方MMD】幻想郷の日常：幻想郷のお医者様【MMD紙芝居】](https://www.youtube.com/watch?v=caL9VXavALY)
+#### [【東方MMD】幻想郷の日常：とある冬の一日【MMD紙芝居】](https://www.youtube.com/watch?v=7Wpj8fttirc)
+### 搬运
+#### [【东方MMD】【中文内嵌】幻想乡的日常：琪露诺的不满](https://www.bilibili.com/video/BV1aV4y177wE) 中文内嵌
+#### [灵梦和觉的交流【已汉化】](https://www.bilibili.com/video/BV1ti4y1L7mJ) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：三魔女的一天](https://www.bilibili.com/video/BV1fG4y1v7Qt) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：地狱的阎魔](https://www.bilibili.com/video/BV1Jt4y1t7Ka) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：竹林庸医](https://www.bilibili.com/video/BV1FY4y1E7oR) 中文内嵌
+#### [【东方MMD】【中文内嵌】幻想乡的日常：真冬里的一天](https://www.bilibili.com/video/BV15g411Z7pz) 中文内嵌
+---
+![](https://yt3.googleusercontent.com/ytc/AIdro_kiNEA0fI-lQsILAfc6oASPhIlFmj-tV9I3XWfaC-5PPg=s160-c-k-c0x00ffffff-no-rj)
+# [sa sa](https://www.youtube.com/@sasa-fh7xs)
+---
+## 作った紙芝居
+### 原视频
+#### [【東方MMD】貧乏巫女と悪戯魔法使い(茶番)](https://www.youtube.com/watch?v=7RE8uNPpNsA)
+#### [【東方MMD】歯なしにならないハナシ(茶番)](https://www.youtube.com/watch?v=wuHj7SfOMNY)
+#### [【東方MMD】一日だけの異変？(茶番)](https://www.youtube.com/watch?v=tcYgqRjwDXU)
+#### [【東方MMD】新しい遊び道具！？デュエルディスク！！(茶番)](https://www.youtube.com/watch?v=AkLBo814Pjg)
+#### [【東方MMD】楽園の素敵なたかり屋(茶番)](https://www.youtube.com/watch?v=6b3rcvkh9QI)
+#### [【東方MMD】早苗がお送りする幻想郷ラジオ(茶番)](https://www.youtube.com/watch?v=LbpEF9IsKM4)
+#### [【東方MMD】命蓮寺での一幕（茶番）](https://www.youtube.com/watch?v=oczX846z1AM)
+### 搬运
+#### [【中文内嵌】缺钱杀人魔和恶作剧小偷](https://www.bilibili.com/video/BV1TD4y1n766) 中文内嵌
+#### [红白护牙记（中文内嵌）](https://www.bilibili.com/video/BV1fv4y1y72X) 中文内嵌
+#### [【东方MMD】只有一天的异变？（茶番）](https://www.bilibili.com/video/BV1r5411j78e) 暂无翻译
+#### [【熟肉】【东方MMD】新的玩具！？决斗盘！！](https://www.bilibili.com/video/BV1RK411A7mY) 中文内嵌
+#### [【东方MMD中文字幕】乐园的可爱的强盗（茶番）](https://www.bilibili.com/video/BV12h411q7Ct) 中文内嵌
+#### [早苗主持的幻想乡电台（中文内嵌）](https://www.bilibili.com/video/BV1Av4y1v7pd) 中文内嵌
+#### [命莲寺风波（中文内嵌）](https://www.bilibili.com/video/BV14Y411m7n8) 中文内嵌
+---
+![](https://yt3.googleusercontent.com/TcWgLYue5F2WZbXipfn0GGY4a6pkyeOgyxmrrafBdiMrMtHw0OBPEPqLykLfhu5dhZWkeFWqVg=s160-c-k-c0x00ffffff-no-rj)![](https://yt3.googleusercontent.com/ytc/AIdro_nMo1fUUDYMr1Kk7L_hvHy9r_nqoQKX1UiHLNt4LZrQWQ=s160-c-k-c0x00ffffff-no-rj)
+# [ヘルカルトン](https://www.youtube.com/@%E3%83%98%E3%83%AB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%B3)/[Hellニュート](https://www.youtube.com/@hell6570)
 ---
 ## 制作した東方MMD (ヘルカルトン)
 ### 原视频
@@ -455,8 +606,10 @@ permalink: /mmd/
 #### [【转载翻译·代投】人渣们从同一扇窗看去···【东方MMD】](https://www.bilibili.com/video/BV1oNEwzaEeg) 中文内嵌 (原视频已删除)
 #### [【转载翻译·代投】祭典限定！灵梦炫冰般的大幻觉【东方MMD】](https://www.bilibili.com/video/BV1MHVZzhE2W) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/mK8sTUMFoI1IoYpKzGvChAdC6COwpQd-wSZT7RIyZTBtSJjGx5kDE8RkGTRIFOfogKw0IajqPQ=s160-c-k-c0x00ffffff-no-rj)[小岩井てんこ](https://www.youtube.com/@%E5%B0%8F%E5%B2%A9%E4%BA%95%E3%81%A6%E3%82%93%E3%81%93)
+![](https://yt3.googleusercontent.com/mK8sTUMFoI1IoYpKzGvChAdC6COwpQd-wSZT7RIyZTBtSJjGx5kDE8RkGTRIFOfogKw0IajqPQ=s160-c-k-c0x00ffffff-no-rj)
+# [小岩井てんこ](https://www.youtube.com/@%E5%B0%8F%E5%B2%A9%E4%BA%95%E3%81%A6%E3%82%93%E3%81%93)
 ---
+## 東方MMD紙芝居
 ### 原视频
 #### [【東方MMD】霊夢、先代の古傷をさする。【紙芝居】](https://www.youtube.com/watch?v=oLlnXdUMgms)
 #### [【東方MMD】うどんげはストップドクター【紙芝居】](https://www.youtube.com/watch?v=0Q2SVZ5MDjI)
@@ -575,7 +728,8 @@ permalink: /mmd/
 #### [【东方MMD】【中文内嵌】妖梦酱对不起](https://www.bilibili.com/video/BV1U8411176a) 中文内嵌
 #### [【东方MMD中文内嵌】妖梦酱想笑就笑吧](https://www.bilibili.com/video/BV1Zk4y177VK) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_mAjwWd6on6-rkO1bMD0-8VFj9kjNm9tc_kHrpDGeAUqg=s160-c-k-c0x00ffffff-no-rj)[やもり](https://www.youtube.com/@%E3%82%84%E3%82%82%E3%82%8A-f8s)
+![](https://yt3.googleusercontent.com/ytc/AIdro_mAjwWd6on6-rkO1bMD0-8VFj9kjNm9tc_kHrpDGeAUqg=s160-c-k-c0x00ffffff-no-rj)
+# [やもり](https://www.youtube.com/@%E3%82%84%E3%82%82%E3%82%8A-f8s)
 ---
 ## 超常識的幻想郷シリーズ
 ### 原视频
@@ -603,7 +757,8 @@ permalink: /mmd/
 #### [【东方MMD中文内嵌】弱智想成为低能的结果](https://www.bilibili.com/video/BV14z4y1g7By) 中文内嵌
 #### [【东方MMD中文内嵌】不想变成这样的人](https://www.bilibili.com/video/BV1bp4y1G7Sn) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_m-HYbYtDPnqe3lQaaPlg84p4Lu2ATsbVsoLhICGWy-bg=s160-c-k-c0x00ffffff-no-rj)[ラプター](https://www.youtube.com/@%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC-j9s/playlists)
+![](https://yt3.googleusercontent.com/ytc/AIdro_m-HYbYtDPnqe3lQaaPlg84p4Lu2ATsbVsoLhICGWy-bg=s160-c-k-c0x00ffffff-no-rj)
+# [ラプター](https://www.youtube.com/@%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC-j9s/playlists)
 ---
 ### 原视频
 #### [【東方MMD】魔理沙のいけない恋](https://www.youtube.com/watch?v=WOruRf2Bl-I)
@@ -612,21 +767,24 @@ permalink: /mmd/
 #### [【第15回东方nico童祭】魔理沙的禁忌之恋](https://www.bilibili.com/video/BV1XV411K78J) CC字幕
 #### [【东方MMD中文内嵌】觉儿庄【东方日常字幕组】](https://www.bilibili.com/video/BV1qx411z7Rp) 中文内嵌
 ---
-# ![](https://yt3.ggpht.com/ytc/AIdro_lzuPDZXLqnutOcgs2NdMQf_b5HU8HALPaHp3D38r-lk1c=s176-c-k-c0x00ffffff-no-rj)[たかしま（タカシマ）](https://www.youtube.com/@mmdtakashima)
+![](https://yt3.ggpht.com/ytc/AIdro_lzuPDZXLqnutOcgs2NdMQf_b5HU8HALPaHp3D38r-lk1c=s176-c-k-c0x00ffffff-no-rj)
+# [たかしま（タカシマ）](https://www.youtube.com/@mmdtakashima)
 ---
 ### 原视频
 #### [幻想郷マッチングアプリ異変！！【東方MMD紙芝居】【ゆっくり茶番】](https://www.youtube.com/watch?v=FKAd3ApEj4s)
 ### 搬运
 #### [【东方MMD】幻想乡匹配软件异变！！](https://www.bilibili.com/video/BV1B94y117vB) CC字幕
 ---
-# ![](https://yt3.googleusercontent.com/wyOQ8SkwwmvJrVwfU6rRd4FM1qatWael_-1ZssjCpwHxQwlVTF-eCU5jz3QJ_jztQjK4UCjdSw=s160-c-k-c0x00ffffff-no-rj)[がてん](https://www.youtube.com/@gaten_7030)
+![](https://yt3.googleusercontent.com/wyOQ8SkwwmvJrVwfU6rRd4FM1qatWael_-1ZssjCpwHxQwlVTF-eCU5jz3QJ_jztQjK4UCjdSw=s160-c-k-c0x00ffffff-no-rj)
+# [がてん](https://www.youtube.com/@gaten_7030)
 ---
 ### 原视频
 #### [【東方MMD】幻想郷アークインパルスお花見茶番大戦【MMDドラマ】](https://www.youtube.com/watch?v=KS1CrKOLMGk&t=5653s)
 ### 搬运
 #### [【东方MMD大电影/中文内嵌】幻想乡弧光冲击：赏花闹剧大战](https://www.bilibili.com/video/BV1BpNbeEELZ) 中文内嵌
 ---
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_kKFnA680RdczYCezWIrb6QecHwWa-iogzyE6E4DhE=s160-c-k-c0x00ffffff-no-rj)[黒ぶるごーにゅ](https://www.youtube.com/@%E9%BB%92%E3%81%B6%E3%82%8B%E3%81%94%E3%83%BC%E3%81%AB%E3%82%85)
+![](https://yt3.googleusercontent.com/ytc/AIdro_kKFnA680RdczYCezWIrb6QecHwWa-iogzyE6E4DhE=s160-c-k-c0x00ffffff-no-rj)
+# [黒ぶるごーにゅ](https://www.youtube.com/@%E9%BB%92%E3%81%B6%E3%82%8B%E3%81%94%E3%83%BC%E3%81%AB%E3%82%85)
 ---
 ### 原视频
 #### [【東方MMD】アンハッピーローテーション 【Unhappy Rotation】](https://www.youtube.com/watch?v=XPHS7DsY7b8)
