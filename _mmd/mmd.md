@@ -371,7 +371,8 @@ permalink: /mmd/
 ### 搬运
 #### [（东方MMD/中文字幕）天狗漫才 龙&文 「喜欢网购的大天狗！」](https://www.bilibili.com/video/BV1om411Q7kK) 中文内嵌
 #### [（东方MMD／中文字幕）天狗漫才 龙&文 「大天狗的兼职」](https://www.bilibili.com/video/BV197H5eVER3) 中文内嵌
-#### [【东方MMD】天狗漫才「龙＆文」姬海棠果的烦恼【MMD紙芝居】](https://www.bilibili.com/video/av236088540)
+#### [【东方MMD】天狗漫才「龙＆文」姬海棠果的烦恼【MMD紙芝居】](https://www.bilibili.com/video/BV1nv411c7yD) 暂无翻译
+#### [【东方MMD】天狗漫才「龙＆文」大天狗的谢罪【MMD紙芝居】](https://www.bilibili.com/video/BV1WT4m1S7en) 暂无翻译
 #### [（东方MMD/中文字幕）天狗漫才 龙&文 「天狗遗忘之物」](https://www.bilibili.com/video/BV1JbcJeUErm) 中文内嵌
 ---
 ## 【東方MMD】バカルテットの大活躍
@@ -388,7 +389,7 @@ permalink: /mmd/
 #### [（东方MMD/中文字幕）Baka军团的间谍大作战](https://www.bilibili.com/video/BV1Qb4y137Vb) 中文内嵌
 #### [（东方MMD/中文字幕）Baka军团的逆袭](https://www.bilibili.com/video/BV1Eg4y1U7n3) 中文内嵌
 #### [（东方MMD/中文字幕）Baka军团的自由研究](https://www.bilibili.com/video/BV1aK4y1B7Nk) 中文内嵌
-#### [［东方mmd］BaKa军团的儿童节](https://www.bilibili.com/video/BV1pr421E7dP)
+#### [［东方mmd］BaKa军团的儿童节](https://www.bilibili.com/video/BV1pr421E7dP) 中文内嵌
 #### [（东方MMD/中文字幕）Baka军团的避难演习](https://www.bilibili.com/video/BV17TSdYnEe3) 中文内嵌
 #### [【东方MMD/中字】BAKA军团的班级报纸](https://www.bilibili.com/video/BV1zvjSz8E5V) 中文内嵌
 ---
