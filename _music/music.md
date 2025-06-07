@@ -303,6 +303,7 @@ permalink: /music/
 [Spotify](https://open.spotify.com/album/0EwlxDmKJZxgeAVYbSF8Wa) [Wiki](https://thwiki.cc/%E9%AC%BC%E4%BC%BD%E8%8D%89%E5%AD%90)
 ### 紅染の鬼が哭く
 [Spotify](https://open.spotify.com/album/5KpTQAeu7QSEthFdPUYzlm) [Wiki](https://thwiki.cc/%E7%B4%85%E6%9F%93%E3%81%AE%E9%AC%BC%E3%81%8C%E5%93%AD%E3%81%8F)
+
 ---
 ![](https://i.scdn.co/image/ab67616d0000e1a3e776075a36ca9074acf4a924)
 # 东京Active NEETs/東京アクティブNEETs

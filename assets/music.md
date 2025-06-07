@@ -231,6 +231,8 @@
 ![](https://i.scdn.co/image/ab67616d0000e1a3d723fc17bdf41a34cd8f897d)
 # 豚乙女/Butaotome
 [Spotify](https://open.spotify.com/artist/7ejGih4hGEmw5dgVy4jgdZ) [YouTube](https://www.youtube.com/channel/UCliG2TPBFMc6zweohklZxFQ) [Wiki](https://thwiki.cc/%E8%B1%9A%E4%B9%99%E5%A5%B3)
+
+---
 ## 专辑
 ### 縁
 [Spotify](https://open.spotify.com/album/3niwBtkidRNEv8RAqbgDFJ) [Wiki](https://thwiki.cc/%E7%B8%81%EF%BC%88%E8%B1%9A%E4%B9%99%E5%A5%B3%EF%BC%89)
@@ -289,6 +291,7 @@
 [Spotify](https://open.spotify.com/album/0EwlxDmKJZxgeAVYbSF8Wa) [Wiki](https://thwiki.cc/%E9%AC%BC%E4%BC%BD%E8%8D%89%E5%AD%90)
 ### 紅染の鬼が哭く
 [Spotify](https://open.spotify.com/album/5KpTQAeu7QSEthFdPUYzlm) [Wiki](https://thwiki.cc/%E7%B4%85%E6%9F%93%E3%81%AE%E9%AC%BC%E3%81%8C%E5%93%AD%E3%81%8F)
+
 ---
 ![](https://i.scdn.co/image/ab67616d0000e1a3e776075a36ca9074acf4a924)
 # 东京Active NEETs/東京アクティブNEETs

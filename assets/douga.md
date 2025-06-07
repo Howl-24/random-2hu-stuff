@@ -41,7 +41,8 @@
 #### [「赛博东方酒家」·第壹章-水曜日](https://www.bilibili.com/video/BV1vP4y1s7WL)
 #### [「赛博东方酒家」·第壹章-木曜日](https://www.bilibili.com/video/BV1wF411e78e)
 ---
-# ![](https://yt3.googleusercontent.com/ytc/AIdro_mpXvrMTqor_2jCpD_yvOCyedoMoOyafzT5-qXKbk0dmwY=s160-c-k-c0x00ffffff-no-rj)[minusT](https://www.youtube.com/@0minusT)
+![](https://yt3.googleusercontent.com/ytc/AIdro_mpXvrMTqor_2jCpD_yvOCyedoMoOyafzT5-qXKbk0dmwY=s160-c-k-c0x00ffffff-no-rj)
+# [minusT](https://www.youtube.com/@0minusT)
 ---
 ## Touhou 3D
 ### 原视频
