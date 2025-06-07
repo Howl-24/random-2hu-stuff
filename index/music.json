@@ -340,6 +340,11 @@
     "content": "掲"
   },
   {
+    "id": "/music#眇",
+    "title": "眇",
+    "content": "眇"
+  },
+  {
     "id": "/music#𠷡",
     "title": "𠷡",
     "content": "𠷡"
@@ -385,9 +390,19 @@
     "content": "TOSX TOKYO at clubasia"
   },
   {
+    "id": "/music#luna",
+    "title": "Lu○Na",
+    "content": "Lu○Na"
+  },
+  {
     "id": "/music#the-selected-works-of-tamaonsen-ex",
     "title": "THE SELECTED WORKS OF TAMAONSEN EX",
     "content": "THE SELECTED WORKS OF TAMAONSEN EX"
+  },
+  {
+    "id": "/music#魂音泉別館ベスト-remaster",
+    "title": "魂音泉別館ベスト (Remaster)",
+    "content": "魂音泉別館ベスト (Remaster)"
   },
   {
     "id": "/music#kalanchoe-records",
@@ -528,6 +543,11 @@
     "id": "/music#专辑-9",
     "title": "专辑",
     "content": "专辑"
+  },
+  {
+    "id": "/music#鬼伽草子",
+    "title": "鬼伽草子",
+    "content": "鬼伽草子"
   },
   {
     "id": "/music#紅染の鬼が哭く",
