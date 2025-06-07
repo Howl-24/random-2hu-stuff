@@ -20,6 +20,11 @@ def generate_toc(md_file, output_file):
             .replace("【", "")
             .replace("】", "")
             .replace("、", "")
+            .replace("「", "")
+            .replace("」", "")
+            .replace("。", "")
+            .replace("！", "")
+            .replace("＆", "")
         )  # 去除特殊符号
         title = title.replace(" ", "-")  # 用-代替空格
 
