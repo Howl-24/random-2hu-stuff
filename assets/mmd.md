@@ -3,6 +3,7 @@
   - [本編（全32話）](#本編全32話)
   - [番外編](#番外編)
 - [おばにわん - OBANIWAN channel [touhou mmd]](#おばにわん---obaniwan-channel-touhou-mmd)
+  - [おばにわん東方MMD](#おばにわん東方mmd)
   - [【東方MMD】飯綱丸様、暴走シリーズ](#東方mmd飯綱丸様暴走シリーズ)
   - [【東方MMD】ある日の五大老シリーズ【ＭＭＤ紙芝居】](#東方mmdある日の五大老シリーズｍｍｄ紙芝居)
   - [【東方MMD】幻想郷「仕事シリーズ」【ＭＭＤ紙芝居】](#東方mmd幻想郷仕事シリーズｍｍｄ紙芝居)
@@ -157,6 +158,175 @@
 ![](https://yt3.googleusercontent.com/rHN9J3fbfblowD0yHNpYgl60-pyVCIKFbLMe3aIweW_-Dhym8bHo97Zs9D8ACH4IcGeTs7iqXA=s160-c-k-c0x00ffffff-no-rj)
 # [おばにわん - OBANIWAN channel [touhou mmd]](https://www.youtube.com/@obaniwan)
 ---
+## おばにわん東方MMD
+### 原视频
+#### [【東方MMD】椛の幸せな憂鬱【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=RHQFrJzPg_M)
+#### [【東方MMD】文と椛とスペシャル団子【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=xwzd_b5NCOI)
+#### [The Tragedy of Yosuzumean](https://www.youtube.com/watch?v=t3xgQuu9Exk)
+#### [【東方MMD】セクハラ天狗「椛を汚さないで」【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=MsZ1Y2B3nrA)
+#### [Tengu's fishing competition (touhou MMD)](https://www.youtube.com/watch?v=Y1jmUmA1V-0)
+#### [【東方MMD】射命丸、大いに悩む【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=ubWkiRszEDQ)
+#### [【東方MMD】鳥たちのメリークリスマス【ＭＭＤ紙芝居】【東方クリスマス】](https://www.youtube.com/watch?v=9Y7GRUuJK_k)
+#### [【東方MMD】クリスマスの奇跡って【ＭＭＤ紙芝居】【東方クリスマス】](https://www.youtube.com/watch?v=V0rD1p6vqWs)
+#### [The day when Momiji had wings (touhou MMD)](https://www.youtube.com/watch?v=A0b-MH21JGQ)
+#### [Aya and Hatate at Izakaya (touhou MMD)](https://www.youtube.com/watch?v=LXz-59rYZlo)
+#### [You might feel a slight pinch (touhou MMD)](https://www.youtube.com/watch?v=169cttBTh5c)
+#### [Acts of Tengu (touhou MMD)](https://www.youtube.com/watch?v=ZTrvALFuHOc)
+#### [How to cure insomnia (touhou MMD)](https://www.youtube.com/watch?v=9dMZaAYGubI)
+#### [Nitori's dangerous part-time job (touhou MMD)](https://www.youtube.com/watch?v=cnw1NBwgUsQ)
+#### [Momiji's mundane day (touhou MMD)](https://www.youtube.com/watch?v=C0jEn4RV3IU)
+#### [【東方MMD】天狗の秘宝にご用心【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=eR46ej4Y8kE)
+#### [【東方MMD】もみじかみかみ【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=2Bf2kXyK5yk)
+#### [【東方MMD】文と椛とわかさぎ姫と【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=11P-9b82NOw)
+#### [The day Momiji caught a cold (touhou MMD)](https://www.youtube.com/watch?v=O2JSnnxkwGA)
+#### [Inubashiri Momiji, barking](https://www.youtube.com/watch?v=IYTFMY_V7ss)
+#### [【東方MMD】文さんの絵描き歌【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=SxhXYwybPVE)
+#### [Momiji, Close call (touhou MMD)](https://www.youtube.com/watch?v=aSVk-V3IhP4)
+#### [【東方MMD】文と椛の夏の思い出【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=dS5Uu_qWo3M)
+#### [【東方MMD】はたてさんから大事なお話があるそうです【ＭＭＤ紙芝居】](https://www.youtube.com/watch?v=9FZQrfjk7Dg)
+#### [Thoughts of Shameimaru, Hearts of Journalists (touhou MMD)](https://www.youtube.com/watch?v=2F4v4jZdDds)
+#### [What Momiji is looking for(touhou MMD)](https://www.youtube.com/watch?v=9dh11mtkBNU)
+#### [Let's play a trick 2022 (touhou MMD) (Halloween)](https://www.youtube.com/watch?v=5KYszKQUwmU)
+#### [Myon Myon Uu- (touhou MMD) (Youmu Konpaku) (Remilia Scarlet)](https://www.youtube.com/watch?v=YChXX7S0tes)
+#### [Shameimaru Type 2 appeared (touhou MMD)](https://www.youtube.com/watch?v=1URf-TKANz8)
+#### [Momiji goes out(touhou MMD) #shorts](https://www.youtube.com/watch?v=VEzsYjomhnk)
+#### [Kotatsu tengu (touhou MMD)](https://www.youtube.com/watch?v=EF95OJKgS9o)
+#### [Myon Myon Uu- (touhou MMD) #shorts](https://www.youtube.com/watch?v=8LcmrbdkC48)
+#### [Momiji's Paw Pad (touhou MMD)](https://www.youtube.com/watch?v=ng-XAIGOkN8)
+#### [Aya-Momi's Valentine's Day (touhou MMD)](https://www.youtube.com/watch?v=ETX6P_p8qpA)
+#### [Oolong Cheeeeeeeeen (touhou MMD) #shorts](https://www.youtube.com/watch?v=CI5MlfXEk2k)
+#### [MyonMyon-u exercise (touhou MMD) #shorts](https://www.youtube.com/watch?v=BnTa8s0qETc)
+#### [Hatate Hatate Hatate (touhou MMD) #shorts](https://www.youtube.com/watch?v=d1A1Aom55hI)
+#### [Detective Inubashiri (touhou MMD)](https://www.youtube.com/watch?v=wJcVPIoxx6w)
+#### [interrogation room (touhou MMD) #shorts](https://www.youtube.com/watch?v=iDczGOvwd3U)
+#### [Eien-tei's traveling sales (touhou MMD)](https://www.youtube.com/watch?v=lwbvnufXG9Y)
+#### [Momiji's Ice Cream (touhou MMD) #shorts](https://www.youtube.com/watch?v=jSWp3XGhtZs)
+#### [Momiji's Breakfast (touhou MMD) #shorts](https://www.youtube.com/watch?v=Krq3uODcxsg)
+#### [Tengu Diet (touhou MMD)](https://www.youtube.com/watch?v=1a01cVdAoNM)
+#### [Hatate's Yoga Class (touhou MMD) #shorts](https://www.youtube.com/watch?v=tNc9mn-YIpI)
+#### [YO-Cirno-AN (touhou MMD)](https://www.youtube.com/watch?v=mZUeI-LQKco)
+#### [Extra news by Aya and Hatate (touhou MMD)](https://www.youtube.com/watch?v=jK07yEVPi1Y)
+#### [Aya's Bonus (touhou MMD) #shorts](https://www.youtube.com/watch?v=cvHpK6mQbcg)
+#### [Namaste! All together (touhou MMD)](https://www.youtube.com/watch?v=fwKSJhXqp2Q)
+#### [A Midsummer Daytime's Hot Pot (touhou MMD)](https://www.youtube.com/watch?v=zKr8edfy30o)
+#### [Draining the lake (touhou MMD)](https://www.youtube.com/watch?v=cdBNLVPh0eU)
+#### [With thanks to 10,000 (touhou MMD)](https://www.youtube.com/watch?v=gtRkM_rA40s)
+#### [Tengu's Summer Festival (touhou MMD)](https://www.youtube.com/watch?v=xI5-Q0rQ0eo)
+#### [Karaoke by Aya (touhou MMD) #shorts](https://www.youtube.com/watch?v=YahdN8BlItg)
+#### [Meirin with insomnia (touhou MMD)](https://www.youtube.com/watch?v=TE0Gm1CvcaA)
+#### [2023 Results of Popularity Polls (touhou MMD)](https://www.youtube.com/watch?v=of-DycbKnsg)
+#### [Here comes the Sanba-garasu (touhou MMD)](https://www.youtube.com/watch?v=_FFHgTg4w4s)
+#### [Crow Rangers Sanbakan (touhou MMD)](https://www.youtube.com/watch?v=IF9FsiZX0d0)
+#### [Happy New Year 2024 (touhou MMD)](https://www.youtube.com/watch?v=GAszdxFsWbw)
+#### [Reimu Hakurei sells mushrooms (touhou MMD)](https://www.youtube.com/watch?v=wqaQvUIOAQ4)
+#### [Momiji and Pigeons (touhou MMD)](https://www.youtube.com/watch?v=1YxPmPnrC3I)
+#### [Power harassment (abuse of authority) seminar in Gensoukyou (touhou MMD)](https://www.youtube.com/watch?v=JzI0foUeJYM)
+#### [Koumakan's switch (touhou MMD)](https://www.youtube.com/watch?v=iPZOdMt4y0U)
+#### [YO-Cirno-AN, again (touhou MMD)](https://www.youtube.com/watch?v=vB5gVVcHQKc)
+#### [Momiji's revenge (touhou MMD)](https://www.youtube.com/watch?v=cGCgPwmfYWU)
+#### [I'm Hatate (touhou MMD) #shorts](https://www.youtube.com/watch?v=2KiqM-awmJk)
+#### [Momiji and Dream Signs (touhou MMD)](https://www.youtube.com/watch?v=8JZ2Yv30vRc)
+#### [Nazrin's Bad Luck Day (touhou MMD)](https://www.youtube.com/watch?v=akvjTE_7Xg8)
+#### [Kouma and Tengu's Grand Banquet (touhou MMD)](https://www.youtube.com/watch?v=NpJJIUNLAko)
+#### [Namaste-san No. 7 (touhou MMD)](https://www.youtube.com/watch?v=IH0DWQLDEI0)
+#### [Beware of monster cucumbers (touhou MMD)](https://www.youtube.com/watch?v=3rss-a4JEDE)
+#### [A Scene on a Summer Day (touhou MMD)](https://www.youtube.com/watch?v=eetOA6vMgmo)
+#### [Popular Vote 2024 begins! (touhou MMD)](https://www.youtube.com/watch?v=prZLO-j0T3w)
+#### [Sequel! Beware of monster cucumbers (touhou MMD)](https://www.youtube.com/watch?v=9D5Dbt36M_4)
+#### [Oni's alcohol-free declaration (touhou MMD)](https://www.youtube.com/watch?v=TMxgOiV0vK4)
+#### [Let's take it easy (touhou MMD) #shorts](https://www.youtube.com/watch?v=QC2VxUtEgxg)
+#### [2024 Popular Vote Conclusion (touhou MMD)](https://www.youtube.com/watch?v=JU-sgMkuRLY)
+#### [Why Reimu can't catch fish (touhou MMD)](https://www.youtube.com/watch?v=w5dvBApt-dM)
+#### [Eirin Sells Dango (touhou MMD)](https://www.youtube.com/watch?v=THlT0QUaK1s)
+#### [Moon-viewing dango party (touhou MMD)](https://www.youtube.com/watch?v=vfPaZDBPGDs)
+#### [Mike & Tsukasa (touhou MMD)](https://www.youtube.com/watch?v=ErwbLFVBxnc)
+#### [Momiji & doggy "Wolf meets Dog" (touhou MMD)](https://www.youtube.com/watch?v=z3qFijqzmQQ)
+#### [Cirno Special 2024 “I am the strongest.” (touhou MMD)](https://www.youtube.com/watch?v=OpcJp9mEJ48)
+#### [Voicemail sent to Nitori (touhou MMD) #shorts](https://www.youtube.com/watch?v=7B6ut0kOtck)
+#### [Crow Rangers Sanbakan "Special edition" (touhou MMD)](https://www.youtube.com/watch?v=6GJwXARHLNA)
+#### [Fall is over, Aki sisters (touhou MMD)](https://www.youtube.com/watch?v=VzZ3oAddYYg)
+#### [Beware of solicitation flyers (touhou MMD)](https://www.youtube.com/watch?v=2zdsrX17EU8)
+#### [Touhou Hina Doll Dance (touhou MMD) #shorts](https://www.youtube.com/watch?v=eqchEjonn9M)
+#### [Momiji's Walk (touhou MMD)](https://www.youtube.com/watch?v=z2L8B7yrqgY)
+#### [Myourenji's Counterattack (touhou MMD)](https://www.youtube.com/watch?v=G6lvDO2Pbw8)
+#### [Still Meirin Sleeps (touhou MMD)](https://www.youtube.com/watch?v=z8Jh2ZXB530)
+#### [Rinnosuke-san, in big trouble! (touhou MMD)](https://www.youtube.com/watch?v=HjGUdbI9LWE)
+### 搬运
+#### [（东方MMD/中文字幕）椛椛幸福的忧郁](https://www.bilibili.com/video/BV1GC411h7GJ) 中文内嵌
+#### [（东方MMD/中文字幕）文和椛与特别的团子](https://www.bilibili.com/video/BV13J4m1a7uv) 中文内嵌
+#### [（东方MMD/中文字幕）悲报：夜雀庵的悲剧](https://www.bilibili.com/video/BV1zw4m1d7Ck) 中文内嵌
+#### [（东方MMD/中文字幕）性骚扰天狗「请你别玷污椛」](https://www.bilibili.com/video/BV1fc411b7Zs) 中文内嵌
+#### [（东方MMD／中文字幕）天狗们的钓鱼地狱](https://www.bilibili.com/video/BV1Qx4y1D7WP) 中文内嵌
+#### [【东方MMD中文内嵌】射命丸、大为苦恼](https://www.bilibili.com/video/BV1rW4y1H7Z1) 中文内嵌
+#### [【东方MMD】鸟类的圣诞节](https://www.bilibili.com/video/BV13S4y1M79u) 暂无翻译
+#### [【东方MMD】所谓圣诞节的奇迹](https://www.bilibili.com/video/BV1VD4y1c7KE) 暂无翻译
+#### [【东方MMD】椛椛长出翅膀的那一天](https://www.bilibili.com/video/BV1vL411L7D4) 暂无翻译
+#### [（东方MMD/中文字幕）文文和果果在居酒屋](https://www.bilibili.com/video/BV1jK411t7Pw) 中文内嵌
+#### [（东方MMD／中文字幕）会有点痛哦～](https://www.bilibili.com/video/BV1Tt42137Hd) 中文内嵌
+#### [【东方MMD】天狗搞的鬼](https://www.bilibili.com/video/BV1AY411G7Ck) 暂无翻译
+#### [（东方MMD/中文字幕）治疗失眠的方法](https://www.bilibili.com/video/BV1hN4y1J75B) 中文内嵌
+#### [（东方MMD/中文字幕）荷取的危险兼职](https://www.bilibili.com/video/BV1q2421P73w) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛平凡的一天](https://www.bilibili.com/video/BV1mm421j7v7) 中文内嵌
+#### [（东方MMD/中文字幕）请注意天狗的秘宝](https://www.bilibili.com/video/BV1oi421C71E) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛到处乱咬人](https://www.bilibili.com/video/BV1ST4y1H74i) 中文内嵌
+#### [（东方MMD/中文字幕）天狗组与若鹭姬](https://www.bilibili.com/video/BV1Lc41147b4) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛今天感冒了](https://www.bilibili.com/video/BV1Gg4y1r719) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛满腹牢骚](https://www.bilibili.com/video/BV1Rw411E7Rj) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛大危机](https://www.bilibili.com/video/BV1jr421s7Ti) 中文内嵌
+#### [（东方MMD/中文字幕）文文和椛椛的夏日回忆](https://www.bilibili.com/video/BV1RC4y1S7oe) 中文内嵌
+#### [（东方MMD/中文字幕）果果有很重要的事想说](https://www.bilibili.com/video/BV1dM4m197BT) 中文内嵌
+#### [【东方MMD中文内嵌】射命丸文，心之所念，记者之魂](https://www.bilibili.com/video/BV1He4y1J7CY) 中文内嵌
+#### [【东方MMD中文内嵌】椛椛所寻之物](https://www.bilibili.com/video/BV1SG4y1c7qU) 中文内嵌
+#### [【东方MMD中文内嵌】MyonMyon呜—☆](https://www.bilibili.com/video/BV14G4y1D7XQ) 中文内嵌
+#### [【东方MMD中文内嵌】射命丸文2号，堂堂登场](https://www.bilibili.com/video/BV1Jd4y1h7Kx) 中文内嵌
+#### [（东方MMD/中文字幕）新年被炉旁的天狗们](https://www.bilibili.com/video/BV1hN4y1x7FE) 中文内嵌
+#### [（东方MMD/中文字幕）MyonMyon呜—☆体操](https://www.bilibili.com/video/BV1VH4y1N7uo) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛的肉球](https://www.bilibili.com/video/BV15j411W7Yn) 中文内嵌
+#### [【东方MMD中文内嵌】文椛组在情人节](https://www.bilibili.com/video/BV1FT411Y7vM) 中文内嵌
+#### [（东方MMD）乌龙橙~](https://www.bilibili.com/video/BV1gp42127a3) 中文内嵌
+#### [（东方MMD/中文字幕）犬走刑事](https://www.bilibili.com/video/BV1uc411o7Xi) 中文内嵌
+#### [【东方MMD中文内嵌】永琳的地摊推销](https://www.bilibili.com/video/BV1s14y1Q7iT) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛吃冰淇淋](https://www.bilibili.com/video/BV1VW4y1F7wd) 中文内嵌
+#### [（东方MMD/中文字幕）减肥天狗](https://www.bilibili.com/video/BV1Cj421Q7Ex) 中文内嵌
+#### [（东方MMD/中文字幕）琪露诺的居⑨屋](https://www.bilibili.com/video/BV1dC4y1r78u) 中文内嵌
+#### [【東方MMD】文文似乎在捉弄果果](https://www.bilibili.com/video/BV1Ej411X7FS) 暂无翻译
+#### [（东方MMD/中文字幕）文文的奖金](https://www.bilibili.com/video/BV1ZE421g73p) 中文内嵌
+#### [（东方MMD/中文字幕）三伏天的火锅](https://www.bilibili.com/video/BV1ex4y1s7Ka) 中文内嵌
+#### [（东方MMD/中文字幕）湖水全都被…](https://www.bilibili.com/video/BV13i421S7G2) 中文内嵌
+#### [（东方MMD/中文字幕） 红美铃睡不着](https://www.bilibili.com/video/BV1Ba4y187ic) 中文内嵌
+#### [【东方MMD】2023结果发布！【MMD紙芝居】](https://www.bilibili.com/video/BV1LC4y1Z7M6) 暂无翻译
+#### [（东方MMD/中文字幕）三羽乌，参上！](https://www.bilibili.com/video/BV14i4y167cY) 中文内嵌
+#### [（东方MMD/中文字幕）鸦战队太阳羽神](https://www.bilibili.com/video/BV1mUiBYnEW5) 中文内嵌
+#### [（东方MMD/中文字幕）2024新年快乐](https://www.bilibili.com/video/BV1he411U7wv) 中文内嵌
+#### [（东方MMD/中文字幕） 博丽灵梦卖蘑菇](https://www.bilibili.com/video/BV1mZ421U7Ez) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛和咕咕](https://www.bilibili.com/video/BV1Ej421X7q6) 中文内嵌
+#### [（东方MMD／中文字幕）职权骚扰讲座 in 幻想乡](https://www.bilibili.com/video/BV1jx4y1D7WF) 中文内嵌
+#### [（东方MMD/中文字幕）红魔馆的按钮](https://www.bilibili.com/video/BV1Rv421r7Mu) 中文内嵌
+#### [（东方MMD/中文字幕）居⑨屋，再营业](https://www.bilibili.com/video/BV1Wf421o7r2) 中文内嵌
+#### [［东方mmd中文内嵌］椛椛的报复](https://www.bilibili.com/video/BV1KC411n7j1) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛与梦中人](https://www.bilibili.com/video/BV1vZ421g71t) 中文内嵌
+#### [（东方MMD/中文字幕）纳兹琳多灾多难的一天](https://www.bilibili.com/video/BV1az421z71H) 中文内嵌
+#### [（东方MMD/中文字幕）红魔与天狗的盛宴](https://www.bilibili.com/video/BV1Qr421T7Xt) 中文内嵌
+#### [（东方MMD/中文字幕）瑜伽先生7号](https://www.bilibili.com/video/BV1M5ezeiEjG) 中文内嵌
+#### [（东方MMD/中文字幕）小心大黄瓜](https://www.bilibili.com/video/BV1xsYveJEqd) 中文内嵌
+#### [（东方MMD/中文字幕）盛夏的日常](https://www.bilibili.com/video/BV1yDegeEEHF) 中文内嵌
+#### [【东方MMD/中字】2024人气投票！](https://www.bilibili.com/video/BV1oYYJedEtx) 中文内嵌
+#### [（东方MMD/中文字幕）小心大黄瓜·续](https://www.bilibili.com/video/BV1QPWDe1En2) 中文内嵌
+#### [（东方MMD/中文字幕）鬼的禁酒宣言](https://www.bilibili.com/video/BV1EdsxeZEqU) 中文内嵌
+#### [（东方MMD／中文字幕）2024人气投票落下帷幕](https://www.bilibili.com/video/BV1bGHSeeE7z) 中文内嵌
+#### [（东方MMD/中文字幕）灵梦钓不到鱼的理由](https://www.bilibili.com/video/BV1Yj4oekECj) 中文内嵌
+#### [（东方MMD/中文字幕）永琳的团子](https://www.bilibili.com/video/BV1kj2mY8EUN) 中文内嵌
+#### [（东方MMD/中文字幕）月见团子派对](https://www.bilibili.com/video/BV1wPySY8E8Z) 中文内嵌
+#### [（东方MMD/中文字幕）三花与典](https://www.bilibili.com/video/BV1mcBqYHE4B) 中文内嵌
+#### [（东方MMD/中文字幕）椛椛与汪汪](https://www.bilibili.com/video/BV1DMz6YTEYZ) 中文内嵌
+#### [（东方MMD/中文字幕）鸦战队太阳羽神「特别篇」](https://www.bilibili.com/video/BV1QhcRePEwL) 中文内嵌
+#### [（东方MMD/中文字幕）秋季没了的秋姐妹](https://www.bilibili.com/video/BV1X39GYaEe1) 中文内嵌
+#### [【东方MMD/中字】当心糖衣炮弹](https://www.bilibili.com/video/BV1WT5BzAEU2) 中文内嵌
+#### [【东方MMD/中字】椛的春日行](https://www.bilibili.com/video/BV1dadDY7Edf) 中文内嵌
+#### [【东方MMD/中字】逆转吧！命莲寺！](https://www.bilibili.com/video/BV1PsLaznE8H) 中文内嵌
+#### [【东方MMD/中字】即便如此，美铃依旧长眠](https://www.bilibili.com/video/BV1Y8Lcz1ENS) 中文内嵌
+#### [【东方MMD/中字】霖之助！大危机！](https://www.bilibili.com/video/BV1Yp7CzME4D) 中文内嵌
+---
 ## 【東方MMD】飯綱丸様、暴走シリーズ
 ### 原视频
 #### [Iizunamaru-sama, Rampage (touhou MMD)](https://www.youtube.com/watch?v=WOZ2TxHIQGU)
@@ -253,6 +423,7 @@
 #### [（东方MMD/中文字幕）五大老的一天 5](https://www.bilibili.com/video/BV1KDf5YGEJT) 中文内嵌
 #### [（东方MMD/中文字幕）五大老的一天 6](https://www.bilibili.com/video/BV15Y9mYNEEd) 中文内嵌
 #### [（东方MMD/中文内嵌）五大老的一天 7](https://www.bilibili.com/video/BV1bzLvzqEcD) 中文内嵌
+#### [【东方MMD/中字】五大老的一天 8](https://www.bilibili.com/video/BV1mV5czYEHh) 中文内嵌
 ---
 ## 【東方MMD】幻想郷「仕事シリーズ」【ＭＭＤ紙芝居】
 ### 原视频
