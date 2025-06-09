@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-06-08
+date: 2025-06-09
 permalink: /mmd/
 ---
 ---
@@ -564,6 +564,7 @@ permalink: /mmd/
 #### [［东方mmd］BaKa军团的儿童节](https://www.bilibili.com/video/BV1pr421E7dP) 中文内嵌
 #### [（东方MMD/中文字幕）Baka军团的避难演习](https://www.bilibili.com/video/BV17TSdYnEe3) 中文内嵌
 #### [【东方MMD/中字】BAKA军团的班级报纸](https://www.bilibili.com/video/BV1zvjSz8E5V) 中文内嵌
+#### [【东方MMD/中字】BAKA军团的突击考试](https://www.bilibili.com/video/BV13HTXzeEPj) 中文内嵌
 ---
 ## 【東方MMD】レミリアのプリン（魔理沙シリーズ）
 ### 原视频
