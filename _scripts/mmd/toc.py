@@ -73,6 +73,6 @@ def generate_toc(md_file, output_file):
 
 
 # 使用示例
-md_input = "D:/Repos/random-2hu-stuff/_mmd/mmd.md"
+md_input = "~/repo/random-2hu-stuff/_mmd/mmd.md"
 md_output = "toc.md"  # 生成带 TOC 的新文件
 generate_toc(md_input, md_output)

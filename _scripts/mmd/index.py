@@ -1,9 +1,10 @@
-from bs4 import BeautifulSoup
 import json
 import os
 
+from bs4 import BeautifulSoup
+
 # 设置 HTML 文件路径
-path = "D:/Repos/random-2hu-stuff/_site/mmd/index.html"
+path = "/home/howl/repo/random-2hu-stuff/_site/mmd/index.html"
 
 # 读取 HTML 文件
 with open(path, "r", encoding="utf-8") as file:
@@ -32,7 +33,7 @@ for tag in soup.find_all(["h1", "h2", "h3", "h4", "h5"]):
     index_data.append({"id": id_attr, "title": title, "content": content})
 
 # 输出 JSON 文件路径
-json_path = "D:/Repos/random-2hu-stuff/_scripts/mmd/index.json"
+json_path = "/home/howl/repo/random-2hu-stuff/_scripts/mmd/index.json"
 
 # 确保输出目录存在
 os.makedirs(os.path.dirname(json_path), exist_ok=True)
