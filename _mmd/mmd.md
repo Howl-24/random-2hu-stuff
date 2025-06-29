@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-06-28
+date: 2025-06-29
 permalink: /mmd/
 ---
 
@@ -1078,6 +1078,8 @@ permalink: /mmd/
 #### [［东方mmd］BaKa军团的儿童节](https://www.bilibili.com/video/BV1pr421E7dP) 中文内嵌
 
 #### [（东方MMD/中文字幕）Baka军团的避难演习](https://www.bilibili.com/video/BV17TSdYnEe3) 中文内嵌
+
+#### [（东方MMD/中文内嵌）BAKA军团过雏祭](https://www.bilibili.com/video/BV1GPK6zeE4i) 中文内嵌
 
 #### [【东方MMD/中字】BAKA军团的班级报纸](https://www.bilibili.com/video/BV1zvjSz8E5V) 中文内嵌
 

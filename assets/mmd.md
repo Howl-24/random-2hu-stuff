@@ -1061,6 +1061,8 @@
 
 #### [（东方MMD/中文字幕）Baka军团的避难演习](https://www.bilibili.com/video/BV17TSdYnEe3) 中文内嵌
 
+#### [（东方MMD/中文内嵌）BAKA军团过雏祭](https://www.bilibili.com/video/BV1GPK6zeE4i) 中文内嵌
+
 #### [【东方MMD/中字】BAKA军团的班级报纸](https://www.bilibili.com/video/BV1zvjSz8E5V) 中文内嵌
 
 #### [【东方MMD/中字】BAKA军团的突击考试](https://www.bilibili.com/video/BV13HTXzeEPj) 中文内嵌

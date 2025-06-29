@@ -3,6 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .bundle
+.venv
+.direnv
+.envrc
+shell.nix
 vendor
 Gemfile.lock
 
