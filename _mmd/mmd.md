@@ -1,7 +1,7 @@
 ---
 layout: mmd
 title: MMD
-date: 2025-06-29
+date: 2025-07-12
 permalink: /mmd/
 ---
 
@@ -1249,7 +1249,7 @@ permalink: /mmd/
 
 #### [【东方MMD】侵略者妖梦【中字内嵌】](https://www.bilibili.com/video/BV1Yj411u7UQ) 中文内嵌
 
-#### [#23【東方MMD】想要成長的魔理沙](https://www.bilibili.com/video/BV1JV4y1H74Z) 暂无翻译
+#### [【东方MMD/转载汉化】 【TNT】 #23 平板魔理沙不想再做飞机场了](https://www.bilibili.com/video/BV1bMuVzoELB) 中文内嵌
 
 #### [【东方MMD】芙兰的分身会议【中字内嵌】](https://www.bilibili.com/video/BV1fW4y187rg) 中文内嵌
 
