@@ -459,6 +459,8 @@
 
 #### [Rinnosuke-san, in big trouble! (touhou MMD)](https://www.youtube.com/watch?v=HjGUdbI9LWE)
 
+#### [How to use cucumbers (touhou MMD)](https://www.youtube.com/watch?v=ieA1tdb34wc)
+
 ### 搬运
 
 #### [（东方MMD/中文字幕）椛椛幸福的忧郁](https://www.bilibili.com/video/BV1GC411h7GJ) 中文内嵌
@@ -608,6 +610,8 @@
 #### [【东方MMD/中字】即便如此，美铃依旧长眠](https://www.bilibili.com/video/BV1Y8Lcz1ENS) 中文内嵌
 
 #### [【东方MMD/中字】霖之助！大危机！](https://www.bilibili.com/video/BV1Yp7CzME4D) 中文内嵌
+
+#### [东方MMD【中文内嵌】黄瓜的使用方法](https://www.bilibili.com/video/BV1UyuRz5Evy) 中文内嵌
 
 ---
 
